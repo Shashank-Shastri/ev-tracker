@@ -1,0 +1,11 @@
+{
+  "latitude": 17.75,
+  "longitude": 83.35,
+  "timestamp": "2026-03-07T15:30:00Z",
+  "speed": 62,
+  "soc": 54,
+  "odometer": 86515,
+  "status": "driving",
+  "heading": 45,
+  "address": "Vizag, AP"
+}

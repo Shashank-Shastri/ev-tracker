@@ -1,0 +1,4832 @@
+[
+  {
+    "id": 1733459400000,
+    "timestamp": "2025-12-06T01:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 78305,
+          "pct": 100,
+          "location": "Ulwe, Navi Mumbai",
+          "coordinates": {
+            "lat": 18.9734,
+            "lon": 73.0243
+          }
+        },
+        "end": {
+          "odo": 78422,
+          "pct": 25,
+          "location": "Pune",
+          "coordinates": {
+            "lat": 18.641917,
+            "lon": 73.757706
+          }
+        },
+        "stats": {
+          "dist": 117,
+          "usedPct": 75,
+          "usedKwh": 21.75,
+          "whPerKm": 185.9,
+          "projRange": 156.0
+        }
+      },
+      {
+        "start": {
+          "odo": 78422,
+          "pct": 100,
+          "location": "Pune",
+          "coordinates": {
+            "lat": 18.641917,
+            "lon": 73.757706
+          }
+        },
+        "end": {
+          "odo": 78558,
+          "pct": 28,
+          "location": "Phaltan",
+          "coordinates": {
+            "lat": 18.231353,
+            "lon": 74.7727
+          }
+        },
+        "stats": {
+          "dist": 136,
+          "usedPct": 72,
+          "usedKwh": 20.88,
+          "whPerKm": 153.6,
+          "projRange": 188.8
+        }
+      },
+      {
+        "start": {
+          "odo": 78558,
+          "pct": 90,
+          "location": "Phaltan",
+          "coordinates": {
+            "lat": 18.231431,
+            "lon": 74.772681
+          }
+        },
+        "end": {
+          "odo": 78713,
+          "pct": 28,
+          "location": "FC - Tata Power - Hotel Woodlands",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 155,
+          "usedPct": 62,
+          "usedKwh": 17.98,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 78713,
+          "pct": 100,
+          "location": "Phaltan",
+          "coordinates": {
+            "lat": 18.231431,
+            "lon": 74.772681
+          }
+        },
+        "end": {
+          "odo": 78885,
+          "pct": 31,
+          "location": "BESCOM Regional Office Hoskote",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 172,
+          "usedPct": 69,
+          "usedKwh": 20.01,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        }
+      },
+      {
+        "start": {
+          "odo": 78885,
+          "pct": 39,
+          "location": "Phaltan",
+          "coordinates": {
+            "lat": 18.231431,
+            "lon": 74.772681
+          }
+        },
+        "end": {
+          "odo": 78892,
+          "pct": 36,
+          "location": "Nexus Whitefield Mall (3)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 7,
+          "usedPct": 3,
+          "usedKwh": 0.87,
+          "whPerKm": 124.2,
+          "projRange": 233.5
+        }
+      },
+      {
+        "start": {
+          "odo": 78892,
+          "pct": 90,
+          "location": "Phaltan",
+          "coordinates": {
+            "lat": 18.231431,
+            "lon": 74.772681
+          }
+        },
+        "end": {
+          "odo": 79067,
+          "pct": 20,
+          "location": "FC - Tata Power - Mango Restaurant(30 kW)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 175,
+          "usedPct": 70,
+          "usedKwh": 20.3,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79067,
+          "pct": 92,
+          "location": "FC - Tata Power - Mango Restaurant(30 kW)",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 78988,
+          "pct": 56,
+          "location": "Hospet (Hampi)",
+          "coordinates": {
+            "lat": 15.638808,
+            "lon": 76.220406
+          }
+        },
+        "stats": {
+          "dist": 0,
+          "usedPct": 36,
+          "usedKwh": 0,
+          "whPerKm": null,
+          "projRange": null
+        }
+      },
+      {
+        "start": {
+          "odo": 78988,
+          "pct": 56,
+          "location": "Hospet (Hampi)",
+          "coordinates": {
+            "lat": 15.638808,
+            "lon": 76.220406
+          }
+        },
+        "end": {
+          "odo": 78993,
+          "pct": 54,
+          "location": "BPCL Hasanamba-60kw",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 5,
+          "usedPct": 2,
+          "usedKwh": 0.58,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 78988,
+          "pct": 90,
+          "location": "Hospet (Hampi)",
+          "coordinates": {
+            "lat": 15.638797,
+            "lon": 76.220408
+          }
+        },
+        "end": {
+          "odo": 79168,
+          "pct": 18,
+          "location": "FC Tata Power - Hotel Nallur(25 kW)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 180,
+          "usedPct": 72,
+          "usedKwh": 20.88,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79120,
+          "pct": 94,
+          "location": "Bellary",
+          "coordinates": {
+            "lat": 14.621492,
+            "lon": 76.459389
+          }
+        },
+        "end": {
+          "odo": 79202,
+          "pct": 61,
+          "location": "Tata Power Ev Charging Station  Chikballapur(25kW)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 82,
+          "usedPct": 33,
+          "usedKwh": 9.57,
+          "whPerKm": 116.7,
+          "projRange": 248.5
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79183,
+          "pct": 100,
+          "location": "Chitradurga",
+          "coordinates": {
+            "lat": 14.170689,
+            "lon": 76.472231
+          }
+        },
+        "end": {
+          "odo": 79254,
+          "pct": 66,
+          "location": "Davangere",
+          "coordinates": {
+            "lat": 13.754186,
+            "lon": 76.881714
+          }
+        },
+        "stats": {
+          "dist": 71,
+          "usedPct": 34,
+          "usedKwh": 9.86,
+          "whPerKm": 138.9,
+          "projRange": 208.8
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79254,
+          "pct": 100,
+          "location": "Davangere",
+          "coordinates": {
+            "lat": 13.75435,
+            "lon": 76.882664
+          }
+        },
+        "end": {
+          "odo": 79386,
+          "pct": 24,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.905494,
+            "lon": 77.473772
+          }
+        },
+        "stats": {
+          "dist": 132,
+          "usedPct": 76,
+          "usedKwh": 22.04,
+          "whPerKm": 166.9,
+          "projRange": 173.8
+        }
+      },
+      {
+        "start": {
+          "odo": 79386,
+          "pct": 41,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.905517,
+            "lon": 77.473764
+          }
+        },
+        "end": {
+          "odo": 79400,
+          "pct": 31,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.900353,
+            "lon": 77.543983
+          }
+        },
+        "stats": {
+          "dist": 14,
+          "usedPct": 10,
+          "usedKwh": 2.9,
+          "whPerKm": 207.0,
+          "projRange": 140.1
+        }
+      },
+      {
+        "start": {
+          "odo": 79400,
+          "pct": 31,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.900353,
+            "lon": 77.543983
+          }
+        },
+        "end": {
+          "odo": 79402,
+          "pct": 30,
+          "location": "Grape County Resort",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 2,
+          "usedPct": 1,
+          "usedKwh": 0.29,
+          "whPerKm": 144.9,
+          "projRange": 200.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79401,
+          "pct": 100,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.900219,
+            "lon": 77.543867
+          }
+        },
+        "end": {
+          "odo": 79462,
+          "pct": 61,
+          "location": "Bangalore South",
+          "coordinates": {
+            "lat": 12.858639,
+            "lon": 77.526267
+          }
+        },
+        "stats": {
+          "dist": 61,
+          "usedPct": 39,
+          "usedKwh": 11.31,
+          "whPerKm": 185.5,
+          "projRange": 156.3
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79462,
+          "pct": 79,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.887639,
+            "lon": 77.562308
+          }
+        },
+        "end": {
+          "odo": 79509,
+          "pct": 60,
+          "location": "Indian oil",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 47,
+          "usedPct": 19,
+          "usedKwh": 5.51,
+          "whPerKm": 117.2,
+          "projRange": 247.4
+        }
+      },
+      {
+        "start": {
+          "odo": 79509,
+          "pct": 100,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.887639,
+            "lon": 77.562308
+          }
+        },
+        "end": {
+          "odo": 79689,
+          "pct": 28,
+          "location": "JW Marriott Bengaluru Prestige Golfshire Resort & Spa",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 180,
+          "usedPct": 72,
+          "usedKwh": 20.88,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79619,
+          "pct": 86,
+          "location": "Channapatna",
+          "coordinates": {
+            "lat": 12.970178,
+            "lon": 76.801394
+          }
+        },
+        "end": {
+          "odo": 79766,
+          "pct": 27,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 147,
+          "usedPct": 59,
+          "usedKwh": 17.11,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79766,
+          "pct": 100,
+          "location": "Channapatna",
+          "coordinates": {
+            "lat": 12.970178,
+            "lon": 76.801394
+          }
+        },
+        "end": {
+          "odo": 79958,
+          "pct": 23,
+          "location": "Tata Power Ev Charging Station  Chikballapur(25kW)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 192,
+          "usedPct": 77,
+          "usedKwh": 22.33,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79846,
+          "pct": 97,
+          "location": "Ramanagara",
+          "coordinates": {
+            "lat": 12.995072,
+            "lon": 76.899628
+          }
+        },
+        "end": {
+          "odo": 79950,
+          "pct": 40,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.899975,
+            "lon": 77.543256
+          }
+        },
+        "stats": {
+          "dist": 104,
+          "usedPct": 57,
+          "usedKwh": 16.53,
+          "whPerKm": 159.0,
+          "projRange": 182.4
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79950,
+          "pct": 40,
+          "location": "Bangalore",
+          "coordinates": {
+            "lat": 12.899975,
+            "lon": 77.543256
+          }
+        },
+        "end": {
+          "odo": 79980,
+          "pct": 28,
+          "location": "Bescom HSR Layout-EV Mithra(25kw)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 30,
+          "usedPct": 12,
+          "usedKwh": 3.48,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 79968,
+          "pct": 95,
+          "location": "Bangalore East",
+          "coordinates": {
+            "lat": 12.927644,
+            "lon": 77.633108
+          }
+        },
+        "end": {
+          "odo": 80052,
+          "pct": 40,
+          "location": "Devanahalli",
+          "coordinates": {
+            "lat": 13.308433,
+            "lon": 77.690417
+          }
+        },
+        "stats": {
+          "dist": 84,
+          "usedPct": 55,
+          "usedKwh": 15.95,
+          "whPerKm": 189.8,
+          "projRange": 152.8
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 80052,
+          "pct": 70,
+          "location": "Devanahalli",
+          "coordinates": {
+            "lat": 13.308433,
+            "lon": 77.690417
+          }
+        },
+        "end": {
+          "odo": 80134,
+          "pct": 37,
+          "location": "Ginger Hotel",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 82,
+          "usedPct": 33,
+          "usedKwh": 9.57,
+          "whPerKm": 116.7,
+          "projRange": 248.5
+        }
+      },
+      {
+        "start": {
+          "odo": 80134,
+          "pct": 100,
+          "location": "Devanahalli",
+          "coordinates": {
+            "lat": 13.308433,
+            "lon": 77.690417
+          }
+        },
+        "end": {
+          "odo": 80299,
+          "pct": 34,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 165,
+          "usedPct": 66,
+          "usedKwh": 19.14,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 25,
+        "pctAfter": 100,
+        "kwhAdded": 21.75,
+        "chargeType": "fast",
+        "location": "Bharat Petroleum, Petrol Pump -Shubham Petroleum",
+        "duration": "1h 11m",
+        "odo": 78422,
+        "time": "2025-12-06T09:21:56.428000",
+        "address": "BHIGWAN,DIST PUNE, PUNE, Maharashtra 413130",
+        "plugshare_id": "563591",
+        "coordinates": {
+          "lat": 18.29,
+          "lon": 74.76
+        }
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 60,
+        "kwhAdded": 9.28,
+        "chargeType": "fast",
+        "location": "BPCL Bhigwan",
+        "duration": "24m",
+        "odo": 78558,
+        "time": "2025-12-06T13:30:56.408000",
+        "address": "Bhigwan Daund Rd, Malegaon Thadi, Maharashtra 412214, India",
+        "plugshare_id": "1050877",
+        "coordinates": {
+          "lat": 18.3,
+          "lon": 74.75
+        }
+      },
+      {
+        "pctBefore": 60,
+        "pctAfter": 90,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "location": "StatEV Hampi Bazaar (30kw CCS2)",
+        "duration": "24m",
+        "odo": 78558,
+        "time": "2025-12-06T14:05:51.424000",
+        "address": "M2VF+MGX, Hampi, Karnataka 583239, India",
+        "plugshare_id": "908458",
+        "coordinates": {
+          "lat": 15.33,
+          "lon": 76.46
+        }
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 31,
+        "kwhAdded": 0.87,
+        "chargeType": "fast",
+        "location": "FC - Tata Power - Hotel Woodlands",
+        "duration": "3m",
+        "odo": 78713,
+        "time": "2025-12-06T17:06:51.408000",
+        "address": "5, NH 44, Hanchinal Nagar, Bellary City, Ballari, Karnataka 583101, India",
+        "plugshare_id": "567696",
+        "coordinates": {
+          "lat": 15.14,
+          "lon": 76.92
+        }
+      },
+      {
+        "pctBefore": 31,
+        "pctAfter": 33,
+        "kwhAdded": 0.58,
+        "chargeType": "fast",
+        "location": "120KW BPCL eDrive Shivaji Y Tungar Petroleum Trimbak",
+        "duration": "2m",
+        "odo": 78713,
+        "time": "2025-12-06T17:12:51.455000",
+        "address": "WGQR+P23, Trimbak, Maharashtra 422212, India",
+        "plugshare_id": "1460421",
+        "coordinates": {
+          "lat": 19.93,
+          "lon": 73.53
+        }
+      },
+      {
+        "pctBefore": 33,
+        "pctAfter": 71,
+        "kwhAdded": 11.02,
+        "chargeType": "fast",
+        "location": "Jio BP Station Grape County Nashik",
+        "duration": "29m",
+        "odo": 78713,
+        "time": "2025-12-06T17:15:51.414000",
+        "address": "XJ57+CR9, Trimbakeshwar Rd, Maharashtra 422213, India",
+        "plugshare_id": "627020",
+        "coordinates": {
+          "lat": 19.93,
+          "lon": 73.53
+        }
+      },
+      {
+        "pctBefore": 71,
+        "pctAfter": 100,
+        "kwhAdded": 8.41,
+        "chargeType": "fast",
+        "location": "NEXUS CHARGING STATION 30kW",
+        "duration": "39m",
+        "odo": 78713,
+        "time": "2025-12-06T17:49:51.605000",
+        "address": "XJ7W+5W2, NH848, Dudgaon, Maharashtra 422213, India anand resort main gate At/post Mahirawani trambak road near sandip foundation Nashik 422212",
+        "plugshare_id": "606112",
+        "coordinates": {
+          "lat": 19.93,
+          "lon": 73.56
+        }
+      },
+      {
+        "pctBefore": 31,
+        "pctAfter": 39,
+        "kwhAdded": 2.32,
+        "chargeType": "fast",
+        "location": "BESCOM Regional Office Hoskote",
+        "duration": "6m",
+        "odo": 78885,
+        "time": "2025-12-06T20:21:51.424000",
+        "address": "49W7+RF4, SH 35, Kolathur, Karnataka 562114, India",
+        "plugshare_id": "805702",
+        "coordinates": {
+          "lat": 13.07,
+          "lon": 77.8
+        }
+      },
+      {
+        "pctBefore": 36,
+        "pctAfter": 90,
+        "kwhAdded": 15.66,
+        "chargeType": "fast",
+        "location": "Nexus Whitefield Mall (3)",
+        "duration": "44m",
+        "odo": 78892,
+        "time": "2025-12-06T22:14:27.011000",
+        "address": "M66Q+Q96, ITPL Main Rd, AECS Layout - A Block, AECS Layout, Brookefield, Bengaluru, Karnataka 560037, India",
+        "plugshare_id": "531913",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.75
+        }
+      },
+      {
+        "pctBefore": 20,
+        "pctAfter": 92,
+        "kwhAdded": 20.88,
+        "chargeType": "fast",
+        "location": "FC - Tata Power - Mango Restaurant(30 kW)",
+        "duration": "53m",
+        "odo": 79067,
+        "time": "2025-12-07T08:17:00.850000",
+        "address": "Next to HP Petrol pump, NH 48, Near Davangere, Nittur, Karnataka 577004, India",
+        "plugshare_id": "571754",
+        "coordinates": {
+          "lat": 14.47,
+          "lon": 75.92
+        }
+      },
+      {
+        "pctBefore": 54,
+        "pctAfter": 90,
+        "kwhAdded": 10.44,
+        "chargeType": "fast",
+        "location": "BPCL Hasanamba-60kw",
+        "duration": "28m",
+        "odo": 78993,
+        "time": "2025-12-07T11:45:58.390000",
+        "address": "P244+MCQ, Vijayanagar Nagar, Chitradurga, Karnataka 577501, India",
+        "plugshare_id": "694802",
+        "coordinates": {
+          "lat": 13.01,
+          "lon": 76.1
+        }
+      },
+      {
+        "pctBefore": 18,
+        "pctAfter": 94,
+        "kwhAdded": 22.04,
+        "chargeType": "fast",
+        "location": "FC Tata Power - Hotel Nallur(25 kW)",
+        "duration": "1h 0m",
+        "odo": 79168,
+        "time": "2025-12-07T14:26:58.289000",
+        "address": "Jn, NH44, Chitradurga, Karnataka 577501, India",
+        "plugshare_id": "571753",
+        "coordinates": {
+          "lat": 14.23,
+          "lon": 76.4
+        }
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 100,
+        "kwhAdded": 11.31,
+        "chargeType": "fast",
+        "location": "Tata Power Ev Charging Station  Chikballapur(25kW)",
+        "duration": "47m",
+        "odo": 79202,
+        "time": "2025-12-07T16:24:51.536000",
+        "address": "7PH6+JCQ, B.B. Road, Chikkaballapur, Karnataka 562101, India",
+        "plugshare_id": "567826",
+        "coordinates": {
+          "lat": 13.43,
+          "lon": 77.73
+        }
+      },
+      {
+        "pctBefore": 66,
+        "pctAfter": 100,
+        "kwhAdded": 9.86,
+        "chargeType": "fast",
+        "location": "BESCOM, Division Office",
+        "duration": "36m",
+        "odo": 79254,
+        "time": "2025-12-07T18:16:51.733000",
+        "address": "CPQJ+9W2, BB Rd, KEB Colony, Chikkaballapur, Karnataka 562101, India",
+        "plugshare_id": "730288",
+        "coordinates": {
+          "lat": 13.43,
+          "lon": 77.73
+        }
+      },
+      {
+        "pctBefore": 24,
+        "pctAfter": 41,
+        "kwhAdded": 4.93,
+        "chargeType": "fast",
+        "location": "BESCOM EV Charging Station",
+        "duration": "12m",
+        "odo": 79386,
+        "time": "2025-12-07T22:15:51.525000",
+        "address": "P8JJ+RVC, 1st A Main Rd, Nanjappa Garden, Rajpalya, Bengaluru, Karnataka 560038, India",
+        "plugshare_id": "979661",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.59
+        }
+      },
+      {
+        "pctBefore": 30,
+        "pctAfter": 100,
+        "kwhAdded": 20.3,
+        "chargeType": "slow",
+        "location": "Grape County Resort",
+        "duration": "10h 44m",
+        "odo": 79402,
+        "time": "2025-12-09T21:47:49.691000",
+        "address": "Nashik Trimbakeshwar Highway  XJ67+FV, Khambale, Maharashtra 422213, India",
+        "plugshare_id": "596866",
+        "coordinates": {
+          "lat": 19.93,
+          "lon": 73.53
+        }
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 79,
+        "kwhAdded": 5.22,
+        "chargeType": "slow",
+        "location": "The Altruist Business Hotel Whitefield",
+        "duration": "1h 38m",
+        "odo": 79462,
+        "time": "2025-12-10T20:03:20.429000",
+        "address": "KIADB Export Promotion Industrial Area, Whitefield, Bangalore, Karnataka 560066, India",
+        "plugshare_id": "589602",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.75
+        }
+      },
+      {
+        "pctBefore": 60,
+        "pctAfter": 100,
+        "kwhAdded": 11.6,
+        "chargeType": "slow",
+        "location": "Indian oil",
+        "duration": "4h 58m",
+        "odo": 79509,
+        "time": "2025-12-11T14:51:52.674000",
+        "address": "QF7W+VJ7, Purnia Bypass Rd, Madhopara, Purnia, Bihar 854302, India",
+        "plugshare_id": "741529",
+        "coordinates": {
+          "lat": 25.78,
+          "lon": 87.47
+        }
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 86,
+        "kwhAdded": 16.82,
+        "chargeType": "fast",
+        "location": "JW Marriott Bengaluru Prestige Golfshire Resort & Spa",
+        "duration": "43m",
+        "odo": 79689,
+        "time": "2025-12-12T14:08:58.679000",
+        "address": "Nandi Hills Road Karahalli Post, Kundana Hobli, Taluk, Devanahalli, Bengaluru, Karnataka 562164, India",
+        "plugshare_id": "407045",
+        "coordinates": {
+          "lat": 13.25,
+          "lon": 77.71
+        }
+      },
+      {
+        "pctBefore": 27,
+        "pctAfter": 97,
+        "kwhAdded": 20.3,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "9h 1m",
+        "odo": 79766,
+        "time": "2025-12-12T21:15:27.952000"
+      },
+      {
+        "pctBefore": 97,
+        "pctAfter": 100,
+        "kwhAdded": 0.87,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "30m",
+        "odo": 79766,
+        "time": "2025-12-13T06:18:27.793000"
+      },
+      {
+        "pctBefore": 23,
+        "pctAfter": 97,
+        "kwhAdded": 21.46,
+        "chargeType": "fast",
+        "location": "Tata Power Ev Charging Station  Chikballapur(25kW)",
+        "duration": "59m",
+        "odo": 79958,
+        "time": "2025-12-13T13:39:24.664000",
+        "address": "7PH6+JCQ, B.B. Road, Chikkaballapur, Karnataka 562101, India",
+        "plugshare_id": "567826",
+        "coordinates": {
+          "lat": 13.43,
+          "lon": 77.73
+        }
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 95,
+        "kwhAdded": 19.43,
+        "chargeType": "fast",
+        "location": "Bescom HSR Layout-EV Mithra(25kw)",
+        "duration": "56m",
+        "odo": 79980,
+        "time": "2025-12-14T15:56:25.771000",
+        "address": "164, Parangi Palaya, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "plugshare_id": "312187",
+        "coordinates": {
+          "lat": 12.91,
+          "lon": 77.64
+        }
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 70,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "location": "BESCOM Office",
+        "duration": "23m",
+        "odo": 80052,
+        "time": "2025-12-15T15:21:31.017000",
+        "address": "137/1, next to New KEB, Gauribidanur, Karnataka 561208, India",
+        "plugshare_id": "735829",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.59
+        }
+      },
+      {
+        "pctBefore": 37,
+        "pctAfter": 100,
+        "kwhAdded": 18.27,
+        "chargeType": "fast",
+        "location": "Ginger Hotel",
+        "duration": "1h 7m",
+        "odo": 80134,
+        "time": "2025-12-16T09:59:53.673000",
+        "address": "Subharam Chambers, 507,508,509,544,545, 7th Main Rd, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071, India",
+        "plugshare_id": "307829",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.59
+        }
+      }
+    ],
+    "totals": {
+      "totalDist": 1994,
+      "totalUsedPct": 1068,
+      "totalUsedKwh": 309.72,
+      "whPerKm": 155.3,
+      "projRange": 219.2
+    },
+    "totalKwhCharged": 301.02,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Ulwe, Navi Mumbai \u2192 Pune \u2192 Phaltan \u2192 Charging location (estimated) \u2192 Hospet (Hampi) \u2192 Bellary ... (+8 more)",
+      "notes": "Navi Mumbai to Bangalore via Hampi"
+    }
+  },
+  {
+    "id": 1766144404876,
+    "timestamp": "2025-12-19T11:40:04.876000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 80299,
+          "pct": 100,
+          "location": "Devanahalli",
+          "coordinates": {
+            "lat": 13.308433,
+            "lon": 77.690417
+          }
+        },
+        "end": {
+          "odo": 80491,
+          "pct": 23,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 192,
+          "usedPct": 77,
+          "usedKwh": 22.33,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 34,
+        "pctAfter": 100,
+        "kwhAdded": 19.14,
+        "chargeType": "fast",
+        "location": "Bescom HSR Layout-EV Mithra(25kw)",
+        "duration": "1h 10m",
+        "odo": 80299,
+        "time": "2025-12-19T11:40:04.876000",
+        "address": "164, Parangi Palaya, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
+        "plugshare_id": "312187",
+        "coordinates": {
+          "lat": 12.91,
+          "lon": 77.64
+        }
+      }
+    ],
+    "totals": {
+      "totalDist": 192,
+      "totalUsedPct": 77,
+      "totalUsedKwh": 22.33,
+      "whPerKm": 116.3,
+      "projRange": 249.4
+    },
+    "totalKwhCharged": 19.14,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Devanahalli \u2192 Charging location (estimated)",
+      "notes": "Bangalore local \u2013 Devanahalli"
+    }
+  },
+  {
+    "id": 1766353597579,
+    "timestamp": "2025-12-21T21:46:37.579000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 80491,
+          "pct": 100,
+          "location": "Devanahalli",
+          "coordinates": {
+            "lat": 13.308433,
+            "lon": 77.690417
+          }
+        },
+        "end": {
+          "odo": 80613,
+          "pct": 51,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 23,
+        "pctAfter": 76,
+        "kwhAdded": 15.37,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "6h 14m",
+        "odo": 80491,
+        "time": "2025-12-21T21:46:37.579000"
+      },
+      {
+        "pctBefore": 76,
+        "pctAfter": 96,
+        "kwhAdded": 5.8,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 36m",
+        "odo": 80491,
+        "time": "2025-12-22T04:01:50.863000"
+      },
+      {
+        "pctBefore": 96,
+        "pctAfter": 100,
+        "kwhAdded": 1.16,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "35m",
+        "odo": 80491,
+        "time": "2025-12-22T09:12:58.834000"
+      }
+    ],
+    "totals": {
+      "totalDist": 122,
+      "totalUsedPct": 49,
+      "totalUsedKwh": 14.21,
+      "whPerKm": 116.5,
+      "projRange": 249.1
+    },
+    "totalKwhCharged": 22.33,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Devanahalli \u2192 Charging location (estimated)",
+      "notes": "Bangalore local \u2013 Devanahalli"
+    }
+  },
+  {
+    "id": 1766650869970,
+    "timestamp": "2025-12-25T08:21:09.970000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 80613,
+          "pct": 83,
+          "location": "Devanahalli",
+          "coordinates": {
+            "lat": 13.308433,
+            "lon": 77.690417
+          }
+        },
+        "end": {
+          "odo": 80658,
+          "pct": 65,
+          "location": "MG Brothers KIA, Kurnool",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 45,
+          "usedPct": 18,
+          "usedKwh": 5.22,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 80461,
+          "pct": 100,
+          "location": "Chikkaballapur",
+          "coordinates": {
+            "lat": 13.792158,
+            "lon": 77.765908
+          }
+        },
+        "end": {
+          "odo": 80598,
+          "pct": 45,
+          "location": "BPCL Filling Stations",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 137,
+          "usedPct": 55,
+          "usedKwh": 15.95,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        }
+      },
+      {
+        "start": {
+          "odo": 80598,
+          "pct": 100,
+          "location": "Chikkaballapur",
+          "coordinates": {
+            "lat": 13.792158,
+            "lon": 77.765908
+          }
+        },
+        "end": {
+          "odo": 80693,
+          "pct": 62,
+          "location": "BPCL-Kurnool",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 95,
+          "usedPct": 38,
+          "usedKwh": 11.02,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 80693,
+          "pct": 100,
+          "location": "BPCL-Kurnool",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 80742,
+          "pct": 47,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "stats": {
+          "dist": 49,
+          "usedPct": 53,
+          "usedKwh": 15.37,
+          "whPerKm": 313.5,
+          "projRange": 92.5
+        }
+      },
+      {
+        "start": {
+          "odo": 80742,
+          "pct": 89,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "end": {
+          "odo": 80864,
+          "pct": 40,
+          "location": "Highway Treat",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        }
+      },
+      {
+        "start": {
+          "odo": 80864,
+          "pct": 100,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "end": {
+          "odo": 80959,
+          "pct": 62,
+          "location": "HPCL Devarkadra",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 95,
+          "usedPct": 38,
+          "usedKwh": 11.02,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 80959,
+          "pct": 100,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "end": {
+          "odo": 81081,
+          "pct": 51,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        }
+      },
+      {
+        "start": {
+          "odo": 81081,
+          "pct": 100,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "end": {
+          "odo": 81263,
+          "pct": 27,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 182,
+          "usedPct": 73,
+          "usedKwh": 21.17,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 81263,
+          "pct": 100,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "end": {
+          "odo": 81325,
+          "pct": 75,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 62,
+          "usedPct": 25,
+          "usedKwh": 7.25,
+          "whPerKm": 117.0,
+          "projRange": 247.9
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 81325,
+          "pct": 100,
+          "location": "Kurnool",
+          "coordinates": {
+            "lat": 15.706461,
+            "lon": 78.127839
+          }
+        },
+        "end": {
+          "odo": 81395,
+          "pct": 72,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 70,
+          "usedPct": 28,
+          "usedKwh": 8.12,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 81207,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81344,
+          "pct": 45,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 137,
+          "usedPct": 55,
+          "usedKwh": 15.95,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 81344,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81369,
+          "pct": 90,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 25,
+          "usedPct": 10,
+          "usedKwh": 2.9,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 81369,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81521,
+          "pct": 39,
+          "location": "HPCL Satyanarayana Filling Station-60kW",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 152,
+          "usedPct": 61,
+          "usedKwh": 17.69,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 81521,
+          "pct": 82,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81593,
+          "pct": 53,
+          "location": "HP eCharge",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 72,
+          "usedPct": 29,
+          "usedKwh": 8.41,
+          "whPerKm": 116.8,
+          "projRange": 248.3
+        }
+      },
+      {
+        "start": {
+          "odo": 81593,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81713,
+          "pct": 52,
+          "location": "Jio-Bp Station-Gadwal-60kW",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 120,
+          "usedPct": 48,
+          "usedKwh": 13.92,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 81713,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81788,
+          "pct": 70,
+          "location": "Abhiruchi Family Restaurant & Thunder EV Charging Hub",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 75,
+          "usedPct": 30,
+          "usedKwh": 8.7,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 81788,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81875,
+          "pct": 65,
+          "location": "Hp Charging",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 87,
+          "usedPct": 35,
+          "usedKwh": 10.15,
+          "whPerKm": 116.7,
+          "projRange": 248.5
+        }
+      },
+      {
+        "start": {
+          "odo": 81875,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 81947,
+          "pct": 71,
+          "location": "AG&P Pratham Station - Kurnool",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 72,
+          "usedPct": 29,
+          "usedKwh": 8.41,
+          "whPerKm": 116.8,
+          "projRange": 248.3
+        }
+      },
+      {
+        "start": {
+          "odo": 81947,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 82097,
+          "pct": 40,
+          "location": "BESCOM Office",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 150,
+          "usedPct": 60,
+          "usedKwh": 17.4,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82097,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 82152,
+          "pct": 78,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 55,
+          "usedPct": 22,
+          "usedKwh": 6.38,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82152,
+          "pct": 100,
+          "location": "Hyderabad",
+          "coordinates": {
+            "lat": 17.43865,
+            "lon": 78.366425
+          }
+        },
+        "end": {
+          "odo": 82344,
+          "pct": 23,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 192,
+          "usedPct": 77,
+          "usedKwh": 22.33,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82031,
+          "pct": 100,
+          "location": "Proddatur",
+          "coordinates": {
+            "lat": 14.801378,
+            "lon": 78.292992
+          }
+        },
+        "end": {
+          "odo": 82096,
+          "pct": 74,
+          "location": "BESCOM Office",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 65,
+          "usedPct": 26,
+          "usedKwh": 7.54,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82077,
+          "pct": 100,
+          "location": "Kadapa",
+          "coordinates": {
+            "lat": 14.752836,
+            "lon": 78.554372
+          }
+        },
+        "end": {
+          "odo": 82194,
+          "pct": 53,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 117,
+          "usedPct": 47,
+          "usedKwh": 13.63,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82194,
+          "pct": 100,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 82264,
+          "pct": 43,
+          "location": "Nandyal",
+          "coordinates": {
+            "lat": 15.506303,
+            "lon": 78.372406
+          }
+        },
+        "stats": {
+          "dist": 70,
+          "usedPct": 57,
+          "usedKwh": 16.53,
+          "whPerKm": 236.4,
+          "projRange": 122.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82264,
+          "pct": 91,
+          "location": "BPCL-Kurnool",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 82379,
+          "pct": 24,
+          "location": "Adoni",
+          "coordinates": {
+            "lat": 15.355694,
+            "lon": 77.822208
+          }
+        },
+        "stats": {
+          "dist": 115,
+          "usedPct": 67,
+          "usedKwh": 19.43,
+          "whPerKm": 168.9,
+          "projRange": 171.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82379,
+          "pct": 88,
+          "location": "Adoni",
+          "coordinates": {
+            "lat": 15.355694,
+            "lon": 77.822208
+          }
+        },
+        "end": {
+          "odo": 82549,
+          "pct": 20,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 170,
+          "usedPct": 68,
+          "usedKwh": 19.72,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82482,
+          "pct": 100,
+          "location": "Anantapur",
+          "coordinates": {
+            "lat": 14.640653,
+            "lon": 77.600408
+          }
+        },
+        "end": {
+          "odo": 82589,
+          "pct": 57,
+          "location": "Hotel Vijay INN",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 107,
+          "usedPct": 43,
+          "usedKwh": 12.47,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82589,
+          "pct": 76,
+          "location": "Hotel Vijay INN",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 82571,
+          "pct": 62,
+          "location": "Yelahanka",
+          "coordinates": {
+            "lat": 13.975494,
+            "lon": 77.674069
+          }
+        },
+        "stats": {
+          "dist": 0,
+          "usedPct": 14,
+          "usedKwh": 0,
+          "whPerKm": null,
+          "projRange": null
+        }
+      },
+      {
+        "start": {
+          "odo": 82571,
+          "pct": 100,
+          "location": "Yelahanka",
+          "coordinates": {
+            "lat": 13.975439,
+            "lon": 77.673928
+          }
+        },
+        "end": {
+          "odo": 82738,
+          "pct": 33,
+          "location": "Rajiv",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 167,
+          "usedPct": 67,
+          "usedKwh": 19.43,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82673,
+          "pct": 100,
+          "location": "Chikkaballapur",
+          "coordinates": {
+            "lat": 13.792211,
+            "lon": 77.766183
+          }
+        },
+        "end": {
+          "odo": 82835,
+          "pct": 35,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 162,
+          "usedPct": 65,
+          "usedKwh": 18.85,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82793,
+          "pct": 100,
+          "location": "Whitefield",
+          "coordinates": {
+            "lat": 12.940814,
+            "lon": 77.764864
+          }
+        },
+        "end": {
+          "odo": 82828,
+          "pct": 86,
+          "location": "HP eCharge",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 35,
+          "usedPct": 14,
+          "usedKwh": 4.06,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 82828,
+          "pct": 100,
+          "location": "Whitefield",
+          "coordinates": {
+            "lat": 12.940814,
+            "lon": 77.764864
+          }
+        },
+        "end": {
+          "odo": 83050,
+          "pct": 11,
+          "location": "IOCL Thagelu - Tata Power(30kW)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 222,
+          "usedPct": 89,
+          "usedKwh": 25.81,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 83050,
+          "pct": 89,
+          "location": "Whitefield",
+          "coordinates": {
+            "lat": 12.940814,
+            "lon": 77.764864
+          }
+        },
+        "end": {
+          "odo": 83117,
+          "pct": 62,
+          "location": "IOCL-M.G.K Filling Station",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 67,
+          "usedPct": 27,
+          "usedKwh": 7.83,
+          "whPerKm": 116.8,
+          "projRange": 248.3
+        }
+      },
+      {
+        "start": {
+          "odo": 83117,
+          "pct": 100,
+          "location": "Whitefield",
+          "coordinates": {
+            "lat": 12.940814,
+            "lon": 77.764864
+          }
+        },
+        "end": {
+          "odo": 83272,
+          "pct": 38,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 155,
+          "usedPct": 62,
+          "usedKwh": 17.98,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 51,
+        "pctAfter": 83,
+        "kwhAdded": 9.28,
+        "chargeType": "fast",
+        "location": "HPCL Sarathi Motors",
+        "duration": "33m",
+        "odo": 80613,
+        "time": "2025-12-25T08:21:09.970000",
+        "address": "chikkaballapur",
+        "plugshare_id": "1413273",
+        "coordinates": {
+          "lat": 13.43,
+          "lon": 77.73
+        }
+      },
+      {
+        "pctBefore": 65,
+        "pctAfter": 100,
+        "kwhAdded": 10.15,
+        "chargeType": "fast",
+        "location": "MG Brothers KIA, Kurnool",
+        "duration": "39m",
+        "odo": 80658,
+        "time": "2025-12-25T09:36:09.742000",
+        "address": "P2C2+X7C, NH 44, Pedda Tekur, Andhra Pradesh 518218, India",
+        "plugshare_id": "652529",
+        "coordinates": {
+          "lat": 15.83,
+          "lon": 78.05
+        }
+      },
+      {
+        "pctBefore": 45,
+        "pctAfter": 100,
+        "kwhAdded": 15.95,
+        "chargeType": "fast",
+        "location": "BPCL Filling Stations",
+        "duration": "50m",
+        "odo": 80598,
+        "time": "2025-12-25T12:29:59.647000",
+        "address": "Q2PM+MHM, Kurnool, Andhra Pradesh 518002, India",
+        "plugshare_id": "580213",
+        "coordinates": {
+          "lat": 15.83,
+          "lon": 78.05
+        }
+      },
+      {
+        "pctBefore": 62,
+        "pctAfter": 100,
+        "kwhAdded": 11.02,
+        "chargeType": "fast",
+        "location": "BPCL-Kurnool",
+        "duration": "40m",
+        "odo": 80693,
+        "time": "2025-12-25T14:48:59.627000",
+        "address": "Q2PM+MHM, Kurnool, Andhra Pradesh 518002, India",
+        "plugshare_id": "580213",
+        "coordinates": {
+          "lat": 15.83,
+          "lon": 78.05
+        }
+      },
+      {
+        "pctBefore": 47,
+        "pctAfter": 89,
+        "kwhAdded": 12.18,
+        "chargeType": "fast",
+        "location": "Jio bp Pulse Hub, Hindupur",
+        "duration": "34m",
+        "odo": 80742,
+        "time": "2025-12-25T17:23:59.621000",
+        "address": "26-4-1200/4, Mgm Byp Rd, Rtc Colony, Melapuram, Hindupur, Hindupuram, Andhra Pradesh 515201, India",
+        "plugshare_id": "738052",
+        "coordinates": {
+          "lat": 13.83,
+          "lon": 77.49
+        }
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 100,
+        "kwhAdded": 17.4,
+        "chargeType": "fast",
+        "location": "Highway Treat",
+        "duration": "1h 2m",
+        "odo": 80864,
+        "time": "2025-12-25T19:24:59.614000",
+        "address": "JV33+JV5, Kothakota, Telangana 509325, India",
+        "plugshare_id": "623825",
+        "coordinates": {
+          "lat": 17.39,
+          "lon": 78.49
+        }
+      },
+      {
+        "pctBefore": 62,
+        "pctAfter": 100,
+        "kwhAdded": 11.02,
+        "chargeType": "fast",
+        "location": "HPCL Devarkadra",
+        "duration": "38m",
+        "odo": 80959,
+        "time": "2025-12-25T21:30:59.669000",
+        "address": "GV4V+W89, Devarakadra, Telangana 509204, India",
+        "plugshare_id": "1413206",
+        "coordinates": {
+          "lat": 16.39,
+          "lon": 77.88
+        }
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 76,
+        "kwhAdded": 7.25,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 45m",
+        "odo": 81081,
+        "time": "2025-12-26T07:20:00.692000"
+      },
+      {
+        "pctBefore": 76,
+        "pctAfter": 100,
+        "kwhAdded": 6.96,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 49m",
+        "odo": 81081,
+        "time": "2025-12-26T10:06:00.694000"
+      },
+      {
+        "pctBefore": 27,
+        "pctAfter": 100,
+        "kwhAdded": 21.17,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "7h 56m",
+        "odo": 81263,
+        "time": "2025-12-27T21:54:27.861000"
+      },
+      {
+        "pctBefore": 75,
+        "pctAfter": 100,
+        "kwhAdded": 7.25,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 22m",
+        "odo": 81325,
+        "time": "2025-12-29T13:01:34.872000"
+      },
+      {
+        "pctBefore": 72,
+        "pctAfter": 78,
+        "kwhAdded": 1.74,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "39m",
+        "odo": 81395,
+        "time": "2025-12-30T17:17:44.956000"
+      },
+      {
+        "pctBefore": 78,
+        "pctAfter": 100,
+        "kwhAdded": 6.38,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 32m",
+        "odo": 81395,
+        "time": "2025-12-30T18:18:41.683000"
+      },
+      {
+        "pctBefore": 45,
+        "pctAfter": 100,
+        "kwhAdded": 15.95,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "6h 13m",
+        "odo": 81344,
+        "time": "2026-01-01T21:35:46.776000"
+      },
+      {
+        "pctBefore": 90,
+        "pctAfter": 100,
+        "kwhAdded": 2.9,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "1h 11m",
+        "odo": 81369,
+        "time": "2026-01-02T09:38:10.731000"
+      },
+      {
+        "pctBefore": 39,
+        "pctAfter": 82,
+        "kwhAdded": 12.47,
+        "chargeType": "fast",
+        "location": "HPCL Satyanarayana Filling Station-60kW",
+        "duration": "34m",
+        "odo": 81521,
+        "time": "2026-01-02T14:22:23.413000",
+        "address": "6, Mabubnagar road , Gadwal, Telangana",
+        "plugshare_id": "1060048",
+        "coordinates": {
+          "lat": 16.23,
+          "lon": 77.8
+        }
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 100,
+        "kwhAdded": 13.63,
+        "chargeType": "fast",
+        "location": "HP eCharge",
+        "duration": "49m",
+        "odo": 81593,
+        "time": "2026-01-02T16:06:23.395000",
+        "address": "HP Petrol Pump, Survey No 654, 3A2, NH 18, Duvvuru, Andhra Pradesh 516175",
+        "plugshare_id": "998887",
+        "coordinates": {
+          "lat": 15.5,
+          "lon": 78.0
+        }
+      },
+      {
+        "pctBefore": 52,
+        "pctAfter": 100,
+        "kwhAdded": 13.92,
+        "chargeType": "fast",
+        "location": "Jio-Bp Station-Gadwal-60kW",
+        "duration": "48m",
+        "odo": 81713,
+        "time": "2026-01-02T19:48:26.320000",
+        "address": "Sy.No. 68/1, Itikala, Atmakur Mandal, Wanaparthy, Telangana 509339",
+        "plugshare_id": "635620",
+        "coordinates": {
+          "lat": 16.23,
+          "lon": 77.8
+        }
+      },
+      {
+        "pctBefore": 70,
+        "pctAfter": 100,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "location": "Abhiruchi Family Restaurant & Thunder EV Charging Hub",
+        "duration": "33m",
+        "odo": 81788,
+        "time": "2026-01-03T12:07:47.401000",
+        "address": "4/256, Doranala, Ayinamukkala, Andhra Pradesh 523331, India",
+        "plugshare_id": "653135",
+        "coordinates": {
+          "lat": 15.59,
+          "lon": 79.62
+        }
+      },
+      {
+        "pctBefore": 65,
+        "pctAfter": 100,
+        "kwhAdded": 10.15,
+        "chargeType": "fast",
+        "location": "Hp Charging",
+        "duration": "36m",
+        "odo": 81875,
+        "time": "2026-01-03T14:15:47.527000",
+        "address": "CG95+654, Noonepalli, Andhra Pradesh 518502, India",
+        "plugshare_id": "1233493",
+        "coordinates": {
+          "lat": 15.5,
+          "lon": 78.0
+        }
+      },
+      {
+        "pctBefore": 71,
+        "pctAfter": 100,
+        "kwhAdded": 8.41,
+        "chargeType": "fast",
+        "location": "AG&P Pratham Station - Kurnool",
+        "duration": "32m",
+        "odo": 81947,
+        "time": "2026-01-03T16:35:47.549000",
+        "address": "W258+9G9, Sunkulammapalem, Tadpatri Rural, Andhra Pradesh 515411, India",
+        "plugshare_id": "1500018",
+        "coordinates": {
+          "lat": 15.83,
+          "lon": 78.05
+        }
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 100,
+        "kwhAdded": 17.4,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "6h 58m",
+        "odo": 82097,
+        "time": "2026-01-03T21:04:17.525000"
+      },
+      {
+        "pctBefore": 78,
+        "pctAfter": 100,
+        "kwhAdded": 6.38,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 32m",
+        "odo": 82152,
+        "time": "2026-01-04T16:42:55.240000"
+      },
+      {
+        "pctBefore": 23,
+        "pctAfter": 100,
+        "kwhAdded": 22.33,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "8h 38m",
+        "odo": 82344,
+        "time": "2026-01-05T18:12:06.215000"
+      },
+      {
+        "pctBefore": 74,
+        "pctAfter": 75,
+        "kwhAdded": 0.29,
+        "chargeType": "fast",
+        "location": "BESCOM Office",
+        "duration": "0m",
+        "odo": 82096,
+        "time": "2026-01-06T14:25:10.704000",
+        "address": "137/1, next to New KEB, Gauribidanur, Karnataka 561208, India",
+        "plugshare_id": "735829",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.59
+        }
+      },
+      {
+        "pctBefore": 75,
+        "pctAfter": 100,
+        "kwhAdded": 7.25,
+        "chargeType": "fast",
+        "location": "Krishna Fuels (BP)",
+        "duration": "27m",
+        "odo": 82096,
+        "time": "2026-01-06T14:28:10.688000",
+        "address": "PPWG+V77, Malkhed, Karnataka 563130, India",
+        "plugshare_id": "967656",
+        "coordinates": {
+          "lat": 13.12,
+          "lon": 77.87
+        }
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 100,
+        "kwhAdded": 13.63,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "5h 27m",
+        "odo": 82194,
+        "time": "2026-01-06T20:12:52.677000"
+      },
+      {
+        "pctBefore": 43,
+        "pctAfter": 76,
+        "kwhAdded": 9.57,
+        "chargeType": "fast",
+        "location": "BPCL-Kurnool",
+        "duration": "27m",
+        "odo": 82264,
+        "time": "2026-01-07T13:07:23.624000",
+        "address": "Q2PM+MHM, Kurnool, Andhra Pradesh 518002, India",
+        "plugshare_id": "580213",
+        "coordinates": {
+          "lat": 15.83,
+          "lon": 78.05
+        }
+      },
+      {
+        "pctBefore": 76,
+        "pctAfter": 91,
+        "kwhAdded": 4.35,
+        "chargeType": "fast",
+        "location": "Joulepoint EV Charging Station",
+        "duration": "12m",
+        "odo": 82264,
+        "time": "2026-01-07T13:52:54.695000",
+        "address": "3V97+6V5, Srisailam, Andhra Pradesh 518101, India",
+        "plugshare_id": "1462540",
+        "coordinates": {
+          "lat": 15.5,
+          "lon": 78.0
+        }
+      },
+      {
+        "pctBefore": 24,
+        "pctAfter": 40,
+        "kwhAdded": 4.64,
+        "chargeType": "fast",
+        "location": "BESCOM, Division Office",
+        "duration": "11m",
+        "odo": 82379,
+        "time": "2026-01-07T15:42:54.686000",
+        "address": "CPQJ+9W2, BB Rd, KEB Colony, Chikkaballapur, Karnataka 562101, India",
+        "plugshare_id": "730288",
+        "coordinates": {
+          "lat": 13.43,
+          "lon": 77.73
+        }
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 88,
+        "kwhAdded": 13.92,
+        "chargeType": "fast",
+        "location": "BESCOM Office",
+        "duration": "40m",
+        "odo": 82379,
+        "time": "2026-01-07T15:58:54.820000",
+        "address": "137/1, next to New KEB, Gauribidanur, Karnataka 561208, India",
+        "plugshare_id": "735829",
+        "coordinates": {
+          "lat": 12.97,
+          "lon": 77.59
+        }
+      },
+      {
+        "pctBefore": 20,
+        "pctAfter": 28,
+        "kwhAdded": 2.32,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "38m",
+        "odo": 82549,
+        "time": "2026-01-07T18:47:28.534000"
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 54,
+        "kwhAdded": 7.54,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 52m",
+        "odo": 82549,
+        "time": "2026-01-07T19:27:28.523000"
+      },
+      {
+        "pctBefore": 54,
+        "pctAfter": 100,
+        "kwhAdded": 13.34,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "5h 32m",
+        "odo": 82549,
+        "time": "2026-01-07T22:20:28.551000"
+      },
+      {
+        "pctBefore": 57,
+        "pctAfter": 76,
+        "kwhAdded": 5.51,
+        "chargeType": "fast",
+        "location": "Hotel Vijay INN",
+        "duration": "15m",
+        "odo": 82589,
+        "time": "2026-01-08T10:23:53.679000",
+        "address": "Gorantla, Karnataka 515145, India",
+        "plugshare_id": "356474",
+        "coordinates": {
+          "lat": 15.5,
+          "lon": 78.0
+        }
+      },
+      {
+        "pctBefore": 62,
+        "pctAfter": 100,
+        "kwhAdded": 11.02,
+        "chargeType": "fast",
+        "location": "HPCL GVR Fuel-Glida(60kw)",
+        "duration": "39m",
+        "odo": 82571,
+        "time": "2026-01-08T11:34:23.684000",
+        "address": "Before Penukonda Toll, Gorantla Road, NH-44, Anantapur, Andhra Pradesh 515110, India",
+        "plugshare_id": "473588",
+        "coordinates": {
+          "lat": 14.68,
+          "lon": 77.6
+        }
+      },
+      {
+        "pctBefore": 33,
+        "pctAfter": 100,
+        "kwhAdded": 19.43,
+        "chargeType": "fast",
+        "location": "Rajiv",
+        "duration": "1h 6m",
+        "odo": 82738,
+        "time": "2026-01-09T14:22:08.806000",
+        "address": "HW3P+CR Devanahalli, Karnataka, India",
+        "plugshare_id": "1392043",
+        "coordinates": {
+          "lat": 13.25,
+          "lon": 77.71
+        }
+      },
+      {
+        "pctBefore": 35,
+        "pctAfter": 35,
+        "kwhAdded": 0.0,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "1m",
+        "odo": 82835,
+        "time": "2026-01-10T12:15:14.995000"
+      },
+      {
+        "pctBefore": 35,
+        "pctAfter": 100,
+        "kwhAdded": 18.85,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "10h 32m",
+        "odo": 82835,
+        "time": "2026-01-10T12:19:14.941000"
+      },
+      {
+        "pctBefore": 86,
+        "pctAfter": 92,
+        "kwhAdded": 1.74,
+        "chargeType": "fast",
+        "location": "HP eCharge",
+        "duration": "6m",
+        "odo": 82828,
+        "time": "2026-01-11T12:11:27.702000",
+        "address": "HP Petrol Pump, Survey No 654, 3A2, NH 18, Duvvuru, Andhra Pradesh 516175",
+        "plugshare_id": "998887",
+        "coordinates": {
+          "lat": 15.5,
+          "lon": 78.0
+        }
+      },
+      {
+        "pctBefore": 92,
+        "pctAfter": 100,
+        "kwhAdded": 2.32,
+        "chargeType": "fast",
+        "location": "IOCL 15/158 Mydukur",
+        "duration": "11m",
+        "odo": 82828,
+        "time": "2026-01-11T12:21:27.686000",
+        "address": "15/158, Saraswathi Peta, Bhumayapalle, Mydukur, Maidikuru South, Andhra Pradesh 516172, India",
+        "plugshare_id": "1445579",
+        "coordinates": {
+          "lat": 14.75,
+          "lon": 78.68
+        }
+      },
+      {
+        "pctBefore": 11,
+        "pctAfter": 89,
+        "kwhAdded": 22.62,
+        "chargeType": "fast",
+        "location": "IOCL Thagelu - Tata Power(30kW)",
+        "duration": "57m",
+        "odo": 83050,
+        "time": "2026-01-11T16:12:01.346000",
+        "address": "3CRF+F65, Andhra Pradesh 523110, India",
+        "plugshare_id": "736093",
+        "coordinates": {
+          "lat": 14.33,
+          "lon": 79.78
+        }
+      },
+      {
+        "pctBefore": 62,
+        "pctAfter": 100,
+        "kwhAdded": 11.02,
+        "chargeType": "fast",
+        "location": "IOCL-M.G.K Filling Station",
+        "duration": "49m",
+        "odo": 83117,
+        "time": "2026-01-11T18:01:01.511000",
+        "address": "W835+9RW, Kunta, Andhra Pradesh 523330, India",
+        "plugshare_id": "876749",
+        "coordinates": {
+          "lat": 15.4,
+          "lon": 79.6
+        }
+      }
+    ],
+    "totals": {
+      "totalDist": 2811,
+      "totalUsedPct": 1528,
+      "totalUsedKwh": 439.06,
+      "whPerKm": 156.2,
+      "projRange": 235.8
+    },
+    "totalKwhCharged": 439.35,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Devanahalli \u2192 Charging location (estimated) \u2192 Chikkaballapur \u2192 Kurnool \u2192 Hyderabad ... (+7 more)",
+      "notes": "Bangalore \u2192 Hyderabad \u2192 Kadapa \u2192 Anantapur \u2192 Bangalore loop"
+    }
+  },
+  {
+    "id": 1768398952966,
+    "timestamp": "2026-01-14T13:55:52.966000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 83272,
+          "pct": 100,
+          "location": "Tata Power EV Charging Station Chengalpattu",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 83222,
+          "pct": 60,
+          "location": "Chengalpattu",
+          "coordinates": {
+            "lat": 12.744014,
+            "lon": 80.238753
+          }
+        },
+        "stats": {
+          "dist": 0,
+          "usedPct": 40,
+          "usedKwh": 0,
+          "whPerKm": null,
+          "projRange": null
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 38,
+        "pctAfter": 100,
+        "kwhAdded": 17.98,
+        "chargeType": "fast",
+        "location": "Tata Power EV Charging Station Chengalpattu",
+        "duration": "1h 5m",
+        "odo": 83272,
+        "time": "2026-01-14T13:55:52.966000",
+        "address": "NH-48 Junction of SH-119, Old Mahabalipuram Rd (SH 49B), near Mahindra World City, Natham, Tamil Nadu 603202, India",
+        "plugshare_id": "576218",
+        "coordinates": {
+          "lat": 12.69,
+          "lon": 79.98
+        }
+      }
+    ],
+    "totals": {
+      "totalDist": 50,
+      "totalUsedPct": 40,
+      "totalUsedKwh": 0,
+      "whPerKm": 0.0,
+      "projRange": null
+    },
+    "totalKwhCharged": 17.98,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Charging location (estimated) \u2192 Chengalpattu",
+      "notes": "Charge stop near Chengalpattu"
+    }
+  },
+  {
+    "id": 1768647158162,
+    "timestamp": "2026-01-17T10:52:38.162000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 83222,
+          "pct": 89,
+          "location": "Tata Power EV Charging Station Minjur",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 83274,
+          "pct": 54,
+          "location": "Chennai",
+          "coordinates": {
+            "lat": 12.996311,
+            "lon": 80.213183
+          }
+        },
+        "stats": {
+          "dist": 52,
+          "usedPct": 35,
+          "usedKwh": 10.15,
+          "whPerKm": 195.3,
+          "projRange": 148.5
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 60,
+        "pctAfter": 89,
+        "kwhAdded": 8.41,
+        "chargeType": "fast",
+        "location": "Tata Power EV Charging Station Minjur",
+        "duration": "22m",
+        "odo": 83222,
+        "time": "2026-01-17T10:52:38.162000",
+        "address": "126/1, Periyapalayam Road , Minjur",
+        "plugshare_id": "565116",
+        "coordinates": {
+          "lat": 13.28,
+          "lon": 80.26
+        }
+      }
+    ],
+    "totals": {
+      "totalDist": 52,
+      "totalUsedPct": 35,
+      "totalUsedKwh": 10.15,
+      "whPerKm": 195.2,
+      "projRange": 148.5
+    },
+    "totalKwhCharged": 8.41,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Charging location (estimated) \u2192 Chennai",
+      "notes": "Chengalpattu to Chennai"
+    }
+  },
+  {
+    "id": 1768834745000,
+    "timestamp": "2026-01-19T14:59:05",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 83274,
+          "pct": 54,
+          "location": "Chennai",
+          "coordinates": {
+            "lat": 12.996311,
+            "lon": 80.213183
+          }
+        },
+        "end": {
+          "odo": 83321,
+          "pct": 35,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 47,
+          "usedPct": 19,
+          "usedKwh": 5.51,
+          "whPerKm": 117.2,
+          "projRange": 247.4
+        }
+      },
+      {
+        "start": {
+          "odo": 83321,
+          "pct": 100,
+          "location": "Chennai",
+          "coordinates": {
+            "lat": 12.996311,
+            "lon": 80.213183
+          }
+        },
+        "end": {
+          "odo": 83493,
+          "pct": 31,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 172,
+          "usedPct": 69,
+          "usedKwh": 20.01,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 35,
+        "pctAfter": 61,
+        "kwhAdded": 7.54,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "3h 17m",
+        "odo": 83321,
+        "time": "2026-01-20T19:10:27.688000"
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 100,
+        "kwhAdded": 11.31,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "5h 33m",
+        "odo": 83321,
+        "time": "2026-01-20T22:28:27.769000"
+      }
+    ],
+    "totals": {
+      "totalDist": 219,
+      "totalUsedPct": 88,
+      "totalUsedKwh": 25.52,
+      "whPerKm": 116.5,
+      "projRange": 248.7
+    },
+    "totalKwhCharged": 18.85,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Chennai \u2192 Charging location (estimated)",
+      "notes": "Chennai local"
+    }
+  },
+  {
+    "id": 1769188097768,
+    "timestamp": "2026-01-23T17:08:17.768000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 83493,
+          "pct": 100,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 83523,
+          "pct": 24,
+          "location": "Tiruvallur",
+          "coordinates": {
+            "lat": 13.714714,
+            "lon": 80.006808
+          }
+        },
+        "stats": {
+          "dist": 30,
+          "usedPct": 76,
+          "usedKwh": 22.04,
+          "whPerKm": 735.3,
+          "projRange": 39.4
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 31,
+        "pctAfter": 100,
+        "kwhAdded": 20.01,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "9h 28m",
+        "odo": 83493,
+        "time": "2026-01-23T17:08:17.768000"
+      }
+    ],
+    "totals": {
+      "totalDist": 30,
+      "totalUsedPct": 76,
+      "totalUsedKwh": 22.04,
+      "whPerKm": 734.7,
+      "projRange": 39.4
+    },
+    "totalKwhCharged": 20.01,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Charging location (estimated) \u2192 Tiruvallur",
+      "notes": "Chennai to Tiruvallur"
+    }
+  },
+  {
+    "id": 1770135329899,
+    "timestamp": "2026-02-03T16:15:29.899000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 83523,
+          "pct": 89,
+          "location": "Tiruvallur",
+          "coordinates": {
+            "lat": 13.714714,
+            "lon": 80.006808
+          }
+        },
+        "end": {
+          "odo": 83623,
+          "pct": 49,
+          "location": "HP echarge - Statiq - Dual 30kW",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 100,
+          "usedPct": 40,
+          "usedKwh": 11.6,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 83623,
+          "pct": 100,
+          "location": "Tiruvallur",
+          "coordinates": {
+            "lat": 13.714714,
+            "lon": 80.006808
+          }
+        },
+        "end": {
+          "odo": 83725,
+          "pct": 59,
+          "location": "Venkata sai",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 102,
+          "usedPct": 41,
+          "usedKwh": 11.89,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        }
+      },
+      {
+        "start": {
+          "odo": 83725,
+          "pct": 89,
+          "location": "Tiruvallur",
+          "coordinates": {
+            "lat": 13.714714,
+            "lon": 80.006808
+          }
+        },
+        "end": {
+          "odo": 83887,
+          "pct": 24,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 162,
+          "usedPct": 65,
+          "usedKwh": 18.85,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 83887,
+          "pct": 100,
+          "location": "Tiruvallur",
+          "coordinates": {
+            "lat": 13.714714,
+            "lon": 80.006808
+          }
+        },
+        "end": {
+          "odo": 83959,
+          "pct": 71,
+          "location": "HP echarge - Statiq - Dual 30kW",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 72,
+          "usedPct": 29,
+          "usedKwh": 8.41,
+          "whPerKm": 116.8,
+          "projRange": 248.3
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 83959,
+          "pct": 100,
+          "location": "HP echarge - Statiq - Dual 30kW",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 83823,
+          "pct": 85,
+          "location": "Ongole",
+          "coordinates": {
+            "lat": 15.928764,
+            "lon": 80.077844
+          }
+        },
+        "stats": {
+          "dist": 0,
+          "usedPct": 15,
+          "usedKwh": 0,
+          "whPerKm": null,
+          "projRange": null
+        }
+      },
+      {
+        "start": {
+          "odo": 83823,
+          "pct": 100,
+          "location": "Ongole",
+          "coordinates": {
+            "lat": 15.928764,
+            "lon": 80.077844
+          }
+        },
+        "end": {
+          "odo": 83993,
+          "pct": 32,
+          "location": "BPCL",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 170,
+          "usedPct": 68,
+          "usedKwh": 19.72,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 83949,
+          "pct": 100,
+          "location": "Vijayawada",
+          "coordinates": {
+            "lat": 16.547119,
+            "lon": 80.814961
+          }
+        },
+        "end": {
+          "odo": 84071,
+          "pct": 51,
+          "location": "Lekha AC EV Charging station",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 84071,
+          "pct": 89,
+          "location": "Vijayawada",
+          "coordinates": {
+            "lat": 16.547119,
+            "lon": 80.814961
+          }
+        },
+        "end": {
+          "odo": 84181,
+          "pct": 45,
+          "location": "RoadStar Hotel",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 110,
+          "usedPct": 44,
+          "usedKwh": 12.76,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 84181,
+          "pct": 100,
+          "location": "Vijayawada",
+          "coordinates": {
+            "lat": 16.547119,
+            "lon": 80.814961
+          }
+        },
+        "end": {
+          "odo": 84331,
+          "pct": 40,
+          "location": "Bheems - Tata Power (60 kW)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 150,
+          "usedPct": 60,
+          "usedKwh": 17.4,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 84331,
+          "pct": 44,
+          "location": "Bheems - Tata Power (60 kW)",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 84250,
+          "pct": 25,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.54365,
+            "lon": 82.834572
+          }
+        },
+        "stats": {
+          "dist": 0,
+          "usedPct": 19,
+          "usedKwh": 0,
+          "whPerKm": null,
+          "projRange": null
+        }
+      },
+      {
+        "start": {
+          "odo": 84250,
+          "pct": 100,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.543558,
+            "lon": 82.834603
+          }
+        },
+        "end": {
+          "odo": 84420,
+          "pct": 32,
+          "location": "IOCL Lumbini Park Visakhapatnam",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 170,
+          "usedPct": 68,
+          "usedKwh": 19.72,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 84369,
+          "pct": 100,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.728736,
+            "lon": 83.327419
+          }
+        },
+        "end": {
+          "odo": 84471,
+          "pct": 59,
+          "location": "IOCL Charging Station Visakhapatnam",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 102,
+          "usedPct": 41,
+          "usedKwh": 11.89,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 84438,
+          "pct": 100,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.796675,
+            "lon": 83.353922
+          }
+        },
+        "end": {
+          "odo": 84493,
+          "pct": 78,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 55,
+          "usedPct": 22,
+          "usedKwh": 6.38,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 84493,
+          "pct": 100,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 84551,
+          "pct": 43,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.7289,
+            "lon": 83.327278
+          }
+        },
+        "stats": {
+          "dist": 58,
+          "usedPct": 57,
+          "usedKwh": 16.53,
+          "whPerKm": 284.9,
+          "projRange": 101.8
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 24,
+        "pctAfter": 89,
+        "kwhAdded": 18.85,
+        "chargeType": "fast",
+        "location": "IOCL Sarvareddi Khandrika - Tata Power (30 kW)",
+        "duration": "56m",
+        "odo": 83523,
+        "time": "2026-02-03T16:15:29.899000",
+        "address": "Chennai - Kolkata Hwy, Sarvareddi Khandrika, Andhra Pradesh 524121, India",
+        "plugshare_id": "488228",
+        "coordinates": {
+          "lat": 14.62,
+          "lon": 79.67
+        }
+      },
+      {
+        "pctBefore": 49,
+        "pctAfter": 100,
+        "kwhAdded": 14.79,
+        "chargeType": "fast",
+        "location": "HP echarge - Statiq - Dual 30kW",
+        "duration": "57m",
+        "odo": 83623,
+        "time": "2026-02-04T10:32:33.784000",
+        "address": "GX9P+9W8, Nellore, Kovur, Andhra Pradesh 524137, India",
+        "plugshare_id": "1592804",
+        "coordinates": {
+          "lat": 14.45,
+          "lon": 79.99
+        }
+      },
+      {
+        "pctBefore": 59,
+        "pctAfter": 80,
+        "kwhAdded": 6.09,
+        "chargeType": "fast",
+        "location": "Venkata sai",
+        "duration": "16m",
+        "odo": 83725,
+        "time": "2026-02-04T12:30:33.752000",
+        "address": "P7XC+5MH, samsthan Road, Jawahar Nagar Colony, Markapur, Andhra Pradesh 523316, India",
+        "plugshare_id": "1486365",
+        "coordinates": {
+          "lat": 15.74,
+          "lon": 79.27
+        }
+      },
+      {
+        "pctBefore": 80,
+        "pctAfter": 89,
+        "kwhAdded": 2.61,
+        "chargeType": "fast",
+        "location": "BPCL Nandyal",
+        "duration": "7m",
+        "odo": 83725,
+        "time": "2026-02-04T12:56:33.728000",
+        "address": "VHCF+CHC, KG Rd, Indira Nagar, Atmakur, Andhra Pradesh 518422, India",
+        "plugshare_id": "589827",
+        "coordinates": {
+          "lat": 15.48,
+          "lon": 78.48
+        }
+      },
+      {
+        "pctBefore": 24,
+        "pctAfter": 26,
+        "kwhAdded": 0.58,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "3m",
+        "odo": 83887,
+        "time": "2026-02-04T16:00:24.176000"
+      },
+      {
+        "pctBefore": 26,
+        "pctAfter": 37,
+        "kwhAdded": 3.19,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "56m",
+        "odo": 83887,
+        "time": "2026-02-04T16:05:23.725000"
+      },
+      {
+        "pctBefore": 37,
+        "pctAfter": 37,
+        "kwhAdded": 0.0,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "1m",
+        "odo": 83887,
+        "time": "2026-02-04T17:53:10.661000"
+      },
+      {
+        "pctBefore": 37,
+        "pctAfter": 60,
+        "kwhAdded": 6.67,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 35m",
+        "odo": 83887,
+        "time": "2026-02-04T19:04:55.037000"
+      },
+      {
+        "pctBefore": 60,
+        "pctAfter": 100,
+        "kwhAdded": 11.6,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "4h 41m",
+        "odo": 83887,
+        "time": "2026-02-04T22:58:20.622000"
+      },
+      {
+        "pctBefore": 71,
+        "pctAfter": 100,
+        "kwhAdded": 8.41,
+        "chargeType": "fast",
+        "location": "HP echarge - Statiq - Dual 30kW",
+        "duration": "27m",
+        "odo": 83959,
+        "time": "2026-02-06T09:16:03.903000",
+        "address": "GX9P+9W8, Nellore, Kovur, Andhra Pradesh 524137, India",
+        "plugshare_id": "1592804",
+        "coordinates": {
+          "lat": 14.45,
+          "lon": 79.99
+        }
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 100,
+        "kwhAdded": 4.35,
+        "chargeType": "fast",
+        "location": "Jio BP Petrol Pump",
+        "duration": "15m",
+        "odo": 83823,
+        "time": "2026-02-06T10:24:03.801000",
+        "address": "Guntur-Chennai Hwy, Pula Rede Palam, Andhra Pradesh 523274, India",
+        "plugshare_id": "735831",
+        "coordinates": {
+          "lat": 13.08,
+          "lon": 80.27
+        }
+      },
+      {
+        "pctBefore": 32,
+        "pctAfter": 100,
+        "kwhAdded": 19.72,
+        "chargeType": "fast",
+        "location": "BPCL",
+        "duration": "1h 12m",
+        "odo": 83993,
+        "time": "2026-02-06T12:42:03.702000",
+        "address": "92XQ+XWJ, NH16, Surareddy Palem, Andhra Pradesh 523272, India",
+        "plugshare_id": "657830",
+        "coordinates": {
+          "lat": 15.68,
+          "lon": 80.18
+        }
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 89,
+        "kwhAdded": 11.02,
+        "chargeType": "fast",
+        "location": "Lekha AC EV Charging station",
+        "duration": "29m",
+        "odo": 84071,
+        "time": "2026-02-06T15:26:03.701000",
+        "address": "6-5/5, Vijayawada, Andhra Pradesh 520010, India",
+        "plugshare_id": "610085",
+        "coordinates": {
+          "lat": 16.51,
+          "lon": 80.65
+        }
+      },
+      {
+        "pctBefore": 45,
+        "pctAfter": 100,
+        "kwhAdded": 15.95,
+        "chargeType": "fast",
+        "location": "RoadStar Hotel",
+        "duration": "55m",
+        "odo": 84181,
+        "time": "2026-02-07T11:49:50.996000",
+        "address": "Opp. Kanakaraju Kova Center, Samalkota Road, Rajanagaram",
+        "plugshare_id": "565323",
+        "coordinates": {
+          "lat": 17.05,
+          "lon": 82.0
+        }
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 44,
+        "kwhAdded": 1.16,
+        "chargeType": "fast",
+        "location": "Bheems - Tata Power (60 kW)",
+        "duration": "3m",
+        "odo": 84331,
+        "time": "2026-02-07T16:56:15.579000",
+        "address": "4-20-22, NH 16, D No, Appikonda, Andhra Pradesh 531001, India",
+        "plugshare_id": "547012",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 25,
+        "pctAfter": 100,
+        "kwhAdded": 21.75,
+        "chargeType": "fast",
+        "location": "FC - Tata Power - R K Service station(60 kW)",
+        "duration": "1h 12m",
+        "odo": 84250,
+        "time": "2026-02-07T17:27:15.590000",
+        "address": "39-8-5/3, near Appughar, Seethammadhara, Visakhapatnam, Andhra Pradesh 530013, India",
+        "plugshare_id": "561982",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 32,
+        "pctAfter": 100,
+        "kwhAdded": 19.72,
+        "chargeType": "fast",
+        "location": "IOCL Lumbini Park Visakhapatnam",
+        "duration": "1h 12m",
+        "odo": 84420,
+        "time": "2026-02-08T12:19:23.792000",
+        "address": "4-1-2, Lumbini Park, Shivaji Park, Visakhapatnam, Andhra Pradesh 530020, India",
+        "plugshare_id": "1037009",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 59,
+        "pctAfter": 100,
+        "kwhAdded": 11.89,
+        "chargeType": "fast",
+        "location": "IOCL Charging Station Visakhapatnam",
+        "duration": "42m",
+        "odo": 84471,
+        "time": "2026-02-08T19:33:37.741000",
+        "address": "14-1-7, IOCL CHARGING STATION Dwarakanagar, Railway New Colony, Visakhapatnam, Andhra Pradesh 530041, India",
+        "plugshare_id": "1075173",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 78,
+        "pctAfter": 100,
+        "kwhAdded": 6.38,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 2m",
+        "odo": 84493,
+        "time": "2026-02-09T21:13:54.769000"
+      }
+    ],
+    "totals": {
+      "totalDist": 1028,
+      "totalUsedPct": 618,
+      "totalUsedKwh": 169.36,
+      "whPerKm": 164.7,
+      "projRange": 235.2
+    },
+    "totalKwhCharged": 184.73,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Tiruvallur \u2192 Charging location (estimated) \u2192 Ongole \u2192 Vijayawada \u2192 Visakhapatnam",
+      "notes": "Tiruvallur to Visakhapatnam via Ongole & Vijayawada"
+    }
+  },
+  {
+    "id": 1771104350755,
+    "timestamp": "2026-02-14T21:25:50.755000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 84551,
+          "pct": 80,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.7289,
+            "lon": 83.327278
+          }
+        },
+        "end": {
+          "odo": 84651,
+          "pct": 40,
+          "location": "Aditya Inn",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 100,
+          "usedPct": 40,
+          "usedKwh": 11.6,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 84651,
+          "pct": 59,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.7289,
+            "lon": 83.327278
+          }
+        },
+        "end": {
+          "odo": 84748,
+          "pct": 20,
+          "location": "Shree Ram Associates",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 97,
+          "usedPct": 39,
+          "usedKwh": 11.31,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 84748,
+          "pct": 82,
+          "location": "Shree Ram Associates",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 84688,
+          "pct": 74,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745075,
+            "lon": 83.322769
+          }
+        },
+        "stats": {
+          "dist": 0,
+          "usedPct": 8,
+          "usedKwh": 0,
+          "whPerKm": null,
+          "projRange": null
+        }
+      },
+      {
+        "start": {
+          "odo": 84688,
+          "pct": 100,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745131,
+            "lon": 83.322711
+          }
+        },
+        "end": {
+          "odo": 84820,
+          "pct": 47,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 132,
+          "usedPct": 53,
+          "usedKwh": 15.37,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 43,
+        "pctAfter": 80,
+        "kwhAdded": 10.73,
+        "chargeType": "fast",
+        "location": "IOCL Lumbini Park Visakhapatnam",
+        "duration": "28m",
+        "odo": 84551,
+        "time": "2026-02-14T21:25:50.755000",
+        "address": "4-1-2, Lumbini Park, Shivaji Park, Visakhapatnam, Andhra Pradesh 530020, India",
+        "plugshare_id": "1037009",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 59,
+        "kwhAdded": 5.51,
+        "chargeType": "fast",
+        "location": "Aditya Inn",
+        "duration": "15m",
+        "odo": 84651,
+        "time": "2026-02-16T17:07:51.898000",
+        "address": "Q7QC+QCW, Chinagantyada, Visakhapatnam, Andhra Pradesh 530026, India",
+        "plugshare_id": "1087395",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 20,
+        "pctAfter": 82,
+        "kwhAdded": 17.98,
+        "chargeType": "fast",
+        "location": "Shree Ram Associates",
+        "duration": "48m",
+        "odo": 84748,
+        "time": "2026-02-17T11:18:36.712000",
+        "address": "Shree Ram Associates, Sagar Nagar, Visakhapatnam, Andhra Pradesh 530049, India",
+        "plugshare_id": "1523756",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 74,
+        "pctAfter": 100,
+        "kwhAdded": 7.54,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2h 59m",
+        "odo": 84688,
+        "time": "2026-02-17T19:17:45.813000"
+      }
+    ],
+    "totals": {
+      "totalDist": 269,
+      "totalUsedPct": 140,
+      "totalUsedKwh": 38.28,
+      "whPerKm": 142.3,
+      "projRange": 249.1
+    },
+    "totalKwhCharged": 41.76,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Visakhapatnam \u2192 Charging location (estimated)",
+      "notes": "Visakhapatnam local"
+    }
+  },
+  {
+    "id": 1771607083709,
+    "timestamp": "2026-02-20T17:04:43.709000",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 84768,
+          "pct": 100,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745092,
+            "lon": 83.322675
+          }
+        },
+        "end": {
+          "odo": 84843,
+          "pct": 70,
+          "location": "IOCL Charging Station Visakhapatnam",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 75,
+          "usedPct": 30,
+          "usedKwh": 8.7,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 84843,
+          "pct": 85,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745092,
+            "lon": 83.322675
+          }
+        },
+        "end": {
+          "odo": 84968,
+          "pct": 35,
+          "location": "Araku Tribal Museum",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 125,
+          "usedPct": 50,
+          "usedKwh": 14.5,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 84968,
+          "pct": 85,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745092,
+            "lon": 83.322675
+          }
+        },
+        "end": {
+          "odo": 85043,
+          "pct": 55,
+          "location": "Mahi Grand Inn",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 75,
+          "usedPct": 30,
+          "usedKwh": 8.7,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 85043,
+          "pct": 85,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745092,
+            "lon": 83.322675
+          }
+        },
+        "end": {
+          "odo": 85165,
+          "pct": 36,
+          "location": "Satya Maheswari Agencies BPCL",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85165,
+          "pct": 85,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745092,
+            "lon": 83.322675
+          }
+        },
+        "end": {
+          "odo": 85250,
+          "pct": 51,
+          "location": "BPCL- Srikakulam Service Station",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 85,
+          "usedPct": 34,
+          "usedKwh": 9.86,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85250,
+          "pct": 100,
+          "location": "Visakhapatnam",
+          "coordinates": {
+            "lat": 17.745092,
+            "lon": 83.322675
+          }
+        },
+        "end": {
+          "odo": 85315,
+          "pct": 74,
+          "location": "JIO BP , VISAKH - 1",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 65,
+          "usedPct": 26,
+          "usedKwh": 7.54,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85149,
+          "pct": 90,
+          "location": "Srikakulam",
+          "coordinates": {
+            "lat": 18.530786,
+            "lon": 84.160217
+          }
+        },
+        "end": {
+          "odo": 85209,
+          "pct": 66,
+          "location": "Mahi Grand Inn",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 60,
+          "usedPct": 24,
+          "usedKwh": 6.96,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85209,
+          "pct": 87,
+          "location": "Srikakulam",
+          "coordinates": {
+            "lat": 18.530786,
+            "lon": 84.160217
+          }
+        },
+        "end": {
+          "odo": 85331,
+          "pct": 38,
+          "location": "Hotel Sheetal",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85283,
+          "pct": 100,
+          "location": "Berhampur",
+          "coordinates": {
+            "lat": 19.315133,
+            "lon": 84.857608
+          }
+        },
+        "end": {
+          "odo": 85362,
+          "pct": 56,
+          "location": "Chilika",
+          "coordinates": {
+            "lat": 19.678331,
+            "lon": 85.171522
+          }
+        },
+        "stats": {
+          "dist": 79,
+          "usedPct": 44,
+          "usedKwh": 12.76,
+          "whPerKm": 161.6,
+          "projRange": 179.5
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85362,
+          "pct": 100,
+          "location": "Chilika",
+          "coordinates": {
+            "lat": 19.678331,
+            "lon": 85.171522
+          }
+        },
+        "end": {
+          "odo": 85454,
+          "pct": 63,
+          "location": "HPCL Daukimba",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 92,
+          "usedPct": 37,
+          "usedKwh": 10.73,
+          "whPerKm": 116.7,
+          "projRange": 248.5
+        }
+      },
+      {
+        "start": {
+          "odo": 85454,
+          "pct": 90,
+          "location": "Chilika",
+          "coordinates": {
+            "lat": 19.678331,
+            "lon": 85.171522
+          }
+        },
+        "end": {
+          "odo": 85571,
+          "pct": 43,
+          "location": "BPCL Kuber Petroleum",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 117,
+          "usedPct": 47,
+          "usedKwh": 13.63,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85495,
+          "pct": 90,
+          "location": "Konark/Puri",
+          "coordinates": {
+            "lat": 19.785536,
+            "lon": 85.785881
+          }
+        },
+        "end": {
+          "odo": 85645,
+          "pct": 30,
+          "location": "BPCL JOY AUTO UTTARA",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 150,
+          "usedPct": 60,
+          "usedKwh": 17.4,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85645,
+          "pct": 100,
+          "location": "Konark/Puri",
+          "coordinates": {
+            "lat": 19.785536,
+            "lon": 85.785881
+          }
+        },
+        "end": {
+          "odo": 85710,
+          "pct": 74,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 65,
+          "usedPct": 26,
+          "usedKwh": 7.54,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85642,
+          "pct": 100,
+          "location": "Puri",
+          "coordinates": {
+            "lat": 19.800978,
+            "lon": 85.806392
+          }
+        },
+        "end": {
+          "odo": 85797,
+          "pct": 38,
+          "location": "Team Jajabara Multi Cuisine Restaurant",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 155,
+          "usedPct": 62,
+          "usedKwh": 17.98,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85745,
+          "pct": 100,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 85842,
+          "pct": 61,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 97,
+          "usedPct": 39,
+          "usedKwh": 11.31,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 85842,
+          "pct": 100,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 86034,
+          "pct": 23,
+          "location": "Statiq Charging Station, Sambalpur",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 192,
+          "usedPct": 77,
+          "usedKwh": 22.33,
+          "whPerKm": 116.3,
+          "projRange": 249.4
+        }
+      },
+      {
+        "start": {
+          "odo": 86034,
+          "pct": 100,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 86156,
+          "pct": 51,
+          "location": "BPCL- Mangal Fuels",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 122,
+          "usedPct": 49,
+          "usedKwh": 14.21,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        }
+      },
+      {
+        "start": {
+          "odo": 86156,
+          "pct": 88,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 86281,
+          "pct": 38,
+          "location": "Wonder Country Club & Resort",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 125,
+          "usedPct": 50,
+          "usedKwh": 14.5,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 86281,
+          "pct": 89,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 86378,
+          "pct": 50,
+          "location": "Surya Function Hall",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 97,
+          "usedPct": 39,
+          "usedKwh": 11.31,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 86378,
+          "pct": 81,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 86535,
+          "pct": 18,
+          "location": "FC - Tata Power - Vinukonda",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 157,
+          "usedPct": 63,
+          "usedKwh": 18.27,
+          "whPerKm": 116.4,
+          "projRange": 249.1
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 86535,
+          "pct": 61,
+          "location": "Bhubaneswar",
+          "coordinates": {
+            "lat": 19.981247,
+            "lon": 85.825103
+          }
+        },
+        "end": {
+          "odo": 86620,
+          "pct": 27,
+          "location": "WBSEDCL Belgharia JIO",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 85,
+          "usedPct": 34,
+          "usedKwh": 9.86,
+          "whPerKm": 116.0,
+          "projRange": 250.0
+        }
+      },
+      {
+        "start": {
+          "odo": 86354,
+          "pct": 60,
+          "location": "Kolkata",
+          "coordinates": {
+            "lat": 22.665372,
+            "lon": 88.399369
+          }
+        },
+        "end": {
+          "odo": 86396,
+          "pct": 43,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 42,
+          "usedPct": 17,
+          "usedKwh": 4.93,
+          "whPerKm": 117.4,
+          "projRange": 247.0
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 86396,
+          "pct": 76,
+          "location": "Kolkata",
+          "coordinates": {
+            "lat": 22.665372,
+            "lon": 88.399369
+          }
+        },
+        "end": {
+          "odo": 86423,
+          "pct": 65,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 27,
+          "usedPct": 11,
+          "usedKwh": 3.19,
+          "whPerKm": 118.2,
+          "projRange": 245.3
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 86406,
+          "pct": 100,
+          "location": "Kolkata",
+          "coordinates": {
+            "lat": 22.658108,
+            "lon": 88.438031
+          }
+        },
+        "end": {
+          "odo": 86503,
+          "pct": 61,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "stats": {
+          "dist": 97,
+          "usedPct": 39,
+          "usedKwh": 11.31,
+          "whPerKm": 116.6,
+          "projRange": 248.7
+        },
+        "hasOverlap": true
+      },
+      {
+        "start": {
+          "odo": 86503,
+          "pct": 100,
+          "location": "Charging location (estimated)",
+          "coordinates": null
+        },
+        "end": {
+          "odo": 86515,
+          "pct": 65,
+          "location": "Kolkata",
+          "coordinates": {
+            "lat": 22.623522,
+            "lon": 88.4509
+          }
+        },
+        "stats": {
+          "dist": 12,
+          "usedPct": 35,
+          "usedKwh": 10.15,
+          "whPerKm": 847.5,
+          "projRange": 34.2
+        },
+        "hasOverlap": true
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 47,
+        "pctAfter": 100,
+        "kwhAdded": 15.37,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "6h 14m",
+        "odo": 84820,
+        "time": "2026-02-20T17:04:43.709000"
+      },
+      {
+        "pctBefore": 70,
+        "pctAfter": 85,
+        "kwhAdded": 4.35,
+        "chargeType": "fast",
+        "location": "IOCL Charging Station Visakhapatnam",
+        "duration": "11m",
+        "odo": 84843,
+        "time": "2026-02-22T11:55:48.805000",
+        "address": "14-1-7, IOCL CHARGING STATION Dwarakanagar, Railway New Colony, Visakhapatnam, Andhra Pradesh 530041, India",
+        "plugshare_id": "1075173",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 35,
+        "pctAfter": 85,
+        "kwhAdded": 14.5,
+        "chargeType": "fast",
+        "location": "Araku Tribal Museum",
+        "duration": "38m",
+        "odo": 84968,
+        "time": "2026-02-22T14:19:48.721000",
+        "address": "G29V+98P, Araku Valley, Andhra Pradesh 531149, India",
+        "plugshare_id": "1053025",
+        "coordinates": {
+          "lat": 18.33,
+          "lon": 82.88
+        }
+      },
+      {
+        "pctBefore": 55,
+        "pctAfter": 85,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "location": "Mahi Grand Inn",
+        "duration": "27m",
+        "odo": 85043,
+        "time": "2026-02-24T10:00:02.963000",
+        "address": "Mahi Grand Inn- NH 16, opp Suguna Foods pvt ltd, Pydibimavaram, AP",
+        "plugshare_id": "919087",
+        "coordinates": {
+          "lat": 18.14,
+          "lon": 83.4
+        }
+      },
+      {
+        "pctBefore": 36,
+        "pctAfter": 85,
+        "kwhAdded": 14.21,
+        "chargeType": "fast",
+        "location": "Satya Maheswari Agencies BPCL",
+        "duration": "38m",
+        "odo": 85165,
+        "time": "2026-02-24T14:44:33.420000",
+        "address": "2GP3+VV, Jaggayyapeta, Andhra Pradesh 535216, India",
+        "plugshare_id": "1290505",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 100,
+        "kwhAdded": 14.21,
+        "chargeType": "fast",
+        "location": "BPCL- Srikakulam Service Station",
+        "duration": "53m",
+        "odo": 85250,
+        "time": "2026-02-24T16:23:33.316000",
+        "address": "8WFP+8X9, NH16, Patrunivalasa Rural, Andhra Pradesh 532401, India",
+        "plugshare_id": "1001308",
+        "coordinates": {
+          "lat": 18.3,
+          "lon": 83.9
+        }
+      },
+      {
+        "pctBefore": 74,
+        "pctAfter": 90,
+        "kwhAdded": 4.64,
+        "chargeType": "fast",
+        "location": "JIO BP , VISAKH - 1",
+        "duration": "12m",
+        "odo": 85315,
+        "time": "2026-02-24T18:00:33.309000",
+        "address": "Reliance Petroleum, RELIANCE PETROLEUM RETAIL OUTLET, NH5, VILLAGE NUTHALAGUNTAPALEM NARASINGAPALLI, POST, KASIMKOTA, Visakhapatnam, Andhra Pradesh 531001",
+        "plugshare_id": "883033",
+        "coordinates": {
+          "lat": 17.69,
+          "lon": 83.22
+        }
+      },
+      {
+        "pctBefore": 66,
+        "pctAfter": 87,
+        "kwhAdded": 6.09,
+        "chargeType": "fast",
+        "location": "Mahi Grand Inn",
+        "duration": "17m",
+        "odo": 85209,
+        "time": "2026-02-24T19:02:33.318000",
+        "address": "Mahi Grand Inn- NH 16, opp Suguna Foods pvt ltd, Pydibimavaram, AP",
+        "plugshare_id": "919087",
+        "coordinates": {
+          "lat": 18.14,
+          "lon": 83.4
+        }
+      },
+      {
+        "pctBefore": 38,
+        "pctAfter": 100,
+        "kwhAdded": 17.98,
+        "chargeType": "fast",
+        "location": "Hotel Sheetal",
+        "duration": "1h 8m",
+        "odo": 85331,
+        "time": "2026-02-25T00:40:55.602000",
+        "address": "MC2W+P93, Berhampur, Odisha 760002, India",
+        "plugshare_id": "779126",
+        "coordinates": {
+          "lat": 19.31,
+          "lon": 84.79
+        }
+      },
+      {
+        "pctBefore": 56,
+        "pctAfter": 60,
+        "kwhAdded": 1.16,
+        "chargeType": "fast",
+        "location": "Zeon Charging | 60kW DC Charger | Hotel New Shankar International | Puri",
+        "duration": "2m",
+        "odo": 85362,
+        "time": "2026-02-25T10:46:54.503000",
+        "address": "RH73+QJ8, Puri, Odisha 752001, India",
+        "plugshare_id": "607423",
+        "coordinates": {
+          "lat": 19.8,
+          "lon": 85.83
+        }
+      },
+      {
+        "pctBefore": 60,
+        "pctAfter": 100,
+        "kwhAdded": 11.6,
+        "chargeType": "fast",
+        "location": "HPCL Shanti Filling Station, Puri",
+        "duration": "41m",
+        "odo": 85362,
+        "time": "2026-02-25T10:51:54.357000",
+        "address": "HPCL Shanti Filling Station Puri",
+        "plugshare_id": "1543277",
+        "coordinates": {
+          "lat": 19.8,
+          "lon": 85.83
+        }
+      },
+      {
+        "pctBefore": 63,
+        "pctAfter": 90,
+        "kwhAdded": 7.83,
+        "chargeType": "fast",
+        "location": "HPCL Daukimba",
+        "duration": "23m",
+        "odo": 85454,
+        "time": "2026-02-25T13:07:14.544000",
+        "address": "VRVF+VR5, Daukimba, Odisha 759125, India",
+        "plugshare_id": "1504999",
+        "coordinates": {
+          "lat": 20.3,
+          "lon": 85.82
+        }
+      },
+      {
+        "pctBefore": 43,
+        "pctAfter": 90,
+        "kwhAdded": 13.63,
+        "chargeType": "fast",
+        "location": "BPCL Kuber Petroleum",
+        "duration": "37m",
+        "odo": 85571,
+        "time": "2026-02-25T18:44:07.624000",
+        "address": "2F4Q+M2H, Katikata - Jaipur Rd, Ratamati, Odisha 752021, India",
+        "plugshare_id": "525405",
+        "coordinates": {
+          "lat": 20.3,
+          "lon": 85.82
+        }
+      },
+      {
+        "pctBefore": 30,
+        "pctAfter": 100,
+        "kwhAdded": 20.3,
+        "chargeType": "fast",
+        "location": "BPCL JOY AUTO UTTARA",
+        "duration": "1h 8m",
+        "odo": 85645,
+        "time": "2026-02-25T23:36:03.675000",
+        "address": "BPCL JOY AUTO UTTARA BPCL VERIFIED JOY AUTO UTTARA",
+        "plugshare_id": "554635",
+        "coordinates": {
+          "lat": 20.46,
+          "lon": 85.88
+        }
+      },
+      {
+        "pctBefore": 74,
+        "pctAfter": 87,
+        "kwhAdded": 3.77,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "1h 31m",
+        "odo": 85710,
+        "time": "2026-02-26T14:38:43.062000"
+      },
+      {
+        "pctBefore": 87,
+        "pctAfter": 100,
+        "kwhAdded": 3.77,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "7h 6m",
+        "odo": 85710,
+        "time": "2026-02-26T16:12:42.581000"
+      },
+      {
+        "pctBefore": 38,
+        "pctAfter": 42,
+        "kwhAdded": 1.16,
+        "chargeType": "fast",
+        "location": "Team Jajabara Multi Cuisine Restaurant",
+        "duration": "4m",
+        "odo": 85797,
+        "time": "2026-02-27T19:03:49.662000",
+        "address": "XRJG+52R, Muninda, Satasankha, Odisha 752014, India",
+        "plugshare_id": "1070186",
+        "coordinates": {
+          "lat": 20.3,
+          "lon": 85.82
+        }
+      },
+      {
+        "pctBefore": 42,
+        "pctAfter": 100,
+        "kwhAdded": 16.82,
+        "chargeType": "fast",
+        "location": "TML Gugnani Motors",
+        "duration": "1h 0m",
+        "odo": 85797,
+        "time": "2026-02-27T19:10:49.669000",
+        "address": "National Highway 16, Pratap Nagari, Urali, Cuttak",
+        "plugshare_id": "305716",
+        "coordinates": {
+          "lat": 20.46,
+          "lon": 85.88
+        }
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 61,
+        "kwhAdded": 0.0,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "2m",
+        "odo": 85842,
+        "time": "2026-02-27T21:54:37.610000"
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 99,
+        "kwhAdded": 11.02,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "7h 30m",
+        "odo": 85842,
+        "time": "2026-02-27T22:33:56.667000"
+      },
+      {
+        "pctBefore": 99,
+        "pctAfter": 100,
+        "kwhAdded": 0.29,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "30m",
+        "odo": 85842,
+        "time": "2026-02-28T06:19:57.514000"
+      },
+      {
+        "pctBefore": 23,
+        "pctAfter": 32,
+        "kwhAdded": 2.61,
+        "chargeType": "fast",
+        "location": "Statiq Charging Station, Sambalpur",
+        "duration": "4m",
+        "odo": 86034,
+        "time": "2026-02-28T15:13:43.878000",
+        "address": "M47Q+WXH, NH 55, Gouri Nagar, Sambalpur, Odisha 768006, India",
+        "plugshare_id": "1444113",
+        "coordinates": {
+          "lat": 21.47,
+          "lon": 83.97
+        }
+      },
+      {
+        "pctBefore": 32,
+        "pctAfter": 100,
+        "kwhAdded": 19.72,
+        "chargeType": "fast",
+        "location": "TATA EV Charging Station",
+        "duration": "1h 12m",
+        "odo": 86034,
+        "time": "2026-02-28T15:20:43.709000",
+        "address": "8FG6+M49, Baripada, Odisha 757001, India",
+        "plugshare_id": "1164221",
+        "coordinates": {
+          "lat": 20.3,
+          "lon": 85.82
+        }
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 88,
+        "kwhAdded": 10.73,
+        "chargeType": "fast",
+        "location": "BPCL- Mangal Fuels",
+        "duration": "30m",
+        "odo": 86156,
+        "time": "2026-02-28T18:21:43.714000",
+        "address": "NH-49, Balasore-Jamshedpur Highway, Odisha 756029, India",
+        "plugshare_id": "1296395",
+        "coordinates": {
+          "lat": 22.8,
+          "lon": 86.18
+        }
+      },
+      {
+        "pctBefore": 38,
+        "pctAfter": 89,
+        "kwhAdded": 14.79,
+        "chargeType": "fast",
+        "location": "Wonder Country Club & Resort",
+        "duration": "43m",
+        "odo": 86281,
+        "time": "2026-02-28T20:35:43.672000",
+        "address": "988Q+XMV, Daimang Chak, West Bengal 721305, India",
+        "plugshare_id": "563515",
+        "coordinates": {
+          "lat": 22.57,
+          "lon": 88.36
+        }
+      },
+      {
+        "pctBefore": 50,
+        "pctAfter": 81,
+        "kwhAdded": 8.99,
+        "chargeType": "fast",
+        "location": "Surya Function Hall",
+        "duration": "24m",
+        "odo": 86378,
+        "time": "2026-02-28T23:13:47.927000",
+        "address": "Surya Function Hall, NH 765 Doranala, Ayinamukkala, Andhra Pradesh",
+        "plugshare_id": "1157800",
+        "coordinates": {
+          "lat": 15.59,
+          "lon": 79.62
+        }
+      },
+      {
+        "pctBefore": 18,
+        "pctAfter": 61,
+        "kwhAdded": 12.47,
+        "chargeType": "fast",
+        "location": "FC - Tata Power - Vinukonda",
+        "duration": "29m",
+        "odo": 86535,
+        "time": "2026-03-01T01:46:47.946000",
+        "address": "S-874/4, Kothapeta, Vinukonda, Andhra Pradesh 522647, India",
+        "plugshare_id": "569335",
+        "coordinates": {
+          "lat": 16.05,
+          "lon": 79.74
+        }
+      },
+      {
+        "pctBefore": 27,
+        "pctAfter": 32,
+        "kwhAdded": 1.45,
+        "chargeType": "fast",
+        "location": "WBSEDCL Belgharia JIO",
+        "duration": "3m",
+        "odo": 86620,
+        "time": "2026-03-02T13:00:40.846000",
+        "address": "2MWM+7VH, Belghoria Expy, Rahara, Agarpara, West Bengal 700098, India",
+        "plugshare_id": "1067949",
+        "coordinates": {
+          "lat": 22.66,
+          "lon": 88.39
+        }
+      },
+      {
+        "pctBefore": 32,
+        "pctAfter": 36,
+        "kwhAdded": 1.16,
+        "chargeType": "fast",
+        "location": "Jio bp Pulse, Kolkata Newtown 1",
+        "duration": "2m",
+        "odo": 86620,
+        "time": "2026-03-02T13:08:40.775000",
+        "address": "DG 22, Street Number 659, New Town, West Bengal, India",
+        "plugshare_id": "1207831",
+        "coordinates": {
+          "lat": 22.58,
+          "lon": 88.47
+        }
+      },
+      {
+        "pctBefore": 36,
+        "pctAfter": 60,
+        "kwhAdded": 6.96,
+        "chargeType": "fast",
+        "location": "Tata Power, NH 44 Anantapur",
+        "duration": "19m",
+        "odo": 86620,
+        "time": "2026-03-02T13:14:40.666000",
+        "address": "MJM8+88C, Tadipatri Rd, Cheruvu katta, Anantapur, Andhra Pradesh 515005, India",
+        "plugshare_id": "472832",
+        "coordinates": {
+          "lat": 14.68,
+          "lon": 77.6
+        }
+      },
+      {
+        "pctBefore": 43,
+        "pctAfter": 76,
+        "kwhAdded": 9.57,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "3h 50m",
+        "odo": 86396,
+        "time": "2026-03-03T14:02:18.828000"
+      },
+      {
+        "pctBefore": 65,
+        "pctAfter": 66,
+        "kwhAdded": 0.29,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "4h 2m",
+        "odo": 86423,
+        "time": "2026-03-03T20:26:59.595000"
+      },
+      {
+        "pctBefore": 66,
+        "pctAfter": 100,
+        "kwhAdded": 9.86,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "4h 11m",
+        "odo": 86423,
+        "time": "2026-03-04T00:30:45.513000"
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 100,
+        "kwhAdded": 11.31,
+        "chargeType": "slow",
+        "location": null,
+        "duration": "4h 32m",
+        "odo": 86503,
+        "time": "2026-03-04T19:43:10.694000"
+      },
+      {
+        "pctBefore": 65,
+        "pctAfter": 80,
+        "kwhAdded": 4.35,
+        "chargeType": "fast",
+        "location": "On Shiv Sai Fuel Station",
+        "duration": "11m",
+        "odo": 86515,
+        "time": "2026-03-06T20:31:39.671000",
+        "address": "Om Shiv Sai Fuel Station, Jamua - D, Deoghar, Jharkhand 814142, India",
+        "plugshare_id": "1611396",
+        "coordinates": {
+          "lat": 24.49,
+          "lon": 86.69
+        }
+      }
+    ],
+    "totals": {
+      "totalDist": 1852,
+      "totalUsedPct": 1021,
+      "totalUsedKwh": 296.09,
+      "whPerKm": 159.9,
+      "projRange": 238.9
+    },
+    "totalKwhCharged": 305.66,
+    "meta": {
+      "weather": "~25\u00b0C avg",
+      "drive": "Visakhapatnam \u2192 Charging location (estimated) \u2192 Srikakulam \u2192 Berhampur \u2192 Chilika ... (+4 more)",
+      "notes": "Visakhapatnam to Kolkata via Puri & Bhubaneswar"
+    }
+  }
+]
