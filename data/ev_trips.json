@@ -4840,14 +4840,16 @@
         "pctAfter": 99,
         "kwhAdded": 2.9,
         "chargeType": "slow",
-        "location": "Kolkata",
+        "location": "FC - Tata - City Centre 2",
         "duration": "1h 21m",
         "odo": null,
         "time": "2026-03-06T18:30:30.637000",
         "coordinates": {
-          "lat": 22.6603,
-          "lon": 88.4377
-        }
+          "lat": 22.6235,
+          "lon": 88.4509
+        },
+        "address": "JFF2+9CV, Street Number 672, Tali Park, AA IID, Newtown, New Town, West Bengal 700161, India",
+        "plugshare_id": "1318138"
       },
       {
         "pctBefore": 32,
@@ -5860,84 +5862,96 @@
         "pctAfter": 49,
         "kwhAdded": 0.29,
         "chargeType": "fast",
-        "location": "Dankuni",
+        "location": "Bharat Petroleum Petrol Pump And Family dhaba",
         "duration": "< 1m",
         "odo": null,
         "time": "2026-03-13T06:13:56.260000",
         "coordinates": {
-          "lat": 23.0428,
-          "lon": 88.5369
-        }
+          "lat": 23.0432,
+          "lon": 88.5366
+        },
+        "address": "2GVP+CPM, Ranaghat - Kalyani Rd, Khorgachhi, Tantgachi, West Bengal 741222, India",
+        "plugshare_id": "973700"
       },
       {
         "pctBefore": 51,
         "pctAfter": 86,
         "kwhAdded": 10.15,
         "chargeType": "fast",
-        "location": "Dankuni",
+        "location": "Bharat Petroleum Petrol Pump And Family dhaba",
         "duration": "28m",
         "odo": null,
         "time": "2026-03-13T06:20:54.325000",
         "coordinates": {
           "lat": 23.0432,
           "lon": 88.5366
-        }
+        },
+        "address": "2GVP+CPM, Ranaghat - Kalyani Rd, Khorgachhi, Tantgachi, West Bengal 741222, India",
+        "plugshare_id": "973700"
       },
       {
         "pctBefore": 55,
         "pctAfter": 71,
         "kwhAdded": 4.64,
         "chargeType": "fast",
-        "location": "Burdwan",
+        "location": "Hotel Nilachal",
         "duration": "13m",
         "odo": null,
         "time": "2026-03-13T07:46:54.327000",
         "coordinates": {
           "lat": 23.4439,
           "lon": 88.4624
-        }
+        },
+        "address": "CFV7+J2V, NH 12, Kanthaliamath, West Bengal 741125, India",
+        "plugshare_id": "543568"
       },
       {
         "pctBefore": 72,
         "pctAfter": 99,
         "kwhAdded": 7.83,
         "chargeType": "fast",
-        "location": "Burdwan",
+        "location": "Hotel Nilachal",
         "duration": "35m",
         "odo": null,
         "time": "2026-03-13T08:05:54.327000",
         "coordinates": {
           "lat": 23.4439,
           "lon": 88.4624
-        }
+        },
+        "address": "CFV7+J2V, NH 12, Kanthaliamath, West Bengal 741125, India",
+        "plugshare_id": "543568"
       },
       {
         "pctBefore": 28,
         "pctAfter": 38,
         "kwhAdded": 2.9,
         "chargeType": "fast",
-        "location": "Burdwan",
+        "location": "HPCL Burdhwan",
         "duration": "8m",
         "odo": null,
         "time": "2026-03-14T08:05:41.642000",
         "coordinates": {
-          "lat": 23.2545,
-          "lon": 87.8576
-        }
+          "lat": 23.2546,
+          "lon": 87.8575
+        },
+        "address": "Bhangakuthi BSNL Tower, Grand Trunk Rd, Indraprostho, Bardhaman, West Bengal 713104, India",
+        "plugshare_id": "1700804"
       },
       {
         "pctBefore": 30,
         "pctAfter": 56,
         "kwhAdded": 7.54,
         "chargeType": "fast",
-        "location": "Burdwan",
+        "location": "HPCL Burdhwan",
         "duration": "21m",
         "odo": null,
         "time": "2026-03-14T17:04:04.719000",
         "coordinates": {
-          "lat": 23.2545,
-          "lon": 87.8576
-        }
+          "lat": 23.2546,
+          "lon": 87.8575
+        },
+        "address": "Bhangakuthi BSNL Tower, Grand Trunk Rd, Indraprostho, Bardhaman, West Bengal 713104, India",
+        "plugshare_id": "1700804"
       },
       {
         "pctBefore": 46,
@@ -5958,70 +5972,80 @@
         "pctAfter": 95,
         "kwhAdded": 7.54,
         "chargeType": "fast",
-        "location": "Burdwan",
+        "location": "HPCL Bardhaman Highway",
         "duration": "22m",
         "odo": null,
         "time": "2026-03-16T06:11:40.535000",
         "coordinates": {
-          "lat": 23.2847,
-          "lon": 87.7875
-        }
+          "lat": 23.285,
+          "lon": 87.7873
+        },
+        "address": "7QPP+3W3, NH 19, Nala, West Bengal 713141, India",
+        "plugshare_id": "1706039"
       },
       {
         "pctBefore": 67,
         "pctAfter": 77,
         "kwhAdded": 2.9,
         "chargeType": "fast",
-        "location": "Durgapur",
+        "location": "Kejriwal Casting-Tata Fc(30kw)",
         "duration": "8m",
         "odo": null,
         "time": "2026-03-16T07:29:40.494000",
         "coordinates": {
           "lat": 23.4988,
-          "lon": 87.3772
-        }
+          "lon": 87.3773
+        },
+        "address": "F9XG+GW3, Gopalpur, Bamunara, West Bengal 713212, India",
+        "plugshare_id": "479872"
       },
       {
         "pctBefore": 79,
         "pctAfter": 89,
         "kwhAdded": 2.9,
         "chargeType": "fast",
-        "location": "Durgapur",
+        "location": "Kejriwal Casting-Tata Fc(30kw)",
         "duration": "11m",
         "odo": null,
         "time": "2026-03-16T07:47:40.508000",
         "coordinates": {
           "lat": 23.4988,
-          "lon": 87.3772
-        }
+          "lon": 87.3773
+        },
+        "address": "F9XG+GW3, Gopalpur, Bamunara, West Bengal 713212, India",
+        "plugshare_id": "479872"
       },
       {
         "pctBefore": 53,
         "pctAfter": 67,
         "kwhAdded": 4.06,
         "chargeType": "slow",
-        "location": "Bankura",
+        "location": "Hotel Laxmi Park",
         "duration": "2h 5m",
         "odo": null,
         "time": "2026-03-16T11:56:53.871000",
         "coordinates": {
           "lat": 23.0702,
-          "lon": 87.3154
-        }
+          "lon": 87.3153
+        },
+        "address": "38C8+35F Balia, 38C8+33Q, Para, Kabiraj Para, Bishnupur, West Bengal 722122, India",
+        "plugshare_id": "1706603"
       },
       {
         "pctBefore": 67,
         "pctAfter": 99,
         "kwhAdded": 9.28,
         "chargeType": "slow",
-        "location": "Bankura",
+        "location": "Hotel Laxmi Park",
         "duration": "4h 52m",
         "odo": null,
         "time": "2026-03-16T14:11:36.616000",
         "coordinates": {
           "lat": 23.0702,
-          "lon": 87.3154
-        }
+          "lon": 87.3153
+        },
+        "address": "38C8+35F Balia, 38C8+33Q, Para, Kabiraj Para, Bishnupur, West Bengal 722122, India",
+        "plugshare_id": "1706603"
       },
       {
         "pctBefore": 6,
@@ -6056,14 +6080,16 @@
         "pctAfter": 89,
         "kwhAdded": 2.32,
         "chargeType": "fast",
-        "location": "Asansol",
+        "location": "BPCL CHARGING STATION",
         "duration": "6m",
         "odo": null,
         "time": "2026-03-18T11:37:20.734000",
         "coordinates": {
-          "lat": 23.8312,
-          "lon": 86.8869
-        }
+          "lat": 23.8314,
+          "lon": 86.887
+        },
+        "address": "eshan fuel &service center",
+        "plugshare_id": "1147553"
       },
       {
         "pctBefore": 35,
@@ -6084,14 +6110,16 @@
         "pctAfter": 84,
         "kwhAdded": 5.51,
         "chargeType": "fast",
-        "location": "Bhagalpur",
+        "location": "HPCL Charger 60KW",
         "duration": "15m",
         "odo": null,
         "time": "2026-03-19T08:10:33.668000",
         "coordinates": {
           "lat": 24.8897,
-          "lon": 86.9317
-        }
+          "lon": 86.9315
+        },
+        "address": "Ground Floor, Shastri Chowk, HPCL Petrol Pump, Banka, Bihar 813102, India",
+        "plugshare_id": "1712347"
       },
       {
         "pctBefore": 39,
@@ -6112,112 +6140,128 @@
         "pctAfter": 85,
         "kwhAdded": 13.05,
         "chargeType": "fast",
-        "location": "Purnea",
+        "location": "BP Purnea",
         "duration": "36m",
         "odo": null,
         "time": "2026-03-19T15:09:24.815000",
         "coordinates": {
-          "lat": 25.7305,
-          "lon": 87.4583
-        }
+          "lat": 25.7304,
+          "lon": 87.4585
+        },
+        "address": "81P, Industrial Area, Maranga, Bihar 854303, India",
+        "plugshare_id": "1408874"
       },
       {
         "pctBefore": 26,
         "pctAfter": 99,
         "kwhAdded": 21.17,
         "chargeType": "fast",
-        "location": "Kishanganj",
+        "location": "Maruti Palace",
         "duration": "2h 9m",
         "odo": null,
         "time": "2026-03-19T19:11:28.593000",
         "coordinates": {
-          "lat": 26.1286,
+          "lat": 26.1287,
           "lon": 87.9988
-        }
+        },
+        "address": "4XHX+JPJ, NH 27, Bhotar, West Bengal 733208, India",
+        "plugshare_id": "465353"
       },
       {
         "pctBefore": 33,
         "pctAfter": 38,
         "kwhAdded": 1.45,
         "chargeType": "fast",
-        "location": "New Jalpaiguri",
+        "location": "IOCL- Kalpataru Service Station",
         "duration": "3m",
         "odo": null,
         "time": "2026-03-19T23:59:33.819000",
         "coordinates": {
-          "lat": 26.6083,
-          "lon": 88.483
-        }
+          "lat": 26.6087,
+          "lon": 88.4825
+        },
+        "address": "Mohanvita, Sitaguri, Jalpaiguri, West Bengal",
+        "plugshare_id": "1614903"
       },
       {
         "pctBefore": 40,
         "pctAfter": 51,
         "kwhAdded": 3.19,
         "chargeType": "fast",
-        "location": "New Jalpaiguri",
+        "location": "IOCL- Kalpataru Service Station",
         "duration": "8m",
         "odo": null,
         "time": "2026-03-20T00:09:33.856000",
         "coordinates": {
-          "lat": 26.6083,
-          "lon": 88.483
-        }
+          "lat": 26.6087,
+          "lon": 88.4825
+        },
+        "address": "Mohanvita, Sitaguri, Jalpaiguri, West Bengal",
+        "plugshare_id": "1614903"
       },
       {
         "pctBefore": 53,
         "pctAfter": 82,
         "kwhAdded": 8.41,
         "chargeType": "fast",
-        "location": "New Jalpaiguri",
+        "location": "IOCL- Kalpataru Service Station",
         "duration": "21m",
         "odo": null,
         "time": "2026-03-20T00:24:33.947000",
         "coordinates": {
-          "lat": 26.6083,
-          "lon": 88.483
-        }
+          "lat": 26.6087,
+          "lon": 88.4825
+        },
+        "address": "Mohanvita, Sitaguri, Jalpaiguri, West Bengal",
+        "plugshare_id": "1614903"
       },
       {
         "pctBefore": 53,
         "pctAfter": 83,
         "kwhAdded": 8.7,
         "chargeType": "fast",
-        "location": "Jalpaiguri",
+        "location": "HP Petrol Pump",
         "duration": "23m",
         "odo": null,
         "time": "2026-03-20T02:45:02.587000",
         "coordinates": {
           "lat": 26.5498,
           "lon": 88.8206
-        }
+        },
+        "address": "Mainaguri Road Indira More Uttar Madhab Danga",
+        "plugshare_id": "1096235"
       },
       {
         "pctBefore": 48,
         "pctAfter": 65,
         "kwhAdded": 4.93,
         "chargeType": "fast",
-        "location": "Alipurduar",
+        "location": "IOCL Madarihat Auto Service Tata Power EV Charging Station",
         "duration": "12m",
         "odo": null,
         "time": "2026-03-20T05:05:02.614000",
         "coordinates": {
-          "lat": 26.6906,
-          "lon": 89.2804
-        }
+          "lat": 26.69,
+          "lon": 89.2778
+        },
+        "address": "M7QH+X3C, Uttar Madarihat, West Bengal 735220, India",
+        "plugshare_id": "604483"
       },
       {
         "pctBefore": 66,
         "pctAfter": 99,
         "kwhAdded": 9.57,
         "chargeType": "fast",
-        "location": "Alipurduar",
+        "location": "IOCL Madarihat Auto Service Tata Power EV Charging Station",
         "duration": "44m",
         "odo": null,
         "time": "2026-03-20T05:59:58.576000",
         "coordinates": {
-          "lat": 26.6901,
-          "lon": 89.2776
-        }
+          "lat": 26.69,
+          "lon": 89.2778
+        },
+        "address": "M7QH+X3C, Uttar Madarihat, West Bengal 735220, India",
+        "plugshare_id": "604483"
       }
     ],
     "route": [
@@ -7086,84 +7130,96 @@
         "pctAfter": 74,
         "kwhAdded": 9.28,
         "chargeType": "fast",
-        "location": "Alipurduar",
+        "location": "IOCL Madarihat Auto Service Tata Power EV Charging Station",
         "duration": "25m",
         "odo": null,
         "time": "2026-03-22T10:21:00.126000",
         "coordinates": {
-          "lat": 26.6906,
-          "lon": 89.2804
-        }
+          "lat": 26.69,
+          "lon": 89.2778
+        },
+        "address": "M7QH+X3C, Uttar Madarihat, West Bengal 735220, India",
+        "plugshare_id": "604483"
       },
       {
         "pctBefore": 75,
         "pctAfter": 99,
         "kwhAdded": 6.96,
         "chargeType": "fast",
-        "location": "Alipurduar",
+        "location": "IOCL Madarihat Auto Service Tata Power EV Charging Station",
         "duration": "35m",
         "odo": null,
         "time": "2026-03-22T11:10:56.526000",
         "coordinates": {
-          "lat": 26.6906,
-          "lon": 89.2804
-        }
+          "lat": 26.69,
+          "lon": 89.2778
+        },
+        "address": "M7QH+X3C, Uttar Madarihat, West Bengal 735220, India",
+        "plugshare_id": "604483"
       },
       {
         "pctBefore": 50,
         "pctAfter": 60,
         "kwhAdded": 2.9,
         "chargeType": "slow",
-        "location": "Phulbari",
+        "location": "IOCL 7.2 KWh",
         "duration": "1h 0m",
         "odo": null,
         "time": "2026-03-22T15:23:29.648000",
         "coordinates": {
           "lat": 26.518,
           "lon": 90.0331
-        }
+        },
+        "address": "Ground Floor, Kachugaon Gardenpur, Gurufela,Anthaibari, Kanupara-I, Assam 783360, India",
+        "plugshare_id": "1721523"
       },
       {
         "pctBefore": 27,
         "pctAfter": 83,
         "kwhAdded": 16.24,
         "chargeType": "fast",
-        "location": "Bongaigaon",
+        "location": "Cygnett Park Meghna-Bongaigaon",
         "duration": "44m",
         "odo": null,
         "time": "2026-03-22T17:44:29.648000",
         "coordinates": {
           "lat": 26.5041,
-          "lon": 90.5522
-        }
+          "lon": 90.5521
+        },
+        "address": "NH27, Chapaguri, Bongaigaon, Assam",
+        "plugshare_id": "586210"
       },
       {
         "pctBefore": 85,
         "pctAfter": 91,
         "kwhAdded": 1.74,
         "chargeType": "fast",
-        "location": "Bongaigaon",
+        "location": "Cygnett Park Meghna-Bongaigaon",
         "duration": "5m",
         "odo": null,
         "time": "2026-03-22T18:34:29.676000",
         "coordinates": {
           "lat": 26.5041,
-          "lon": 90.5522
-        }
+          "lon": 90.5521
+        },
+        "address": "NH27, Chapaguri, Bongaigaon, Assam",
+        "plugshare_id": "586210"
       },
       {
         "pctBefore": 51,
         "pctAfter": 81,
         "kwhAdded": 8.7,
         "chargeType": "fast",
-        "location": "Nalbari",
+        "location": "BPCL- NES PATACHARKUCHI",
         "duration": "23m",
         "odo": null,
         "time": "2026-03-22T20:44:29.661000",
         "coordinates": {
           "lat": 26.5053,
           "lon": 91.2212
-        }
+        },
+        "address": "G64C+4FH, Patacharkuchi, Assam 781326, India",
+        "plugshare_id": "1513676"
       },
       {
         "pctBefore": 19,
@@ -7184,56 +7240,64 @@
         "pctAfter": 40,
         "kwhAdded": 4.06,
         "chargeType": "fast",
-        "location": "Dispur",
+        "location": "Ginger Hotel - Tata Power(30kw)",
         "duration": "10m",
         "odo": null,
         "time": "2026-03-24T06:01:00.441000",
         "coordinates": {
           "lat": 26.1475,
           "lon": 91.8145
-        }
+        },
+        "address": "4RW8+W2H, Near Institute Of Hotel Management, Bormotoria, Guwahati, Assam 781036, India",
+        "plugshare_id": "472094"
       },
       {
         "pctBefore": 41,
         "pctAfter": 42,
         "kwhAdded": 0.29,
         "chargeType": "slow",
-        "location": "Dispur",
+        "location": "Ginger Hotel - Tata Power(30kw)",
         "duration": "7m",
         "odo": null,
         "time": "2026-03-24T06:18:00.341000",
         "coordinates": {
           "lat": 26.1475,
           "lon": 91.8145
-        }
+        },
+        "address": "4RW8+W2H, Near Institute Of Hotel Management, Bormotoria, Guwahati, Assam 781036, India",
+        "plugshare_id": "472094"
       },
       {
         "pctBefore": 41,
         "pctAfter": 42,
         "kwhAdded": 0.29,
         "chargeType": "slow",
-        "location": "Dispur",
+        "location": "Ginger Hotel - Tata Power(30kw)",
         "duration": "4m",
         "odo": null,
         "time": "2026-03-24T06:42:37.700000",
         "coordinates": {
-          "lat": 26.1439,
-          "lon": 91.8176
-        }
+          "lat": 26.1475,
+          "lon": 91.8145
+        },
+        "address": "4RW8+W2H, Near Institute Of Hotel Management, Bormotoria, Guwahati, Assam 781036, India",
+        "plugshare_id": "472094"
       },
       {
         "pctBefore": 38,
         "pctAfter": 76,
         "kwhAdded": 11.02,
         "chargeType": "fast",
-        "location": "Dispur",
+        "location": "Axom Motors - Tata Power (30 kW)",
         "duration": "54m",
         "odo": null,
         "time": "2026-03-24T07:31:44.601000",
         "coordinates": {
-          "lat": 26.1418,
-          "lon": 91.7957
-        }
+          "lat": 26.1411,
+          "lon": 91.7963
+        },
+        "address": "4QRW+GFG, Dispur, Guwahati, Assam 781036, India",
+        "plugshare_id": "559859"
       }
     ],
     "route": [
@@ -8114,28 +8178,32 @@
         "pctAfter": 99,
         "kwhAdded": 17.11,
         "chargeType": "fast",
-        "location": "North Guwahati",
+        "location": "Ginger Hotel - Tata Power(30kw)",
         "duration": "1h 9m",
         "odo": null,
         "time": "2026-03-27T13:22:01.669000",
         "coordinates": {
-          "lat": 26.2023,
-          "lon": 91.7393
-        }
+          "lat": 26.1475,
+          "lon": 91.8145
+        },
+        "address": "4RW8+W2H, Near Institute Of Hotel Management, Bormotoria, Guwahati, Assam 781036, India",
+        "plugshare_id": "472094"
       },
       {
         "pctBefore": 93,
         "pctAfter": 99,
         "kwhAdded": 1.74,
         "chargeType": "fast",
-        "location": "North Guwahati",
+        "location": "Taj Vivanta - Tata Power(30kw)",
         "duration": "14m",
         "odo": null,
         "time": "2026-03-28T08:26:48.445000",
         "coordinates": {
-          "lat": 26.2023,
-          "lon": 91.7393
-        }
+          "lat": 26.1252,
+          "lon": 91.8173
+        },
+        "address": "613, Mahapurush Srimanta Sankardev Path, Khanapara, Guwahati, Assam 781022, India",
+        "plugshare_id": "472096"
       },
       {
         "pctBefore": 22,
@@ -8156,182 +8224,208 @@
         "pctAfter": 91,
         "kwhAdded": 4.35,
         "chargeType": "fast",
-        "location": "Shillong",
+        "location": "Frank Motors",
         "duration": "20m",
         "odo": null,
         "time": "2026-03-29T07:13:44.729000",
         "coordinates": {
-          "lat": 25.5387,
-          "lon": 91.8923
-        }
+          "lat": 25.539,
+          "lon": 91.8922
+        },
+        "address": "H No 85, Laitkor Rngi Road, Shillong, East Khashi Hills, Meghalaya ",
+        "plugshare_id": "587448"
       },
       {
         "pctBefore": 76,
         "pctAfter": 99,
         "kwhAdded": 6.67,
         "chargeType": "fast",
-        "location": "Shillong",
+        "location": "Courtyard By Marriott Shillong - ChargeZone FC (30kW)",
         "duration": "47m",
         "odo": null,
         "time": "2026-03-29T10:14:10.541000",
         "coordinates": {
-          "lat": 25.5773,
-          "lon": 91.8824
-        }
+          "lat": 25.5787,
+          "lon": 91.8836
+        },
+        "address": "Jail Road, Police Bazar, Shillong, Meghalaya 793001",
+        "plugshare_id": "589220"
       },
       {
         "pctBefore": 74,
         "pctAfter": 99,
         "kwhAdded": 7.25,
         "chargeType": "fast",
-        "location": "Dispur",
+        "location": "Ajitaksha TATA",
         "duration": "29m",
         "odo": null,
         "time": "2026-03-30T08:20:34.596000",
         "coordinates": {
-          "lat": 26.1112,
-          "lon": 91.784
-        }
+          "lat": 26.1111,
+          "lon": 91.7843
+        },
+        "address": "4Q6M+CX3, Borsojai, Basistha, Guwahati, Assam 781029, India",
+        "plugshare_id": "1446154"
       },
       {
         "pctBefore": 39,
         "pctAfter": 80,
         "kwhAdded": 11.89,
         "chargeType": "fast",
-        "location": "Nalbari",
+        "location": "BPCL- NES PATACHARKUCHI",
         "duration": "31m",
         "odo": null,
         "time": "2026-03-30T10:40:34.575000",
         "coordinates": {
           "lat": 26.5053,
           "lon": 91.2212
-        }
+        },
+        "address": "G64C+4FH, Patacharkuchi, Assam 781326, India",
+        "plugshare_id": "1513676"
       },
       {
         "pctBefore": 64,
         "pctAfter": 81,
         "kwhAdded": 4.93,
         "chargeType": "fast",
-        "location": "Barpeta",
+        "location": "BPCL TMS Simlaguri",
         "duration": "13m",
         "odo": null,
         "time": "2026-03-30T12:03:34.575000",
         "coordinates": {
-          "lat": 26.4713,
-          "lon": 90.9671
-        }
+          "lat": 26.4711,
+          "lon": 90.9669
+        },
+        "address": "Shop No-1, near Patrol Pump, opp. NH 27, Simlaguri, Gobindapur, Simlaguri, Assam 781316, India",
+        "plugshare_id": "1445509"
       },
       {
         "pctBefore": 54,
         "pctAfter": 86,
         "kwhAdded": 9.28,
         "chargeType": "fast",
-        "location": "Bongaigaon",
+        "location": "Cygnett Park Meghna-Bongaigaon",
         "duration": "26m",
         "odo": null,
         "time": "2026-03-30T13:37:11.370000",
         "coordinates": {
           "lat": 26.5041,
-          "lon": 90.5522
-        }
+          "lon": 90.5521
+        },
+        "address": "NH27, Chapaguri, Bongaigaon, Assam",
+        "plugshare_id": "586210"
       },
       {
         "pctBefore": 87,
         "pctAfter": 99,
         "kwhAdded": 3.48,
         "chargeType": "fast",
-        "location": "Bongaigaon",
+        "location": "Cygnett Park Meghna-Bongaigaon",
         "duration": "24m",
         "odo": null,
         "time": "2026-03-30T14:18:49.638000",
         "coordinates": {
           "lat": 26.5041,
-          "lon": 90.5522
-        }
+          "lon": 90.5521
+        },
+        "address": "NH27, Chapaguri, Bongaigaon, Assam",
+        "plugshare_id": "586210"
       },
       {
         "pctBefore": 73,
         "pctAfter": 99,
         "kwhAdded": 7.54,
         "chargeType": "fast",
-        "location": "Bongaigaon",
+        "location": "Gelephu Parking Lot Near Petrol Pump",
         "duration": "27m",
         "odo": null,
         "time": "2026-03-30T17:22:20.511000",
         "coordinates": {
-          "lat": 26.872,
-          "lon": 90.4829
-        }
+          "lat": 26.8721,
+          "lon": 90.4833
+        },
+        "address": "Plot No: MU 3, Industrial Service Centre, Gelephu, Bhutan",
+        "plugshare_id": "1365419"
       },
       {
         "pctBefore": 83,
         "pctAfter": 99,
         "kwhAdded": 4.64,
         "chargeType": "fast",
-        "location": "Bongaigaon",
+        "location": "Gelephu Parking Lot Near Petrol Pump",
         "duration": "47m",
         "odo": null,
         "time": "2026-04-01T02:27:53.556000",
         "coordinates": {
-          "lat": 26.8727,
-          "lon": 90.4826
-        }
+          "lat": 26.8721,
+          "lon": 90.4833
+        },
+        "address": "Plot No: MU 3, Industrial Service Centre, Gelephu, Bhutan",
+        "plugshare_id": "1365419"
       },
       {
         "pctBefore": 46,
         "pctAfter": 53,
         "kwhAdded": 2.03,
         "chargeType": "slow",
-        "location": "Gossaigaon",
+        "location": "Srirampur COCO-BPCL(30kw)",
         "duration": "58m",
         "odo": null,
         "time": "2026-04-01T08:30:43.669000",
         "coordinates": {
           "lat": 26.4445,
           "lon": 89.9119
-        }
+        },
+        "address": "NH 27, Srirampur, Assam 783361, India",
+        "plugshare_id": "510686"
       },
       {
         "pctBefore": 53,
         "pctAfter": 55,
         "kwhAdded": 0.58,
         "chargeType": "slow",
-        "location": "Gossaigaon",
+        "location": "Srirampur COCO-BPCL(30kw)",
         "duration": "11m",
         "odo": null,
         "time": "2026-04-01T09:42:43.817000",
         "coordinates": {
           "lat": 26.4445,
           "lon": 89.9119
-        }
+        },
+        "address": "NH 27, Srirampur, Assam 783361, India",
+        "plugshare_id": "510686"
       },
       {
         "pctBefore": 33,
         "pctAfter": 82,
         "kwhAdded": 14.21,
         "chargeType": "fast",
-        "location": "Cooch Behar",
+        "location": "BPCL - Laxmi Narayan Fuel Centre - 30kw - 60kw",
         "duration": "39m",
         "odo": null,
         "time": "2026-04-01T11:45:43.653000",
         "coordinates": {
           "lat": 26.3047,
-          "lon": 89.6524
-        }
+          "lon": 89.6527
+        },
+        "address": "Tufanganj NH 27, Tufanganj, West Bengal 736159, India",
+        "plugshare_id": "1751015"
       },
       {
         "pctBefore": 40,
         "pctAfter": 98,
         "kwhAdded": 16.82,
         "chargeType": "fast",
-        "location": "Jalpaiguri",
+        "location": "Hotel Meghnath Palace",
         "duration": "50m",
         "odo": null,
         "time": "2026-04-01T15:11:43.660000",
         "coordinates": {
-          "lat": 26.5873,
-          "lon": 89.0054
-        }
+          "lat": 26.5872,
+          "lon": 89.0056
+        },
+        "address": "H2P4+W64, NH 27, Gobindapally, Dhupguri, West Bengal 735210, India",
+        "plugshare_id": "1489735"
       },
       {
         "pctBefore": 46,
