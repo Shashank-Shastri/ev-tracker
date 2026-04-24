@@ -1,11 +1,7 @@
 {
-  "latitude": 26.71,
-  "longitude": 88.43,
-  "timestamp": "2026-04-04T10:00:00Z",
-  "speed": 0,
-  "soc": 100,
-  "odometer": null,
+  "latitude": 27.04,
+  "longitude": 88.27,
   "status": "parked",
-  "heading": 0,
-  "address": "Siliguri, WB"
+  "soc": 100,
+  "address": "Darjeeling, West Bengal"
 }
