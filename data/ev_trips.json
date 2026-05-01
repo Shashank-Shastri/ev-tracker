@@ -9334,7 +9334,7 @@
     }
   },
   {
-    "id": 1773253800000,
+    "id": 1773252900000,
     "timestamp": "2026-03-12T00:00:00.000Z",
     "unit": "km",
     "legs": [
@@ -9344,16 +9344,16 @@
           "pct": 100
         },
         "end": {
-          "odo": 87957,
-          "pct": 50
+          "odo": 87260,
+          "pct": 14
         },
         "stats": {
-          "dist": 1252,
+          "dist": 555,
           "usedPct": null,
-          "usedKwh": 219.1,
-          "kmPerKwh": 5.71,
-          "projRange": 166,
-          "kwhPer100": 17.5
+          "usedKwh": 107.88,
+          "kmPerKwh": 5.14,
+          "projRange": 149,
+          "kwhPer100": 19.44
         }
       }
     ],
@@ -9483,7 +9483,48 @@
         "duration": 436.0,
         "startTime": "2026-03-17T16:24:16.611",
         "endTime": "2026-03-17T23:40:16.788"
-      },
+      }
+    ],
+    "totals": {
+      "totalDist": 555,
+      "totalUsedPct": null,
+      "totalUsedKwh": 107.88,
+      "kmPerKwh": 5.14,
+      "projRange": 149,
+      "kwhPer100": 19.44
+    },
+    "totalKwhCharged": 107.88,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Siliguri to Shillong & Dawki (Mar 12-17)"
+    }
+  },
+  {
+    "id": 1773771300000,
+    "timestamp": "2026-03-18T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 87260,
+          "pct": 100
+        },
+        "end": {
+          "odo": 87957,
+          "pct": 100
+        },
+        "stats": {
+          "dist": 697,
+          "usedPct": null,
+          "usedKwh": 111.36,
+          "kmPerKwh": 6.26,
+          "projRange": 182,
+          "kwhPer100": 15.98
+        }
+      }
+    ],
+    "charges": [
       {
         "pctBefore": 81,
         "pctAfter": 89,
@@ -9594,18 +9635,18 @@
       }
     ],
     "totals": {
-      "totalDist": 1252,
+      "totalDist": 697,
       "totalUsedPct": null,
-      "totalUsedKwh": 219.1,
-      "kmPerKwh": 5.71,
-      "projRange": 166,
-      "kwhPer100": 17.5
+      "totalUsedKwh": 111.36,
+      "kmPerKwh": 6.26,
+      "projRange": 182,
+      "kwhPer100": 15.98
     },
-    "totalKwhCharged": 219.24,
+    "totalKwhCharged": 111.36,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Siliguri to Shillong & Dawki (Mar 12-20)"
+      "notes": "Shillong to Siliguri Return (Mar 18-20)"
     }
   },
   {
