@@ -10012,16 +10012,16 @@
           "pct": 100
         },
         "end": {
-          "odo": 90078,
+          "odo": 89564,
           "pct": 50
         },
         "stats": {
-          "dist": 696,
+          "dist": 182,
           "usedPct": null,
-          "usedKwh": 154.57,
-          "kmPerKwh": 4.5,
-          "projRange": 130,
-          "kwhPer100": 22.21
+          "usedKwh": 50.46,
+          "kmPerKwh": 3.61,
+          "projRange": 105,
+          "kwhPer100": 27.73
         }
       }
     ],
@@ -10080,6 +10080,56 @@
         "startTime": "2026-04-06T14:01:37.576",
         "endTime": "2026-04-06T16:48:37.549"
       },
+      {
+        "pctBefore": 57,
+        "pctAfter": 99,
+        "kwhAdded": 12.18,
+        "chargeType": "ac_slow",
+        "duration": 359.7,
+        "startTime": "2026-04-07T09:33:58.484",
+        "endTime": "2026-04-07T15:33:39.375"
+      }
+    ],
+    "totals": {
+      "totalDist": 182,
+      "totalUsedPct": null,
+      "totalUsedKwh": 50.46,
+      "kmPerKwh": 3.61,
+      "projRange": 105,
+      "kwhPer100": 27.73
+    },
+    "totalKwhCharged": 50.46,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Siliguri to Darjeeling (Apr 4-7)"
+    }
+  },
+  {
+    "id": 1775499300000,
+    "timestamp": "2026-04-07T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 89564,
+          "pct": 100
+        },
+        "end": {
+          "odo": 90428,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 864,
+          "usedPct": null,
+          "usedKwh": 177.19,
+          "kmPerKwh": 4.88,
+          "projRange": 142,
+          "kwhPer100": 20.51
+        }
+      }
+    ],
+    "charges": [
       {
         "pctBefore": 57,
         "pctAfter": 99,
@@ -10205,48 +10255,7 @@
         "duration": 328.0,
         "startTime": "2026-04-15T15:08:37.3",
         "endTime": "2026-04-15T20:36:37.271"
-      }
-    ],
-    "totals": {
-      "totalDist": 696,
-      "totalUsedPct": null,
-      "totalUsedKwh": 154.57,
-      "kmPerKwh": 4.5,
-      "projRange": 130,
-      "kwhPer100": 22.21
-    },
-    "totalKwhCharged": 154.57,
-    "meta": {
-      "weather": "",
-      "drive": "",
-      "notes": "Darjeeling Hills (Apr 4-15)"
-    }
-  },
-  {
-    "id": 1776276900000,
-    "timestamp": "2026-04-16T00:00:00.000Z",
-    "unit": "km",
-    "legs": [
-      {
-        "start": {
-          "odo": 90078,
-          "pct": 100
-        },
-        "end": {
-          "odo": 90428,
-          "pct": 50
-        },
-        "stats": {
-          "dist": 350,
-          "usedPct": null,
-          "usedKwh": 60.9,
-          "kmPerKwh": 5.75,
-          "projRange": 167,
-          "kwhPer100": 17.4
-        }
-      }
-    ],
-    "charges": [
+      },
       {
         "pctBefore": 85,
         "pctAfter": 86,
@@ -10366,18 +10375,18 @@
       }
     ],
     "totals": {
-      "totalDist": 350,
+      "totalDist": 864,
       "totalUsedPct": null,
-      "totalUsedKwh": 60.9,
-      "kmPerKwh": 5.75,
-      "projRange": 167,
-      "kwhPer100": 17.4
+      "totalUsedKwh": 177.19,
+      "kmPerKwh": 4.88,
+      "projRange": 142,
+      "kwhPer100": 20.51
     },
-    "totalKwhCharged": 60.9,
+    "totalKwhCharged": 177.19,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Gangtok & Darjeeling Surrounds (Apr 16-23)"
+      "notes": "Sikkim Tour (Apr 7-23)"
     }
   }
 ]
