@@ -9344,16 +9344,16 @@
           "pct": 100
         },
         "end": {
-          "odo": 87957,
-          "pct": 100
+          "odo": 87260,
+          "pct": 50
         },
         "stats": {
-          "dist": 1252,
+          "dist": 555,
           "usedPct": null,
-          "usedKwh": 219.24,
-          "kmPerKwh": 5.71,
-          "projRange": 166,
-          "kwhPer100": 17.51
+          "usedKwh": 107.88,
+          "kmPerKwh": 5.14,
+          "projRange": 149,
+          "kwhPer100": 19.44
         }
       }
     ],
@@ -9483,7 +9483,48 @@
         "duration": 436.0,
         "startTime": "2026-03-17T16:24:16.611",
         "endTime": "2026-03-17T23:40:16.788"
-      },
+      }
+    ],
+    "totals": {
+      "totalDist": 555,
+      "totalUsedPct": null,
+      "totalUsedKwh": 107.88,
+      "kmPerKwh": 5.14,
+      "projRange": 149,
+      "kwhPer100": 19.44
+    },
+    "totalKwhCharged": 107.88,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Kolkata Heritage Tour (Mar 12-17)"
+    }
+  },
+  {
+    "id": 1773771300000,
+    "timestamp": "2026-03-18T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 87260,
+          "pct": 100
+        },
+        "end": {
+          "odo": 88055,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 795,
+          "usedPct": null,
+          "usedKwh": 157.18,
+          "kmPerKwh": 5.06,
+          "projRange": 147,
+          "kwhPer100": 19.77
+        }
+      }
+    ],
+    "charges": [
       {
         "pctBefore": 81,
         "pctAfter": 89,
@@ -9591,25 +9632,79 @@
         "duration": 44.0,
         "startTime": "2026-03-20T05:59:58.576",
         "endTime": "2026-03-20T06:43:58.614"
+      },
+      {
+        "pctBefore": 42,
+        "pctAfter": 74,
+        "kwhAdded": 9.28,
+        "chargeType": "fast",
+        "duration": 25.0,
+        "startTime": "2026-03-22T10:21:00.126",
+        "endTime": "2026-03-22T10:46:00.133"
+      },
+      {
+        "pctBefore": 75,
+        "pctAfter": 99,
+        "kwhAdded": 6.96,
+        "chargeType": "fast",
+        "duration": 35.0,
+        "startTime": "2026-03-22T11:10:56.526",
+        "endTime": "2026-03-22T11:45:56.543"
+      },
+      {
+        "pctBefore": 50,
+        "pctAfter": 60,
+        "kwhAdded": 2.9,
+        "chargeType": "ac_slow",
+        "duration": 60.0,
+        "startTime": "2026-03-22T15:23:29.648",
+        "endTime": "2026-03-22T16:23:29.662"
+      },
+      {
+        "pctBefore": 27,
+        "pctAfter": 83,
+        "kwhAdded": 16.24,
+        "chargeType": "fast",
+        "duration": 44.0,
+        "startTime": "2026-03-22T17:44:29.648",
+        "endTime": "2026-03-22T18:28:29.661"
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 91,
+        "kwhAdded": 1.74,
+        "chargeType": "fast",
+        "duration": 6.0,
+        "startTime": "2026-03-22T18:34:29.676",
+        "endTime": "2026-03-22T18:40:29.661"
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 81,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "duration": 23.0,
+        "startTime": "2026-03-22T20:44:29.661",
+        "endTime": "2026-03-22T21:07:29.661"
       }
     ],
     "totals": {
-      "totalDist": 1252,
+      "totalDist": 795,
       "totalUsedPct": null,
-      "totalUsedKwh": 219.24,
-      "kmPerKwh": 5.71,
-      "projRange": 166,
-      "kwhPer100": 17.51
+      "totalUsedKwh": 157.18,
+      "kmPerKwh": 5.06,
+      "projRange": 147,
+      "kwhPer100": 19.77
     },
-    "totalKwhCharged": 219.24,
+    "totalKwhCharged": 157.18,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Kolkata to Shillong & Dawki (Mar 12-20)"
+      "notes": "Deogarh to Phuentsholing (Mar 18-22)"
     }
   },
   {
-    "id": 1774117800000,
+    "id": 1774116900000,
     "timestamp": "2026-03-22T00:00:00.000Z",
     "unit": "km",
     "legs": [
@@ -9625,10 +9720,10 @@
         "stats": {
           "dist": 376,
           "usedPct": null,
-          "usedKwh": 63.17,
-          "kmPerKwh": 5.95,
-          "projRange": 173,
-          "kwhPer100": 16.8
+          "usedKwh": 47.56,
+          "kmPerKwh": 7.91,
+          "projRange": 229,
+          "kwhPer100": 12.65
         }
       }
     ],
@@ -9695,67 +9790,31 @@
         "duration": 8.0,
         "startTime": "2026-03-23T09:44:35.719",
         "endTime": "2026-03-23T09:52:35.609"
-      },
-      {
-        "pctBefore": 26,
-        "pctAfter": 40,
-        "kwhAdded": 4.06,
-        "chargeType": "fast",
-        "duration": 11.0,
-        "startTime": "2026-03-24T06:01:00.441",
-        "endTime": "2026-03-24T06:12:00.367"
-      },
-      {
-        "pctBefore": 41,
-        "pctAfter": 42,
-        "kwhAdded": 0.29,
-        "chargeType": "ac_slow",
-        "duration": 7.0,
-        "startTime": "2026-03-24T06:18:00.341",
-        "endTime": "2026-03-24T06:25:00.341"
-      },
-      {
-        "pctBefore": 41,
-        "pctAfter": 42,
-        "kwhAdded": 0.29,
-        "chargeType": "ac_slow",
-        "duration": 5.0,
-        "startTime": "2026-03-24T06:42:37.7",
-        "endTime": "2026-03-24T06:47:37.677"
-      },
-      {
-        "pctBefore": 38,
-        "pctAfter": 76,
-        "kwhAdded": 11.02,
-        "chargeType": "fast",
-        "duration": 54.0,
-        "startTime": "2026-03-24T07:31:44.601",
-        "endTime": "2026-03-24T08:25:44.71"
       }
     ],
     "totals": {
       "totalDist": 376,
       "totalUsedPct": null,
-      "totalUsedKwh": 63.17,
-      "kmPerKwh": 5.95,
-      "projRange": 173,
-      "kwhPer100": 16.8
+      "totalUsedKwh": 47.56,
+      "kmPerKwh": 7.91,
+      "projRange": 229,
+      "kwhPer100": 12.65
     },
-    "totalKwhCharged": 63.22,
+    "totalKwhCharged": 47.56,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Guwahati to Siliguri Return (Mar 22-24)"
+      "notes": "Phuentsholing to Guwahati (Mar 22-23)"
     }
   },
   {
-    "id": 1774549800000,
+    "id": 1774548900000,
     "timestamp": "2026-03-27T00:00:00.000Z",
     "unit": "km",
     "legs": [
       {
         "start": {
-          "odo": 88488,
+          "odo": 88431,
           "pct": 100
         },
         "end": {
@@ -9763,12 +9822,12 @@
           "pct": 50
         },
         "stats": {
-          "dist": 894,
+          "dist": 951,
           "usedPct": null,
-          "usedKwh": 150.19,
-          "kmPerKwh": 5.95,
-          "projRange": 173,
-          "kwhPer100": 16.8
+          "usedKwh": 150.22,
+          "kmPerKwh": 6.33,
+          "projRange": 184,
+          "kwhPer100": 15.8
         }
       }
     ],
@@ -9928,22 +9987,22 @@
       }
     ],
     "totals": {
-      "totalDist": 894,
+      "totalDist": 951,
       "totalUsedPct": null,
-      "totalUsedKwh": 150.19,
-      "kmPerKwh": 5.95,
-      "projRange": 173,
-      "kwhPer100": 16.8
+      "totalUsedKwh": 150.22,
+      "kmPerKwh": 6.33,
+      "projRange": 184,
+      "kwhPer100": 15.8
     },
     "totalKwhCharged": 150.22,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Siliguri to Darjeeling & Hills (Mar 27 - Apr 2)"
+      "notes": "Guwahati to Siliguri via Gelephu (Mar 27 - Apr 2)"
     }
   },
   {
-    "id": 1775241000000,
+    "id": 1775240100000,
     "timestamp": "2026-04-04T00:00:00.000Z",
     "unit": "km",
     "legs": [
@@ -9959,10 +10018,10 @@
         "stats": {
           "dist": 696,
           "usedPct": null,
-          "usedKwh": 154.51,
+          "usedKwh": 154.57,
           "kmPerKwh": 4.5,
           "projRange": 130,
-          "kwhPer100": 22.2
+          "kwhPer100": 22.21
         }
       }
     ],
@@ -10151,21 +10210,21 @@
     "totals": {
       "totalDist": 696,
       "totalUsedPct": null,
-      "totalUsedKwh": 154.51,
+      "totalUsedKwh": 154.57,
       "kmPerKwh": 4.5,
       "projRange": 130,
-      "kwhPer100": 22.2
+      "kwhPer100": 22.21
     },
     "totalKwhCharged": 154.57,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Darjeeling Hills Living (Apr 4-15)"
+      "notes": "Darjeeling Hills (Apr 4-15)"
     }
   },
   {
-    "id": 1776364200000,
-    "timestamp": "2026-04-17T00:00:00.000Z",
+    "id": 1776276900000,
+    "timestamp": "2026-04-16T00:00:00.000Z",
     "unit": "km",
     "legs": [
       {
@@ -10318,7 +10377,7 @@
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Darjeeling Local & Surrounds (Apr 17-23)"
+      "notes": "Gangtok & Darjeeling Surrounds (Apr 16-23)"
     }
   }
 ]
