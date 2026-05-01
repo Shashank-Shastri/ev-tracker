@@ -5821,1301 +5821,20 @@
       ]
     ],
     "totals": {
-      "totalDist": null,
+      "totalDist": 100,
       "totalUsedPct": 67,
-      "totalUsedKwh": 19.43,
+      "totalUsedKwh": 19.4,
       "kmPerKwh": null,
       "projRange": null,
       "kwhPer100": null,
-      "note": "Distance data unavailable - SOC telemetry only"
+      "note": "Distance data unavailable - SOC telemetry only",
+      "whPerKm": 194
     },
     "totalKwhCharged": 22.33,
     "meta": {
       "weather": "",
       "drive": "",
       "notes": "Kolkata local charging",
-      "dataSource": "soc_telemetry + google_timeline"
-    }
-  },
-  {
-    "id": 1773305661665,
-    "timestamp": "2026-03-12T14:24:21.665000",
-    "unit": "km",
-    "legs": [],
-    "charges": [
-      {
-        "pctBefore": 54,
-        "pctAfter": 89,
-        "kwhAdded": 10.15,
-        "chargeType": "fast",
-        "location": "Kolkata",
-        "duration": "33m",
-        "odo": null,
-        "time": "2026-03-12T14:24:21.665000",
-        "coordinates": {
-          "lat": 22.5881,
-          "lon": 88.4082
-        }
-      },
-      {
-        "pctBefore": 48,
-        "pctAfter": 49,
-        "kwhAdded": 0.29,
-        "chargeType": "fast",
-        "location": "Bharat Petroleum Petrol Pump And Family dhaba",
-        "duration": "< 1m",
-        "odo": null,
-        "time": "2026-03-13T06:13:56.260000",
-        "coordinates": {
-          "lat": 23.0432,
-          "lon": 88.5366
-        },
-        "address": "2GVP+CPM, Ranaghat - Kalyani Rd, Khorgachhi, Tantgachi, West Bengal 741222, India",
-        "plugshare_id": "973700"
-      },
-      {
-        "pctBefore": 51,
-        "pctAfter": 86,
-        "kwhAdded": 10.15,
-        "chargeType": "fast",
-        "location": "Bharat Petroleum Petrol Pump And Family dhaba",
-        "duration": "28m",
-        "odo": null,
-        "time": "2026-03-13T06:20:54.325000",
-        "coordinates": {
-          "lat": 23.0432,
-          "lon": 88.5366
-        },
-        "address": "2GVP+CPM, Ranaghat - Kalyani Rd, Khorgachhi, Tantgachi, West Bengal 741222, India",
-        "plugshare_id": "973700"
-      },
-      {
-        "pctBefore": 55,
-        "pctAfter": 71,
-        "kwhAdded": 4.64,
-        "chargeType": "fast",
-        "location": "Hotel Nilachal",
-        "duration": "13m",
-        "odo": null,
-        "time": "2026-03-13T07:46:54.327000",
-        "coordinates": {
-          "lat": 23.4439,
-          "lon": 88.4624
-        },
-        "address": "CFV7+J2V, NH 12, Kanthaliamath, West Bengal 741125, India",
-        "plugshare_id": "543568"
-      },
-      {
-        "pctBefore": 72,
-        "pctAfter": 99,
-        "kwhAdded": 7.83,
-        "chargeType": "fast",
-        "location": "Hotel Nilachal",
-        "duration": "35m",
-        "odo": null,
-        "time": "2026-03-13T08:05:54.327000",
-        "coordinates": {
-          "lat": 23.4439,
-          "lon": 88.4624
-        },
-        "address": "CFV7+J2V, NH 12, Kanthaliamath, West Bengal 741125, India",
-        "plugshare_id": "543568"
-      },
-      {
-        "pctBefore": 28,
-        "pctAfter": 38,
-        "kwhAdded": 2.9,
-        "chargeType": "fast",
-        "location": "HPCL Burdhwan",
-        "duration": "8m",
-        "odo": null,
-        "time": "2026-03-14T08:05:41.642000",
-        "coordinates": {
-          "lat": 23.2546,
-          "lon": 87.8575
-        },
-        "address": "Bhangakuthi BSNL Tower, Grand Trunk Rd, Indraprostho, Bardhaman, West Bengal 713104, India",
-        "plugshare_id": "1700804"
-      },
-      {
-        "pctBefore": 30,
-        "pctAfter": 56,
-        "kwhAdded": 7.54,
-        "chargeType": "fast",
-        "location": "HPCL Burdhwan",
-        "duration": "21m",
-        "odo": null,
-        "time": "2026-03-14T17:04:04.719000",
-        "coordinates": {
-          "lat": 23.2546,
-          "lon": 87.8575
-        },
-        "address": "Bhangakuthi BSNL Tower, Grand Trunk Rd, Indraprostho, Bardhaman, West Bengal 713104, India",
-        "plugshare_id": "1700804"
-      },
-      {
-        "pctBefore": 46,
-        "pctAfter": 88,
-        "kwhAdded": 12.18,
-        "chargeType": "fast",
-        "location": "Burdwan",
-        "duration": "33m",
-        "odo": null,
-        "time": "2026-03-15T07:56:07.645000",
-        "coordinates": {
-          "lat": 23.2545,
-          "lon": 87.8576
-        }
-      },
-      {
-        "pctBefore": 69,
-        "pctAfter": 95,
-        "kwhAdded": 7.54,
-        "chargeType": "fast",
-        "location": "HPCL Bardhaman Highway",
-        "duration": "22m",
-        "odo": null,
-        "time": "2026-03-16T06:11:40.535000",
-        "coordinates": {
-          "lat": 23.285,
-          "lon": 87.7873
-        },
-        "address": "7QPP+3W3, NH 19, Nala, West Bengal 713141, India",
-        "plugshare_id": "1706039"
-      },
-      {
-        "pctBefore": 67,
-        "pctAfter": 77,
-        "kwhAdded": 2.9,
-        "chargeType": "fast",
-        "location": "Kejriwal Casting-Tata Fc(30kw)",
-        "duration": "8m",
-        "odo": null,
-        "time": "2026-03-16T07:29:40.494000",
-        "coordinates": {
-          "lat": 23.4988,
-          "lon": 87.3773
-        },
-        "address": "F9XG+GW3, Gopalpur, Bamunara, West Bengal 713212, India",
-        "plugshare_id": "479872"
-      },
-      {
-        "pctBefore": 79,
-        "pctAfter": 89,
-        "kwhAdded": 2.9,
-        "chargeType": "fast",
-        "location": "Kejriwal Casting-Tata Fc(30kw)",
-        "duration": "11m",
-        "odo": null,
-        "time": "2026-03-16T07:47:40.508000",
-        "coordinates": {
-          "lat": 23.4988,
-          "lon": 87.3773
-        },
-        "address": "F9XG+GW3, Gopalpur, Bamunara, West Bengal 713212, India",
-        "plugshare_id": "479872"
-      },
-      {
-        "pctBefore": 53,
-        "pctAfter": 67,
-        "kwhAdded": 4.06,
-        "chargeType": "slow",
-        "location": "Hotel Laxmi Park",
-        "duration": "2h 5m",
-        "odo": null,
-        "time": "2026-03-16T11:56:53.871000",
-        "coordinates": {
-          "lat": 23.0702,
-          "lon": 87.3153
-        },
-        "address": "38C8+35F Balia, 38C8+33Q, Para, Kabiraj Para, Bishnupur, West Bengal 722122, India",
-        "plugshare_id": "1706603"
-      },
-      {
-        "pctBefore": 67,
-        "pctAfter": 99,
-        "kwhAdded": 9.28,
-        "chargeType": "slow",
-        "location": "Hotel Laxmi Park",
-        "duration": "4h 52m",
-        "odo": null,
-        "time": "2026-03-16T14:11:36.616000",
-        "coordinates": {
-          "lat": 23.0702,
-          "lon": 87.3153
-        },
-        "address": "38C8+35F Balia, 38C8+33Q, Para, Kabiraj Para, Bishnupur, West Bengal 722122, India",
-        "plugshare_id": "1706603"
-      },
-      {
-        "pctBefore": 6,
-        "pctAfter": 42,
-        "kwhAdded": 10.44,
-        "chargeType": "slow",
-        "location": "Asansol",
-        "duration": "2h 10m",
-        "odo": null,
-        "time": "2026-03-17T13:58:16.790000",
-        "coordinates": {
-          "lat": 23.701,
-          "lon": 86.9526
-        }
-      },
-      {
-        "pctBefore": 42,
-        "pctAfter": 99,
-        "kwhAdded": 16.53,
-        "chargeType": "slow",
-        "location": "Asansol",
-        "duration": "7h 16m",
-        "odo": null,
-        "time": "2026-03-17T16:24:16.611000",
-        "coordinates": {
-          "lat": 23.701,
-          "lon": 86.9526
-        }
-      },
-      {
-        "pctBefore": 81,
-        "pctAfter": 89,
-        "kwhAdded": 2.32,
-        "chargeType": "fast",
-        "location": "BPCL CHARGING STATION",
-        "duration": "6m",
-        "odo": null,
-        "time": "2026-03-18T11:37:20.734000",
-        "coordinates": {
-          "lat": 23.8314,
-          "lon": 86.887
-        },
-        "address": "eshan fuel &service center",
-        "plugshare_id": "1147553"
-      },
-      {
-        "pctBefore": 35,
-        "pctAfter": 99,
-        "kwhAdded": 18.56,
-        "chargeType": "slow",
-        "location": "Deoghar",
-        "duration": "7h 47m",
-        "odo": null,
-        "time": "2026-03-18T16:34:24.592000",
-        "coordinates": {
-          "lat": 24.5035,
-          "lon": 86.7016
-        }
-      },
-      {
-        "pctBefore": 65,
-        "pctAfter": 84,
-        "kwhAdded": 5.51,
-        "chargeType": "fast",
-        "location": "HPCL Charger 60KW",
-        "duration": "15m",
-        "odo": null,
-        "time": "2026-03-19T08:10:33.668000",
-        "coordinates": {
-          "lat": 24.8897,
-          "lon": 86.9315
-        },
-        "address": "Ground Floor, Shastri Chowk, HPCL Petrol Pump, Banka, Bihar 813102, India",
-        "plugshare_id": "1712347"
-      },
-      {
-        "pctBefore": 39,
-        "pctAfter": 89,
-        "kwhAdded": 14.5,
-        "chargeType": "fast",
-        "location": "Bhagalpur",
-        "duration": "39m",
-        "odo": null,
-        "time": "2026-03-19T11:42:24.649000",
-        "coordinates": {
-          "lat": 25.2522,
-          "lon": 87.045
-        }
-      },
-      {
-        "pctBefore": 40,
-        "pctAfter": 85,
-        "kwhAdded": 13.05,
-        "chargeType": "fast",
-        "location": "BP Purnea",
-        "duration": "36m",
-        "odo": null,
-        "time": "2026-03-19T15:09:24.815000",
-        "coordinates": {
-          "lat": 25.7304,
-          "lon": 87.4585
-        },
-        "address": "81P, Industrial Area, Maranga, Bihar 854303, India",
-        "plugshare_id": "1408874"
-      },
-      {
-        "pctBefore": 26,
-        "pctAfter": 99,
-        "kwhAdded": 21.17,
-        "chargeType": "fast",
-        "location": "Maruti Palace",
-        "duration": "2h 9m",
-        "odo": null,
-        "time": "2026-03-19T19:11:28.593000",
-        "coordinates": {
-          "lat": 26.1287,
-          "lon": 87.9988
-        },
-        "address": "4XHX+JPJ, NH 27, Bhotar, West Bengal 733208, India",
-        "plugshare_id": "465353"
-      },
-      {
-        "pctBefore": 33,
-        "pctAfter": 38,
-        "kwhAdded": 1.45,
-        "chargeType": "fast",
-        "location": "IOCL- Kalpataru Service Station",
-        "duration": "3m",
-        "odo": null,
-        "time": "2026-03-19T23:59:33.819000",
-        "coordinates": {
-          "lat": 26.6087,
-          "lon": 88.4825
-        },
-        "address": "Mohanvita, Sitaguri, Jalpaiguri, West Bengal",
-        "plugshare_id": "1614903"
-      },
-      {
-        "pctBefore": 40,
-        "pctAfter": 51,
-        "kwhAdded": 3.19,
-        "chargeType": "fast",
-        "location": "IOCL- Kalpataru Service Station",
-        "duration": "8m",
-        "odo": null,
-        "time": "2026-03-20T00:09:33.856000",
-        "coordinates": {
-          "lat": 26.6087,
-          "lon": 88.4825
-        },
-        "address": "Mohanvita, Sitaguri, Jalpaiguri, West Bengal",
-        "plugshare_id": "1614903"
-      },
-      {
-        "pctBefore": 53,
-        "pctAfter": 82,
-        "kwhAdded": 8.41,
-        "chargeType": "fast",
-        "location": "IOCL- Kalpataru Service Station",
-        "duration": "21m",
-        "odo": null,
-        "time": "2026-03-20T00:24:33.947000",
-        "coordinates": {
-          "lat": 26.6087,
-          "lon": 88.4825
-        },
-        "address": "Mohanvita, Sitaguri, Jalpaiguri, West Bengal",
-        "plugshare_id": "1614903"
-      },
-      {
-        "pctBefore": 53,
-        "pctAfter": 83,
-        "kwhAdded": 8.7,
-        "chargeType": "fast",
-        "location": "HP Petrol Pump",
-        "duration": "23m",
-        "odo": null,
-        "time": "2026-03-20T02:45:02.587000",
-        "coordinates": {
-          "lat": 26.5498,
-          "lon": 88.8206
-        },
-        "address": "Mainaguri Road Indira More Uttar Madhab Danga",
-        "plugshare_id": "1096235"
-      },
-      {
-        "pctBefore": 48,
-        "pctAfter": 65,
-        "kwhAdded": 4.93,
-        "chargeType": "fast",
-        "location": "IOCL Madarihat Auto Service Tata Power EV Charging Station",
-        "duration": "12m",
-        "odo": null,
-        "time": "2026-03-20T05:05:02.614000",
-        "coordinates": {
-          "lat": 26.69,
-          "lon": 89.2778
-        },
-        "address": "M7QH+X3C, Uttar Madarihat, West Bengal 735220, India",
-        "plugshare_id": "604483"
-      },
-      {
-        "pctBefore": 66,
-        "pctAfter": 99,
-        "kwhAdded": 9.57,
-        "chargeType": "fast",
-        "location": "IOCL Madarihat Auto Service Tata Power EV Charging Station",
-        "duration": "44m",
-        "odo": null,
-        "time": "2026-03-20T05:59:58.576000",
-        "coordinates": {
-          "lat": 26.69,
-          "lon": 89.2778
-        },
-        "address": "M7QH+X3C, Uttar Madarihat, West Bengal 735220, India",
-        "plugshare_id": "604483"
-      }
-    ],
-    "route": [
-      [
-        88.4129,
-        22.5996
-      ],
-      [
-        88.4133,
-        22.5989
-      ],
-      [
-        88.4146,
-        22.5919
-      ],
-      [
-        88.4005,
-        22.5705
-      ],
-      [
-        88.363,
-        22.5869
-      ],
-      [
-        88.3573,
-        22.5814
-      ],
-      [
-        88.3639,
-        22.5762
-      ],
-      [
-        88.3698,
-        22.5675
-      ],
-      [
-        88.4192,
-        22.5898
-      ],
-      [
-        88.4127,
-        22.5995
-      ],
-      [
-        88.4078,
-        22.5872
-      ],
-      [
-        88.4142,
-        22.5993
-      ],
-      [
-        88.413,
-        22.5996
-      ],
-      [
-        88.4129,
-        22.5995
-      ],
-      [
-        88.4129,
-        22.5995
-      ],
-      [
-        88.3967,
-        22.5926
-      ],
-      [
-        88.4347,
-        22.6339
-      ],
-      [
-        88.4159,
-        22.6555
-      ],
-      [
-        88.4091,
-        22.8284
-      ],
-      [
-        88.4905,
-        22.9373
-      ],
-      [
-        88.5457,
-        22.9923
-      ],
-      [
-        88.5471,
-        23.0966
-      ],
-      [
-        88.4882,
-        23.2311
-      ],
-      [
-        88.4329,
-        23.275
-      ],
-      [
-        88.4748,
-        23.408
-      ],
-      [
-        88.4178,
-        23.459
-      ],
-      [
-        88.3926,
-        23.4386
-      ],
-      [
-        88.3897,
-        23.4255
-      ],
-      [
-        88.3894,
-        23.4265
-      ],
-      [
-        88.3911,
-        23.4266
-      ],
-      [
-        88.3894,
-        23.4265
-      ],
-      [
-        88.3898,
-        23.4264
-      ],
-      [
-        88.3899,
-        23.426
-      ],
-      [
-        88.3894,
-        23.4265
-      ],
-      [
-        88.3894,
-        23.4265
-      ],
-      [
-        88.405,
-        23.4462
-      ],
-      [
-        88.4744,
-        23.4008
-      ],
-      [
-        88.4056,
-        23.3785
-      ],
-      [
-        88.3461,
-        23.3883
-      ],
-      [
-        88.2513,
-        23.3805
-      ],
-      [
-        88.1856,
-        23.3852
-      ],
-      [
-        88.1301,
-        23.3891
-      ],
-      [
-        88.0878,
-        23.3643
-      ],
-      [
-        88.0428,
-        23.3499
-      ],
-      [
-        87.9712,
-        23.3376
-      ],
-      [
-        87.8836,
-        23.2829
-      ],
-      [
-        87.8677,
-        23.2516
-      ],
-      [
-        87.828,
-        23.2614
-      ],
-      [
-        87.8651,
-        23.2334
-      ],
-      [
-        87.8578,
-        23.2546
-      ],
-      [
-        87.8269,
-        23.2612
-      ],
-      [
-        87.827,
-        23.2612
-      ],
-      [
-        87.827,
-        23.2611
-      ],
-      [
-        87.827,
-        23.2612
-      ],
-      [
-        87.8306,
-        23.2611
-      ],
-      [
-        87.8496,
-        23.2443
-      ],
-      [
-        87.856,
-        23.2392
-      ],
-      [
-        87.8579,
-        23.2376
-      ],
-      [
-        87.8488,
-        23.2433
-      ],
-      [
-        87.8582,
-        23.2545
-      ],
-      [
-        87.8265,
-        23.2609
-      ],
-      [
-        87.832,
-        23.2682
-      ],
-      [
-        87.827,
-        23.2612
-      ],
-      [
-        87.8269,
-        23.2611
-      ],
-      [
-        87.8269,
-        23.2612
-      ],
-      [
-        87.827,
-        23.2612
-      ],
-      [
-        87.827,
-        23.2612
-      ],
-      [
-        87.827,
-        23.2612
-      ],
-      [
-        87.8269,
-        23.2612
-      ],
-      [
-        87.8269,
-        23.2612
-      ],
-      [
-        87.827,
-        23.2611
-      ],
-      [
-        87.8329,
-        23.2527
-      ],
-      [
-        87.8219,
-        23.2349
-      ],
-      [
-        87.8331,
-        23.2538
-      ],
-      [
-        87.6744,
-        23.3479
-      ],
-      [
-        87.483,
-        23.4333
-      ],
-      [
-        87.3696,
-        23.4948
-      ],
-      [
-        87.3678,
-        23.5056
-      ],
-      [
-        87.325,
-        23.497
-      ],
-      [
-        87.29,
-        23.4406
-      ],
-      [
-        87.2231,
-        23.3176
-      ],
-      [
-        87.251,
-        23.3047
-      ],
-      [
-        87.2817,
-        23.2268
-      ],
-      [
-        87.2779,
-        23.2095
-      ],
-      [
-        87.295,
-        23.1963
-      ],
-      [
-        87.3238,
-        23.1572
-      ],
-      [
-        87.3114,
-        23.0989
-      ],
-      [
-        87.3136,
-        23.071
-      ],
-      [
-        87.3154,
-        23.0705
-      ],
-      [
-        87.3153,
-        23.0701
-      ],
-      [
-        87.3154,
-        23.0704
-      ],
-      [
-        87.3153,
-        23.0704
-      ],
-      [
-        87.3153,
-        23.0702
-      ],
-      [
-        87.3153,
-        23.0704
-      ],
-      [
-        87.3154,
-        23.0704
-      ],
-      [
-        87.3155,
-        23.0703
-      ],
-      [
-        87.3255,
-        23.0699
-      ],
-      [
-        87.3226,
-        23.0703
-      ],
-      [
-        87.3235,
-        23.0808
-      ],
-      [
-        87.3251,
-        23.0723
-      ],
-      [
-        87.3153,
-        23.0702
-      ],
-      [
-        87.328,
-        23.0766
-      ],
-      [
-        87.3107,
-        23.0841
-      ],
-      [
-        87.3173,
-        23.1204
-      ],
-      [
-        87.311,
-        23.1806
-      ],
-      [
-        87.2773,
-        23.2091
-      ],
-      [
-        87.2874,
-        23.2268
-      ],
-      [
-        87.2556,
-        23.2958
-      ],
-      [
-        87.2477,
-        23.3636
-      ],
-      [
-        87.3195,
-        23.4878
-      ],
-      [
-        87.3106,
-        23.5271
-      ],
-      [
-        87.0123,
-        23.6754
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9512,
-        23.7005
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9526,
-        23.7011
-      ],
-      [
-        86.9519,
-        23.695
-      ],
-      [
-        86.951,
-        23.6937
-      ],
-      [
-        86.9125,
-        23.7364
-      ],
-      [
-        86.869,
-        23.7866
-      ],
-      [
-        86.8871,
-        23.8314
-      ],
-      [
-        86.8679,
-        23.8734
-      ],
-      [
-        86.8281,
-        23.9351
-      ],
-      [
-        86.8166,
-        23.9592
-      ],
-      [
-        86.8568,
-        23.9902
-      ],
-      [
-        86.8802,
-        24.0437
-      ],
-      [
-        86.9155,
-        24.0621
-      ],
-      [
-        86.9261,
-        24.0851
-      ],
-      [
-        86.9092,
-        24.1393
-      ],
-      [
-        86.8835,
-        24.1881
-      ],
-      [
-        86.867,
-        24.2098
-      ],
-      [
-        86.8402,
-        24.2428
-      ],
-      [
-        86.8382,
-        24.3016
-      ],
-      [
-        86.8087,
-        24.339
-      ],
-      [
-        86.7794,
-        24.3896
-      ],
-      [
-        86.743,
-        24.4296
-      ],
-      [
-        86.7236,
-        24.4763
-      ],
-      [
-        86.7039,
-        24.5076
-      ],
-      [
-        86.7025,
-        24.503
-      ],
-      [
-        86.7001,
-        24.4941
-      ],
-      [
-        86.7013,
-        24.5028
-      ],
-      [
-        86.711,
-        24.5045
-      ],
-      [
-        86.6949,
-        24.5227
-      ],
-      [
-        86.6564,
-        24.5653
-      ],
-      [
-        86.6629,
-        24.6084
-      ],
-      [
-        86.6722,
-        24.6257
-      ],
-      [
-        86.7026,
-        24.698
-      ],
-      [
-        86.7107,
-        24.7293
-      ],
-      [
-        86.7388,
-        24.7397
-      ],
-      [
-        86.8282,
-        24.7638
-      ],
-      [
-        86.856,
-        24.7905
-      ],
-      [
-        86.8769,
-        24.8407
-      ],
-      [
-        86.9242,
-        24.8854
-      ],
-      [
-        86.9227,
-        24.8855
-      ],
-      [
-        86.8948,
-        24.9748
-      ],
-      [
-        86.9016,
-        25.0397
-      ],
-      [
-        86.8554,
-        25.0835
-      ],
-      [
-        86.8289,
-        25.1532
-      ],
-      [
-        86.8395,
-        25.177
-      ],
-      [
-        86.8935,
-        25.2268
-      ],
-      [
-        86.9379,
-        25.2108
-      ],
-      [
-        87.0185,
-        25.2535
-      ],
-      [
-        87.0227,
-        25.2534
-      ],
-      [
-        87.016,
-        25.2637
-      ],
-      [
-        87.0267,
-        25.3078
-      ],
-      [
-        87.0406,
-        25.3282
-      ],
-      [
-        87.0814,
-        25.3652
-      ],
-      [
-        87.2064,
-        25.3974
-      ],
-      [
-        87.2616,
-        25.4566
-      ],
-      [
-        87.3472,
-        25.5494
-      ],
-      [
-        87.4135,
-        25.6731
-      ],
-      [
-        87.4796,
-        25.7805
-      ],
-      [
-        87.5427,
-        25.7927
-      ],
-      [
-        87.6895,
-        25.8486
-      ],
-      [
-        87.8098,
-        25.8488
-      ],
-      [
-        87.8661,
-        26.0188
-      ],
-      [
-        87.9295,
-        26.1079
-      ],
-      [
-        87.9337,
-        26.0884
-      ],
-      [
-        88.0224,
-        26.1418
-      ],
-      [
-        88.1524,
-        26.2327
-      ],
-      [
-        88.2884,
-        26.3396
-      ],
-      [
-        88.2354,
-        26.4638
-      ],
-      [
-        88.2782,
-        26.5716
-      ],
-      [
-        88.3495,
-        26.5865
-      ],
-      [
-        88.4122,
-        26.6568
-      ],
-      [
-        88.4819,
-        26.6086
-      ],
-      [
-        88.597,
-        26.5506
-      ],
-      [
-        88.7071,
-        26.5566
-      ],
-      [
-        88.8177,
-        26.5468
-      ],
-      [
-        88.8685,
-        26.5256
-      ],
-      [
-        88.8402,
-        26.5325
-      ],
-      [
-        88.8121,
-        26.5472
-      ],
-      [
-        88.9129,
-        26.5575
-      ],
-      [
-        89.0096,
-        26.6165
-      ],
-      [
-        89.0656,
-        26.7061
-      ],
-      [
-        89.2106,
-        26.6834
-      ],
-      [
-        89.2311,
-        26.6852
-      ],
-      [
-        89.2786,
-        26.69
-      ],
-      [
-        89.3803,
-        26.8612
-      ],
-      [
-        89.3817,
-        26.8619
-      ],
-      [
-        89.3795,
-        26.8583
-      ],
-      [
-        89.3796,
-        26.8586
-      ],
-      [
-        89.3797,
-        26.8586
-      ]
-    ],
-    "totals": {
-      "totalDist": null,
-      "totalUsedPct": 726,
-      "totalUsedKwh": 210.54,
-      "kmPerKwh": null,
-      "projRange": null,
-      "kwhPer100": null,
-      "note": "Distance data unavailable - SOC telemetry only"
-    },
-    "totalKwhCharged": 220.69,
-    "meta": {
-      "weather": "",
-      "drive": "",
-      "notes": "Kolkata to Alipurduar via Burdwan, Asansol & Deoghar",
       "dataSource": "soc_telemetry + google_timeline"
     }
   },
@@ -8151,13 +6870,14 @@
       ]
     ],
     "totals": {
-      "totalDist": null,
+      "totalDist": 450,
       "totalUsedPct": 189,
-      "totalUsedKwh": 54.81,
+      "totalUsedKwh": 54.8,
       "kmPerKwh": null,
       "projRange": null,
       "kwhPer100": null,
-      "note": "Distance data unavailable - SOC telemetry only"
+      "note": "Distance data unavailable - SOC telemetry only",
+      "whPerKm": 121.8
     },
     "totalKwhCharged": 63.22,
     "meta": {
@@ -9313,20 +8033,1077 @@
       ]
     ],
     "totals": {
-      "totalDist": null,
+      "totalDist": 900,
       "totalUsedPct": 460,
       "totalUsedKwh": 133.4,
       "kmPerKwh": null,
       "projRange": null,
       "kwhPer100": null,
-      "note": "Distance data unavailable - SOC telemetry only"
+      "note": "Distance data unavailable - SOC telemetry only",
+      "whPerKm": 148.2
     },
     "totalKwhCharged": 150.22,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Guwahati to Siliguri via Shillong & Bongaigaon",
+      "notes": "Guwahati to Siliguri via Shillong & Gelephu (Bhutan)",
       "dataSource": "soc_telemetry + google_timeline"
+    }
+  },
+  {
+    "id": 1773252900000,
+    "timestamp": "2026-03-12T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 86705,
+          "pct": 100
+        },
+        "end": {
+          "odo": 87260,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 555,
+          "usedPct": null,
+          "usedKwh": 107.88,
+          "kmPerKwh": 5.14,
+          "projRange": 149,
+          "kwhPer100": 19.44
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 54,
+        "pctAfter": 89,
+        "kwhAdded": 10.15,
+        "chargeType": "fast",
+        "duration": 34.0,
+        "startTime": "2026-03-12T14:24:21.665",
+        "endTime": "2026-03-12T14:58:21.485"
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 86,
+        "kwhAdded": 10.15,
+        "chargeType": "fast",
+        "duration": 28.0,
+        "startTime": "2026-03-13T06:20:54.325",
+        "endTime": "2026-03-13T06:48:56.257"
+      },
+      {
+        "pctBefore": 55,
+        "pctAfter": 71,
+        "kwhAdded": 4.64,
+        "chargeType": "fast",
+        "duration": 13.0,
+        "startTime": "2026-03-13T07:46:54.327",
+        "endTime": "2026-03-13T07:59:56.267"
+      },
+      {
+        "pctBefore": 72,
+        "pctAfter": 99,
+        "kwhAdded": 7.83,
+        "chargeType": "fast",
+        "duration": 35.0,
+        "startTime": "2026-03-13T08:05:54.327",
+        "endTime": "2026-03-13T08:40:56.258"
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 38,
+        "kwhAdded": 2.9,
+        "chargeType": "fast",
+        "duration": 8.0,
+        "startTime": "2026-03-14T08:05:41.642",
+        "endTime": "2026-03-14T08:13:41.69"
+      },
+      {
+        "pctBefore": 30,
+        "pctAfter": 56,
+        "kwhAdded": 7.54,
+        "chargeType": "fast",
+        "duration": 21.0,
+        "startTime": "2026-03-14T17:04:04.719",
+        "endTime": "2026-03-14T17:25:04.74"
+      },
+      {
+        "pctBefore": 46,
+        "pctAfter": 88,
+        "kwhAdded": 12.18,
+        "chargeType": "fast",
+        "duration": 33.0,
+        "startTime": "2026-03-15T07:56:07.645",
+        "endTime": "2026-03-15T08:29:07.715"
+      },
+      {
+        "pctBefore": 69,
+        "pctAfter": 95,
+        "kwhAdded": 7.54,
+        "chargeType": "fast",
+        "duration": 22.0,
+        "startTime": "2026-03-16T06:11:40.535",
+        "endTime": "2026-03-16T06:33:40.683"
+      },
+      {
+        "pctBefore": 67,
+        "pctAfter": 77,
+        "kwhAdded": 2.9,
+        "chargeType": "fast",
+        "duration": 8.0,
+        "startTime": "2026-03-16T07:29:40.494",
+        "endTime": "2026-03-16T07:37:40.528"
+      },
+      {
+        "pctBefore": 79,
+        "pctAfter": 85,
+        "kwhAdded": 1.74,
+        "chargeType": "fast",
+        "duration": 5.0,
+        "startTime": "2026-03-16T07:47:40.508",
+        "endTime": "2026-03-16T07:52:40.542"
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 67,
+        "kwhAdded": 4.06,
+        "chargeType": "ac_slow",
+        "duration": 126.0,
+        "startTime": "2026-03-16T11:56:53.871",
+        "endTime": "2026-03-16T14:02:53.688"
+      },
+      {
+        "pctBefore": 67,
+        "pctAfter": 99,
+        "kwhAdded": 9.28,
+        "chargeType": "ac_slow",
+        "duration": 293.0,
+        "startTime": "2026-03-16T14:11:36.616",
+        "endTime": "2026-03-16T19:04:36.611"
+      },
+      {
+        "pctBefore": 6,
+        "pctAfter": 42,
+        "kwhAdded": 10.44,
+        "chargeType": "ac_slow",
+        "duration": 131.0,
+        "startTime": "2026-03-17T13:58:16.79",
+        "endTime": "2026-03-17T16:09:16.605"
+      },
+      {
+        "pctBefore": 42,
+        "pctAfter": 99,
+        "kwhAdded": 16.53,
+        "chargeType": "ac_slow",
+        "duration": 436.0,
+        "startTime": "2026-03-17T16:24:16.611",
+        "endTime": "2026-03-17T23:40:16.788"
+      }
+    ],
+    "totals": {
+      "totalDist": 555,
+      "totalUsedPct": null,
+      "totalUsedKwh": 107.88,
+      "kmPerKwh": 5.14,
+      "projRange": 149,
+      "kwhPer100": 19.44
+    },
+    "totalKwhCharged": 107.88,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Kolkata Heritage Tour (Mar 12-17)"
+    }
+  },
+  {
+    "id": 1773771300000,
+    "timestamp": "2026-03-18T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 87260,
+          "pct": 100
+        },
+        "end": {
+          "odo": 88055,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 795,
+          "usedPct": null,
+          "usedKwh": 157.18,
+          "kmPerKwh": 5.06,
+          "projRange": 147,
+          "kwhPer100": 19.77
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 81,
+        "pctAfter": 89,
+        "kwhAdded": 2.32,
+        "chargeType": "fast",
+        "duration": 6.0,
+        "startTime": "2026-03-18T11:37:20.734",
+        "endTime": "2026-03-18T11:43:20.865"
+      },
+      {
+        "pctBefore": 35,
+        "pctAfter": 99,
+        "kwhAdded": 18.56,
+        "chargeType": "ac_slow",
+        "duration": 468.0,
+        "startTime": "2026-03-18T16:34:24.592",
+        "endTime": "2026-03-19T00:22:24.572"
+      },
+      {
+        "pctBefore": 65,
+        "pctAfter": 84,
+        "kwhAdded": 5.51,
+        "chargeType": "fast",
+        "duration": 15.0,
+        "startTime": "2026-03-19T08:10:33.668",
+        "endTime": "2026-03-19T08:25:33.673"
+      },
+      {
+        "pctBefore": 39,
+        "pctAfter": 89,
+        "kwhAdded": 14.5,
+        "chargeType": "fast",
+        "duration": 39.0,
+        "startTime": "2026-03-19T11:42:24.649",
+        "endTime": "2026-03-19T12:21:24.661"
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 85,
+        "kwhAdded": 13.05,
+        "chargeType": "fast",
+        "duration": 37.0,
+        "startTime": "2026-03-19T15:09:24.815",
+        "endTime": "2026-03-19T15:46:24.655"
+      },
+      {
+        "pctBefore": 26,
+        "pctAfter": 99,
+        "kwhAdded": 21.17,
+        "chargeType": "fast",
+        "duration": 130.0,
+        "startTime": "2026-03-19T19:11:28.593",
+        "endTime": "2026-03-19T21:21:28.404"
+      },
+      {
+        "pctBefore": 33,
+        "pctAfter": 38,
+        "kwhAdded": 1.45,
+        "chargeType": "fast",
+        "duration": 4.0,
+        "startTime": "2026-03-19T23:59:33.819",
+        "endTime": "2026-03-20T00:03:33.714"
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 51,
+        "kwhAdded": 3.19,
+        "chargeType": "fast",
+        "duration": 9.0,
+        "startTime": "2026-03-20T00:09:33.856",
+        "endTime": "2026-03-20T00:18:33.71"
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 82,
+        "kwhAdded": 8.41,
+        "chargeType": "fast",
+        "duration": 22.0,
+        "startTime": "2026-03-20T00:24:33.947",
+        "endTime": "2026-03-20T00:46:33.724"
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 83,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "duration": 23.0,
+        "startTime": "2026-03-20T02:45:02.587",
+        "endTime": "2026-03-20T03:08:02.602"
+      },
+      {
+        "pctBefore": 48,
+        "pctAfter": 65,
+        "kwhAdded": 4.93,
+        "chargeType": "fast",
+        "duration": 13.0,
+        "startTime": "2026-03-20T05:05:02.614",
+        "endTime": "2026-03-20T05:18:02.609"
+      },
+      {
+        "pctBefore": 66,
+        "pctAfter": 99,
+        "kwhAdded": 9.57,
+        "chargeType": "fast",
+        "duration": 44.0,
+        "startTime": "2026-03-20T05:59:58.576",
+        "endTime": "2026-03-20T06:43:58.614"
+      },
+      {
+        "pctBefore": 42,
+        "pctAfter": 74,
+        "kwhAdded": 9.28,
+        "chargeType": "fast",
+        "duration": 25.0,
+        "startTime": "2026-03-22T10:21:00.126",
+        "endTime": "2026-03-22T10:46:00.133"
+      },
+      {
+        "pctBefore": 75,
+        "pctAfter": 99,
+        "kwhAdded": 6.96,
+        "chargeType": "fast",
+        "duration": 35.0,
+        "startTime": "2026-03-22T11:10:56.526",
+        "endTime": "2026-03-22T11:45:56.543"
+      },
+      {
+        "pctBefore": 50,
+        "pctAfter": 60,
+        "kwhAdded": 2.9,
+        "chargeType": "ac_slow",
+        "duration": 60.0,
+        "startTime": "2026-03-22T15:23:29.648",
+        "endTime": "2026-03-22T16:23:29.662"
+      },
+      {
+        "pctBefore": 27,
+        "pctAfter": 83,
+        "kwhAdded": 16.24,
+        "chargeType": "fast",
+        "duration": 44.0,
+        "startTime": "2026-03-22T17:44:29.648",
+        "endTime": "2026-03-22T18:28:29.661"
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 91,
+        "kwhAdded": 1.74,
+        "chargeType": "fast",
+        "duration": 6.0,
+        "startTime": "2026-03-22T18:34:29.676",
+        "endTime": "2026-03-22T18:40:29.661"
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 81,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "duration": 23.0,
+        "startTime": "2026-03-22T20:44:29.661",
+        "endTime": "2026-03-22T21:07:29.661"
+      }
+    ],
+    "totals": {
+      "totalDist": 795,
+      "totalUsedPct": null,
+      "totalUsedKwh": 157.18,
+      "kmPerKwh": 5.06,
+      "projRange": 147,
+      "kwhPer100": 19.77
+    },
+    "totalKwhCharged": 157.18,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Deogarh to Phuentsholing (Mar 18-22)"
+    }
+  },
+  {
+    "id": 1774116900000,
+    "timestamp": "2026-03-22T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 88055,
+          "pct": 100
+        },
+        "end": {
+          "odo": 88431,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 376,
+          "usedPct": null,
+          "usedKwh": 47.56,
+          "kmPerKwh": 7.91,
+          "projRange": 229,
+          "kwhPer100": 12.65
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 42,
+        "pctAfter": 74,
+        "kwhAdded": 9.28,
+        "chargeType": "fast",
+        "duration": 25.0,
+        "startTime": "2026-03-22T10:21:00.126",
+        "endTime": "2026-03-22T10:46:00.133"
+      },
+      {
+        "pctBefore": 75,
+        "pctAfter": 99,
+        "kwhAdded": 6.96,
+        "chargeType": "fast",
+        "duration": 35.0,
+        "startTime": "2026-03-22T11:10:56.526",
+        "endTime": "2026-03-22T11:45:56.543"
+      },
+      {
+        "pctBefore": 50,
+        "pctAfter": 60,
+        "kwhAdded": 2.9,
+        "chargeType": "ac_slow",
+        "duration": 60.0,
+        "startTime": "2026-03-22T15:23:29.648",
+        "endTime": "2026-03-22T16:23:29.662"
+      },
+      {
+        "pctBefore": 27,
+        "pctAfter": 83,
+        "kwhAdded": 16.24,
+        "chargeType": "fast",
+        "duration": 44.0,
+        "startTime": "2026-03-22T17:44:29.648",
+        "endTime": "2026-03-22T18:28:29.661"
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 91,
+        "kwhAdded": 1.74,
+        "chargeType": "fast",
+        "duration": 6.0,
+        "startTime": "2026-03-22T18:34:29.676",
+        "endTime": "2026-03-22T18:40:29.661"
+      },
+      {
+        "pctBefore": 51,
+        "pctAfter": 81,
+        "kwhAdded": 8.7,
+        "chargeType": "fast",
+        "duration": 23.0,
+        "startTime": "2026-03-22T20:44:29.661",
+        "endTime": "2026-03-22T21:07:29.661"
+      },
+      {
+        "pctBefore": 19,
+        "pctAfter": 25,
+        "kwhAdded": 1.74,
+        "chargeType": "ac_slow",
+        "duration": 8.0,
+        "startTime": "2026-03-23T09:44:35.719",
+        "endTime": "2026-03-23T09:52:35.609"
+      }
+    ],
+    "totals": {
+      "totalDist": 376,
+      "totalUsedPct": null,
+      "totalUsedKwh": 47.56,
+      "kmPerKwh": 7.91,
+      "projRange": 229,
+      "kwhPer100": 12.65
+    },
+    "totalKwhCharged": 47.56,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Phuentsholing to Guwahati (Mar 22-23)"
+    }
+  },
+  {
+    "id": 1774548900000,
+    "timestamp": "2026-03-27T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 88431,
+          "pct": 100
+        },
+        "end": {
+          "odo": 89382,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 951,
+          "usedPct": null,
+          "usedKwh": 150.22,
+          "kmPerKwh": 6.33,
+          "projRange": 184,
+          "kwhPer100": 15.8
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 40,
+        "pctAfter": 99,
+        "kwhAdded": 17.11,
+        "chargeType": "fast",
+        "duration": 69.0,
+        "startTime": "2026-03-27T13:22:01.669",
+        "endTime": "2026-03-27T14:31:01.806"
+      },
+      {
+        "pctBefore": 93,
+        "pctAfter": 99,
+        "kwhAdded": 1.74,
+        "chargeType": "fast",
+        "duration": 15.0,
+        "startTime": "2026-03-28T08:26:48.445",
+        "endTime": "2026-03-28T08:41:48.426"
+      },
+      {
+        "pctBefore": 22,
+        "pctAfter": 99,
+        "kwhAdded": 22.33,
+        "chargeType": "fast",
+        "duration": 77.0,
+        "startTime": "2026-03-28T13:02:22.686",
+        "endTime": "2026-03-28T14:19:22.689"
+      },
+      {
+        "pctBefore": 76,
+        "pctAfter": 91,
+        "kwhAdded": 4.35,
+        "chargeType": "fast",
+        "duration": 20.0,
+        "startTime": "2026-03-29T07:13:44.729",
+        "endTime": "2026-03-29T07:33:44.747"
+      },
+      {
+        "pctBefore": 76,
+        "pctAfter": 99,
+        "kwhAdded": 6.67,
+        "chargeType": "fast",
+        "duration": 48.0,
+        "startTime": "2026-03-29T10:14:10.541",
+        "endTime": "2026-03-29T11:02:10.507"
+      },
+      {
+        "pctBefore": 74,
+        "pctAfter": 99,
+        "kwhAdded": 7.25,
+        "chargeType": "fast",
+        "duration": 29.0,
+        "startTime": "2026-03-30T08:20:34.596",
+        "endTime": "2026-03-30T08:49:34.611"
+      },
+      {
+        "pctBefore": 39,
+        "pctAfter": 80,
+        "kwhAdded": 11.89,
+        "chargeType": "fast",
+        "duration": 32.0,
+        "startTime": "2026-03-30T10:40:34.575",
+        "endTime": "2026-03-30T11:12:34.57"
+      },
+      {
+        "pctBefore": 64,
+        "pctAfter": 81,
+        "kwhAdded": 4.93,
+        "chargeType": "fast",
+        "duration": 13.0,
+        "startTime": "2026-03-30T12:03:34.575",
+        "endTime": "2026-03-30T12:16:34.77"
+      },
+      {
+        "pctBefore": 54,
+        "pctAfter": 86,
+        "kwhAdded": 9.28,
+        "chargeType": "fast",
+        "duration": 27.0,
+        "startTime": "2026-03-30T13:37:11.37",
+        "endTime": "2026-03-30T14:04:11.348"
+      },
+      {
+        "pctBefore": 87,
+        "pctAfter": 99,
+        "kwhAdded": 3.48,
+        "chargeType": "fast",
+        "duration": 24.0,
+        "startTime": "2026-03-30T14:18:49.638",
+        "endTime": "2026-03-30T14:42:49.787"
+      },
+      {
+        "pctBefore": 73,
+        "pctAfter": 99,
+        "kwhAdded": 7.54,
+        "chargeType": "fast",
+        "duration": 28.0,
+        "startTime": "2026-03-30T17:22:20.511",
+        "endTime": "2026-03-30T17:50:20.405"
+      },
+      {
+        "pctBefore": 83,
+        "pctAfter": 99,
+        "kwhAdded": 4.64,
+        "chargeType": "fast",
+        "duration": 47.0,
+        "startTime": "2026-04-01T02:27:53.556",
+        "endTime": "2026-04-01T03:14:53.567"
+      },
+      {
+        "pctBefore": 46,
+        "pctAfter": 53,
+        "kwhAdded": 2.03,
+        "chargeType": "ac_slow",
+        "duration": 59.0,
+        "startTime": "2026-04-01T08:30:43.669",
+        "endTime": "2026-04-01T09:29:43.662"
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 55,
+        "kwhAdded": 0.58,
+        "chargeType": "ac_slow",
+        "duration": 12.0,
+        "startTime": "2026-04-01T09:42:43.817",
+        "endTime": "2026-04-01T09:54:43.648"
+      },
+      {
+        "pctBefore": 33,
+        "pctAfter": 82,
+        "kwhAdded": 14.21,
+        "chargeType": "fast",
+        "duration": 39.0,
+        "startTime": "2026-04-01T11:45:43.653",
+        "endTime": "2026-04-01T12:24:43.674"
+      },
+      {
+        "pctBefore": 40,
+        "pctAfter": 98,
+        "kwhAdded": 16.82,
+        "chargeType": "fast",
+        "duration": 50.0,
+        "startTime": "2026-04-01T15:11:43.66",
+        "endTime": "2026-04-01T16:01:43.675"
+      },
+      {
+        "pctBefore": 46,
+        "pctAfter": 99,
+        "kwhAdded": 15.37,
+        "chargeType": "ac_slow",
+        "duration": 385.0,
+        "startTime": "2026-04-02T06:51:42.715",
+        "endTime": "2026-04-02T13:16:42.729"
+      }
+    ],
+    "totals": {
+      "totalDist": 951,
+      "totalUsedPct": null,
+      "totalUsedKwh": 150.22,
+      "kmPerKwh": 6.33,
+      "projRange": 184,
+      "kwhPer100": 15.8
+    },
+    "totalKwhCharged": 150.22,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Guwahati to Siliguri via Gelephu (Mar 27 - Apr 2)"
+    }
+  },
+  {
+    "id": 1775240100000,
+    "timestamp": "2026-04-04T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 89382,
+          "pct": 100
+        },
+        "end": {
+          "odo": 89564,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 182,
+          "usedPct": null,
+          "usedKwh": 50.46,
+          "kmPerKwh": 3.61,
+          "projRange": 105,
+          "kwhPer100": 27.73
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 62,
+        "pctAfter": 72,
+        "kwhAdded": 2.9,
+        "chargeType": "ac_slow",
+        "duration": 66.0,
+        "startTime": "2026-04-04T08:14:23.488",
+        "endTime": "2026-04-04T09:20:23.469"
+      },
+      {
+        "pctBefore": 29,
+        "pctAfter": 31,
+        "kwhAdded": 0.58,
+        "chargeType": "ac_slow",
+        "duration": 4.0,
+        "startTime": "2026-04-04T13:13:46.589",
+        "endTime": "2026-04-04T13:17:46.578"
+      },
+      {
+        "pctBefore": 34,
+        "pctAfter": 99,
+        "kwhAdded": 18.85,
+        "chargeType": "ac_slow",
+        "duration": 488.0,
+        "startTime": "2026-04-04T13:34:39.544",
+        "endTime": "2026-04-04T21:42:39.549"
+      },
+      {
+        "pctBefore": 74,
+        "pctAfter": 99,
+        "kwhAdded": 7.25,
+        "chargeType": "ac_slow",
+        "duration": 177.0,
+        "startTime": "2026-04-05T16:39:52.64",
+        "endTime": "2026-04-05T19:36:52.788"
+      },
+      {
+        "pctBefore": 69,
+        "pctAfter": 75,
+        "kwhAdded": 1.74,
+        "chargeType": "ac_slow",
+        "duration": 42.0,
+        "startTime": "2026-04-06T12:56:53.509",
+        "endTime": "2026-04-06T13:38:53.512"
+      },
+      {
+        "pctBefore": 75,
+        "pctAfter": 99,
+        "kwhAdded": 6.96,
+        "chargeType": "ac_slow",
+        "duration": 167.0,
+        "startTime": "2026-04-06T14:01:37.576",
+        "endTime": "2026-04-06T16:48:37.549"
+      },
+      {
+        "pctBefore": 57,
+        "pctAfter": 99,
+        "kwhAdded": 12.18,
+        "chargeType": "ac_slow",
+        "duration": 359.7,
+        "startTime": "2026-04-07T09:33:58.484",
+        "endTime": "2026-04-07T15:33:39.375"
+      }
+    ],
+    "totals": {
+      "totalDist": 182,
+      "totalUsedPct": null,
+      "totalUsedKwh": 50.46,
+      "kmPerKwh": 3.61,
+      "projRange": 105,
+      "kwhPer100": 27.73
+    },
+    "totalKwhCharged": 50.46,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Siliguri to Darjeeling (Apr 4-7)"
+    }
+  },
+  {
+    "id": 1775499300000,
+    "timestamp": "2026-04-07T00:00:00.000Z",
+    "unit": "km",
+    "legs": [
+      {
+        "start": {
+          "odo": 89564,
+          "pct": 100
+        },
+        "end": {
+          "odo": 90428,
+          "pct": 50
+        },
+        "stats": {
+          "dist": 864,
+          "usedPct": null,
+          "usedKwh": 177.19,
+          "kmPerKwh": 4.88,
+          "projRange": 142,
+          "kwhPer100": 20.51
+        }
+      }
+    ],
+    "charges": [
+      {
+        "pctBefore": 57,
+        "pctAfter": 99,
+        "kwhAdded": 12.18,
+        "chargeType": "ac_slow",
+        "duration": 359.7,
+        "startTime": "2026-04-07T09:33:58.484",
+        "endTime": "2026-04-07T15:33:39.375"
+      },
+      {
+        "pctBefore": 46,
+        "pctAfter": 99,
+        "kwhAdded": 15.37,
+        "chargeType": "ac_slow",
+        "duration": 348.0,
+        "startTime": "2026-04-09T13:05:26.569",
+        "endTime": "2026-04-09T18:53:27.082"
+      },
+      {
+        "pctBefore": 47,
+        "pctAfter": 52,
+        "kwhAdded": 1.45,
+        "chargeType": "ac_slow",
+        "duration": 38.0,
+        "startTime": "2026-04-10T12:50:57.653",
+        "endTime": "2026-04-10T13:28:57.649"
+      },
+      {
+        "pctBefore": 52,
+        "pctAfter": 55,
+        "kwhAdded": 0.87,
+        "chargeType": "ac_slow",
+        "duration": 25.0,
+        "startTime": "2026-04-10T14:31:54.693",
+        "endTime": "2026-04-10T14:56:54.706"
+      },
+      {
+        "pctBefore": 55,
+        "pctAfter": 76,
+        "kwhAdded": 6.09,
+        "chargeType": "ac_slow",
+        "duration": 135.0,
+        "startTime": "2026-04-10T18:01:22.663",
+        "endTime": "2026-04-10T20:16:22.661"
+      },
+      {
+        "pctBefore": 76,
+        "pctAfter": 79,
+        "kwhAdded": 0.87,
+        "chargeType": "ac_slow",
+        "duration": 17.0,
+        "startTime": "2026-04-11T00:33:27.649",
+        "endTime": "2026-04-11T00:50:27.658"
+      },
+      {
+        "pctBefore": 79,
+        "pctAfter": 99,
+        "kwhAdded": 5.8,
+        "chargeType": "ac_slow",
+        "duration": 220.0,
+        "startTime": "2026-04-11T01:18:32.668",
+        "endTime": "2026-04-11T04:58:32.659"
+      },
+      {
+        "pctBefore": 36,
+        "pctAfter": 99,
+        "kwhAdded": 18.27,
+        "chargeType": "ac_slow",
+        "duration": 452.0,
+        "startTime": "2026-04-11T15:26:13.677",
+        "endTime": "2026-04-11T22:58:13.506"
+      },
+      {
+        "pctBefore": 37,
+        "pctAfter": 60,
+        "kwhAdded": 6.67,
+        "chargeType": "ac_slow",
+        "duration": 128.0,
+        "startTime": "2026-04-12T13:17:10.717",
+        "endTime": "2026-04-12T15:25:10.734"
+      },
+      {
+        "pctBefore": 61,
+        "pctAfter": 85,
+        "kwhAdded": 6.96,
+        "chargeType": "ac_slow",
+        "duration": 159.0,
+        "startTime": "2026-04-12T16:27:11.676",
+        "endTime": "2026-04-12T19:06:11.786"
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 90,
+        "kwhAdded": 1.45,
+        "chargeType": "ac_slow",
+        "duration": 41.0,
+        "startTime": "2026-04-13T01:54:43.438",
+        "endTime": "2026-04-13T02:35:43.457"
+      },
+      {
+        "pctBefore": 26,
+        "pctAfter": 48,
+        "kwhAdded": 6.38,
+        "chargeType": "ac_slow",
+        "duration": 127.0,
+        "startTime": "2026-04-13T13:05:19.489",
+        "endTime": "2026-04-13T15:12:19.467"
+      },
+      {
+        "pctBefore": 34,
+        "pctAfter": 99,
+        "kwhAdded": 18.85,
+        "chargeType": "ac_slow",
+        "duration": 436.0,
+        "startTime": "2026-04-14T13:50:23.912",
+        "endTime": "2026-04-14T21:06:24.045"
+      },
+      {
+        "pctBefore": 47,
+        "pctAfter": 99,
+        "kwhAdded": 15.08,
+        "chargeType": "ac_slow",
+        "duration": 328.0,
+        "startTime": "2026-04-15T15:08:37.3",
+        "endTime": "2026-04-15T20:36:37.271"
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 86,
+        "kwhAdded": 0.29,
+        "chargeType": "ac_slow",
+        "duration": 6.0,
+        "startTime": "2026-04-17T14:36:17.664",
+        "endTime": "2026-04-17T14:42:17.624"
+      },
+      {
+        "pctBefore": 85,
+        "pctAfter": 99,
+        "kwhAdded": 4.06,
+        "chargeType": "ac_slow",
+        "duration": 96.0,
+        "startTime": "2026-04-17T14:58:48.92",
+        "endTime": "2026-04-17T16:34:48.909"
+      },
+      {
+        "pctBefore": 13,
+        "pctAfter": 15,
+        "kwhAdded": 0.58,
+        "chargeType": "ac_slow",
+        "duration": 3.0,
+        "startTime": "2026-04-18T11:27:50.116",
+        "endTime": "2026-04-18T11:30:49.644"
+      },
+      {
+        "pctBefore": 15,
+        "pctAfter": 28,
+        "kwhAdded": 3.77,
+        "chargeType": "ac_slow",
+        "duration": 23.0,
+        "startTime": "2026-04-18T11:41:49.646",
+        "endTime": "2026-04-18T12:04:49.655"
+      },
+      {
+        "pctBefore": 28,
+        "pctAfter": 99,
+        "kwhAdded": 20.59,
+        "chargeType": "ac_slow",
+        "duration": 501.0,
+        "startTime": "2026-04-18T12:35:14.536",
+        "endTime": "2026-04-18T20:56:14.724"
+      },
+      {
+        "pctBefore": 52,
+        "pctAfter": 57,
+        "kwhAdded": 1.45,
+        "chargeType": "fast",
+        "duration": 4.0,
+        "startTime": "2026-04-19T12:39:46.572",
+        "endTime": "2026-04-19T12:43:46.588"
+      },
+      {
+        "pctBefore": 43,
+        "pctAfter": 99,
+        "kwhAdded": 16.24,
+        "chargeType": "ac_slow",
+        "duration": 397.0,
+        "startTime": "2026-04-20T13:30:51.629",
+        "endTime": "2026-04-20T20:07:51.614"
+      },
+      {
+        "pctBefore": 56,
+        "pctAfter": 60,
+        "kwhAdded": 1.16,
+        "chargeType": "fast",
+        "duration": 4.0,
+        "startTime": "2026-04-22T09:34:24.593",
+        "endTime": "2026-04-22T09:38:24.753"
+      },
+      {
+        "pctBefore": 53,
+        "pctAfter": 71,
+        "kwhAdded": 5.22,
+        "chargeType": "ac_slow",
+        "duration": 115.0,
+        "startTime": "2026-04-22T11:03:55.668",
+        "endTime": "2026-04-22T12:58:55.645"
+      },
+      {
+        "pctBefore": 71,
+        "pctAfter": 77,
+        "kwhAdded": 1.74,
+        "chargeType": "ac_slow",
+        "duration": 47.0,
+        "startTime": "2026-04-22T13:29:48.614",
+        "endTime": "2026-04-22T14:16:48.621"
+      },
+      {
+        "pctBefore": 78,
+        "pctAfter": 86,
+        "kwhAdded": 2.32,
+        "chargeType": "ac_slow",
+        "duration": 53.0,
+        "startTime": "2026-04-22T15:05:16.707",
+        "endTime": "2026-04-22T15:58:16.709"
+      },
+      {
+        "pctBefore": 86,
+        "pctAfter": 90,
+        "kwhAdded": 1.16,
+        "chargeType": "ac_slow",
+        "duration": 32.0,
+        "startTime": "2026-04-22T16:07:23",
+        "endTime": "2026-04-22T16:39:23.669"
+      },
+      {
+        "pctBefore": 91,
+        "pctAfter": 99,
+        "kwhAdded": 2.32,
+        "chargeType": "ac_slow",
+        "duration": 84.0,
+        "startTime": "2026-04-23T01:50:48.614",
+        "endTime": "2026-04-23T03:14:48.617"
+      }
+    ],
+    "totals": {
+      "totalDist": 864,
+      "totalUsedPct": null,
+      "totalUsedKwh": 177.19,
+      "kmPerKwh": 4.88,
+      "projRange": 142,
+      "kwhPer100": 20.51
+    },
+    "totalKwhCharged": 177.19,
+    "meta": {
+      "weather": "",
+      "drive": "",
+      "notes": "Sikkim Tour (Apr 7-23)"
     }
   }
 ]
