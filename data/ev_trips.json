@@ -9344,16 +9344,16 @@
           "pct": 100
         },
         "end": {
-          "odo": 87260,
-          "pct": 14
+          "odo": 87957,
+          "pct": 100
         },
         "stats": {
-          "dist": 555,
+          "dist": 1252,
           "usedPct": null,
-          "usedKwh": 107.88,
-          "kmPerKwh": 5.14,
-          "projRange": 149,
-          "kwhPer100": 19.44
+          "usedKwh": 219.24,
+          "kmPerKwh": 5.71,
+          "projRange": 166,
+          "kwhPer100": 17.51
         }
       }
     ],
@@ -9483,48 +9483,7 @@
         "duration": 436.0,
         "startTime": "2026-03-17T16:24:16.611",
         "endTime": "2026-03-17T23:40:16.788"
-      }
-    ],
-    "totals": {
-      "totalDist": 555,
-      "totalUsedPct": null,
-      "totalUsedKwh": 107.88,
-      "kmPerKwh": 5.14,
-      "projRange": 149,
-      "kwhPer100": 19.44
-    },
-    "totalKwhCharged": 107.88,
-    "meta": {
-      "weather": "",
-      "drive": "",
-      "notes": "Siliguri to Shillong & Dawki (Mar 12-17)"
-    }
-  },
-  {
-    "id": 1773771300000,
-    "timestamp": "2026-03-18T00:00:00.000Z",
-    "unit": "km",
-    "legs": [
-      {
-        "start": {
-          "odo": 87260,
-          "pct": 100
-        },
-        "end": {
-          "odo": 87957,
-          "pct": 100
-        },
-        "stats": {
-          "dist": 697,
-          "usedPct": null,
-          "usedKwh": 111.36,
-          "kmPerKwh": 6.26,
-          "projRange": 182,
-          "kwhPer100": 15.98
-        }
-      }
-    ],
-    "charges": [
+      },
       {
         "pctBefore": 81,
         "pctAfter": 89,
@@ -9635,18 +9594,18 @@
       }
     ],
     "totals": {
-      "totalDist": 697,
+      "totalDist": 1252,
       "totalUsedPct": null,
-      "totalUsedKwh": 111.36,
-      "kmPerKwh": 6.26,
-      "projRange": 182,
-      "kwhPer100": 15.98
+      "totalUsedKwh": 219.24,
+      "kmPerKwh": 5.71,
+      "projRange": 166,
+      "kwhPer100": 17.51
     },
-    "totalKwhCharged": 111.36,
+    "totalKwhCharged": 219.24,
     "meta": {
       "weather": "",
       "drive": "",
-      "notes": "Shillong to Siliguri Return (Mar 18-20)"
+      "notes": "Kolkata to Shillong & Dawki (Mar 12-20)"
     }
   },
   {
